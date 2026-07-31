@@ -4,7 +4,9 @@ name: Sync systems list with ES-DE
 # refreshed rather than watched.
 on:
   schedule:
-    - cron: "0 6 * * 1"
+    # Six-hourly. It commits only when the list actually changes, so a quiet week
+    # leaves no trace either way.
+    - cron: "23 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -50,9 +52,17 @@ jobs:
 
       # Same reason as the folders repo: GitHub switches off schedules in a repository
       # that has seen no activity for sixty days, and this one is quiet by design.
+      # GitHub switches off schedules in a repository with no activity for sixty days,
+      # and both jobs here are silent by design. One dated line a week is enough to
+      # prove the repository is alive; doing it on every quiet run would be a hundred
+      # and sixty-eight commits a week saying nothing happened.
       - name: Keep the schedule alive
         if: steps.fetch.outputs.changed != 'true' && github.event_name == 'schedule'
         run: |
+          if [ -f .github/last-checked ] &&              [ "$(find .github/last-checked -mtime -7 | wc -l)" -gt 0 ]; then
+            echo "Checked within the last week, nothing to record."
+            exit 0
+          fi
           date -u +"Last checked against ES-DE: %Y-%m-%d %H:%M UTC" > .github/last-checked
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

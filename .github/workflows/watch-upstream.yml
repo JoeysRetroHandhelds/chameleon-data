@@ -5,7 +5,10 @@ name: Watch Daijisho for changes
 # emulator changed its package or activity name, and that fix is worth having.
 on:
   schedule:
-    - cron: "0 7 * * 1"
+    # Hourly. The run is a single small fetch and a comparison, and it produces
+    # nothing at all unless upstream moved, so frequency costs nothing but catches a
+    # broken emulator launch the day it is fixed rather than the following Monday.
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
