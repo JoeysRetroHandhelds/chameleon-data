@@ -50,7 +50,7 @@ packs regardless of how far they diverge from here.
 
 Upstream is watched rather than followed: an hourly job compares their revision numbers
 against the ones recorded in `upstream.json`. When nothing has moved it does nothing at
-all — no commit, no run output worth reading. When something has, it opens an issue
+all: no commit, and no run output worth reading. When something has, it opens an issue
 listing what they changed, and edits that same issue thereafter so it always shows the
 current difference. Nothing here is overwritten. When a fix is worth copying, copy it and update
 that platform revision in `upstream.json` so it stops being reported.
