@@ -4651,6 +4651,16 @@
     },
     {
      "acceptedFilenameRegex": "^(.*)\\.(?:bin|n64|ndd|u1|v64|z64|zip|7z)$",
+     "amStartArguments": "-n org.mupen64plusae.v3.alpha.debug/paulscode.android.mupen64plusae.SplashActivity\n -a android.intent.action.VIEW\n -d {file.uri}",
+     "description": "Supported extensions: bin, n64, ndd, u1, v64, z64, zip, 7z.",
+     "extra": "",
+     "killPackageProcesses": false,
+     "killPackageProcessesWarning": true,
+     "name": "n64 - org.mupen64plusae.v3.alpha.debug",
+     "uniqueId": "n64.org.mupen64plusae.v3.alpha.debug"
+    },
+    {
+     "acceptedFilenameRegex": "^(.*)\\.(?:bin|n64|ndd|u1|v64|z64|zip|7z)$",
      "amStartArguments": "-n org.mupen64plusae.v3.fzurita.pro/paulscode.android.mupen64plusae.SplashActivity\n -a android.intent.action.VIEW\n -d {file.uri}",
      "description": "Supported extensions: bin, n64, ndd, u1, v64, z64, zip, 7z.",
      "extra": "",
@@ -4760,7 +4770,7 @@
      "uniqueId": "n64.ra.parallel_n64"
     }
    ],
-   "revisionNumber": 16
+   "revisionNumber": 17
   },
   "NintendoDS.json": {
    "databaseVersion": 14,
@@ -12508,7 +12518,7 @@
   "NeoGeoPocketColor.json": 8,
   "Ngage.json": 5,
   "Nintendo3DS.json": 21,
-  "Nintendo64.json": 16,
+  "Nintendo64.json": 17,
   "NintendoDS.json": 15,
   "NintendoDSi.json": 14,
   "NintendoEntertainmentSystem.json": 12,
