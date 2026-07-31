@@ -1,0 +1,82 @@
+name: Watch Daijisho for changes
+
+# The packs were seeded from Daijisho and are ours now, so nothing here overwrites
+# them. This only reports: when they revise a platform, it is usually because an
+# emulator changed its package or activity name, and that fix is worth having.
+on:
+  schedule:
+    - cron: "0 7 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compare revisions
+        id: check
+        run: |
+          curl -sSfL \
+            "https://raw.githubusercontent.com/TapiocaFox/Daijishou/main/platforms/index.json" \
+            -o upstream-index.json
+
+          python3 - <<'PY'
+          import json, os
+
+          upstream = json.load(open('upstream-index.json'))
+          ours = json.load(open('upstream.json'))['platforms']['revisionsAtSeed']
+
+          theirs = {p['filename']: p.get('revisionNumber') for p in upstream['platformList']}
+
+          changed = [f"{n}: {ours[n]} -> {r}" for n, r in theirs.items()
+                     if n in ours and r != ours[n]]
+          added = [n for n in theirs if n not in ours]
+          gone = [n for n in ours if n not in theirs]
+
+          lines = []
+          if changed:
+              lines += ["### Revised upstream", ""] + [f"- {c}" for c in changed] + [""]
+          if added:
+              lines += ["### New upstream", ""] + [f"- {n}" for n in added] + [""]
+          if gone:
+              lines += ["### Removed upstream", ""] + [f"- {n}" for n in gone] + [""]
+
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as out:
+              out.write(f"changed={'true' if lines else 'false'}\n")
+          if lines:
+              lines += [
+                  "",
+                  "These are *their* changes, not ours. Nothing here has been touched.",
+                  "A revised platform usually means an emulator changed its package or",
+                  "activity name, so it is worth reading the upstream diff and copying",
+                  "the fix if it applies.",
+                  "",
+                  "After copying one across, update `revisionsAtSeed` in `upstream.json`",
+                  "for that platform so it stops being reported.",
+              ]
+              open('report.md', 'w').write('\n'.join(lines))
+              print('\n'.join(lines))
+          else:
+              print('No upstream changes since seeding.')
+          PY
+
+      - name: Open or update the report
+        if: steps.check.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TITLE="Upstream platform changes"
+          EXISTING=$(gh issue list --state open --search "$TITLE in:title" \
+            --json number --jq '.[0].number // empty')
+          if [ -n "$EXISTING" ]; then
+            # Edited rather than commented on, so the issue is always the current
+            # difference instead of a pile of weekly notes.
+            gh issue edit "$EXISTING" --body-file report.md
+          else
+            gh issue create --title "$TITLE" --body-file report.md
+          fi

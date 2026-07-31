@@ -1,0 +1,61 @@
+name: Sync systems list with ES-DE
+
+# ES-DE owns this list and we add nothing to it, so unlike the platform packs it is
+# refreshed rather than watched.
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and compare
+        id: fetch
+        run: |
+          curl -sSfL \
+            "https://gitlab.com/es-de/emulationstation-de/-/raw/master/resources/systems/android/es_systems.xml" \
+            -o es_systems.xml
+          grep -oP '(?<=<name>)[^<]+(?=</name>)' es_systems.xml \
+            | grep -v ' ' | sort -u > fetched.txt
+          # A truncated download parses to a handful of names, and publishing that
+          # would tell every app there are six consoles in the world.
+          if [ "$(wc -l < fetched.txt)" -lt 50 ]; then
+            echo "Only $(wc -l < fetched.txt) systems, refusing" >&2
+            exit 1
+          fi
+          if diff -q systems-esde.txt fetched.txt > /dev/null 2>&1; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            comm -13 systems-esde.txt fetched.txt | sed 's/^/added: /' >> "$GITHUB_STEP_SUMMARY" || true
+            comm -23 systems-esde.txt fetched.txt | sed 's/^/removed: /' >> "$GITHUB_STEP_SUMMARY" || true
+          fi
+
+      - name: Commit
+        if: steps.fetch.outputs.changed == 'true'
+        run: |
+          mv fetched.txt systems-esde.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add systems-esde.txt
+          git commit -m "Sync systems list with ES-DE ($(wc -l < systems-esde.txt) systems)"
+          git push
+
+      # Same reason as the folders repo: GitHub switches off schedules in a repository
+      # that has seen no activity for sixty days, and this one is quiet by design.
+      - name: Keep the schedule alive
+        if: steps.fetch.outputs.changed != 'true' && github.event_name == 'schedule'
+        run: |
+          date -u +"Last checked against ES-DE: %Y-%m-%d %H:%M UTC" > .github/last-checked
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/last-checked
+          git commit -m "Checked against ES-DE, no change"
+          git push
