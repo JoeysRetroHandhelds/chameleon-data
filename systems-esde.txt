@@ -160,8 +160,8 @@ supracan
 switch
 symbian
 tanodragon
-tg16
 tg-cd
+tg16
 ti99
 tic80
 to8
