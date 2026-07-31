@@ -1,0 +1,35 @@
+name: Rebuild the pack bundle
+
+# The bundle is a copy of every pack in one file, so importing is one request rather
+# than one per console. A copy that has drifted is worse than no copy at all, so it is
+# rebuilt by the same push that changes a pack rather than by anyone remembering to.
+on:
+  push:
+    paths:
+      - "platforms/*.json"
+      - "tools/bundle.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  bundle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build it
+        run: python3 tools/bundle.py
+
+      - name: Commit if it changed
+        run: |
+          if git diff --quiet -- platforms/bundle.json; then
+            echo "Bundle already matches the packs."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add platforms/bundle.json
+          git commit -m "Rebuild the bundle from the packs"
+          git push
