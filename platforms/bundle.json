@@ -217,7 +217,7 @@
    },
    "playerList": [
     {
-     "acceptedFilenameRegex": "^(.*)\\.(?:7z|ccd|cue|zip)$",
+     "acceptedFilenameRegex": "^(.*)\\.(?:7z|ccd|cue|zip|chd)$",
      "amStartArguments": "-n com.retroarch.aarch64/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO fbneo\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.aarch64/files/retroarch.cfg",
      "description": "Supported extensions: 7z, ccd, cue, zip.",
      "extra": "",
@@ -227,7 +227,7 @@
      "uniqueId": "fbneo.ra64.fbneo"
     },
     {
-     "acceptedFilenameRegex": "^(.*)\\.(?:iso|zip|7z)$",
+     "acceptedFilenameRegex": "^(.*)\\.(?:iso|zip|7z|chd)$",
      "amStartArguments": "-n com.retroarch.aarch64/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO fbalpha2012\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.aarch64/files/retroarch.cfg",
      "description": "Supported extensions: iso, zip, 7z.",
      "extra": "",
@@ -237,7 +237,7 @@
      "uniqueId": "fbneo.ra64.fbalpha2012"
     },
     {
-     "acceptedFilenameRegex": "^(.*)\\.(?:7z|ccd|cue|zip)$",
+     "acceptedFilenameRegex": "^(.*)\\.(?:7z|ccd|cue|zip|chd)$",
      "amStartArguments": "-n com.retroarch.ra32/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO fbneo\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.ra32/files/retroarch.cfg",
      "description": "Supported extensions: 7z, ccd, cue, zip.",
      "extra": "",
@@ -247,7 +247,7 @@
      "uniqueId": "fbneo.ra32.fbneo"
     },
     {
-     "acceptedFilenameRegex": "^(.*)\\.(?:iso|zip|7z)$",
+     "acceptedFilenameRegex": "^(.*)\\.(?:iso|zip|7z|chd)$",
      "amStartArguments": "-n com.retroarch.ra32/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO fbalpha2012\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.ra32/files/retroarch.cfg",
      "description": "Supported extensions: iso, zip, 7z.",
      "extra": "",
@@ -257,7 +257,7 @@
      "uniqueId": "fbneo.ra32.fbalpha2012"
     },
     {
-     "acceptedFilenameRegex": "^(.*)\\.(?:7z|ccd|cue|zip)$",
+     "acceptedFilenameRegex": "^(.*)\\.(?:7z|ccd|cue|zip|chd)$",
      "amStartArguments": "-n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO fbneo\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg",
      "description": "Supported extensions: 7z, ccd, cue, zip.",
      "extra": "",
@@ -267,7 +267,7 @@
      "uniqueId": "fbneo.ra.fbneo"
     },
     {
-     "acceptedFilenameRegex": "^(.*)\\.(?:iso|zip|7z)$",
+     "acceptedFilenameRegex": "^(.*)\\.(?:iso|zip|7z|chd)$",
      "amStartArguments": "-n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO fbalpha2012\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg",
      "description": "Supported extensions: iso, zip, 7z.",
      "extra": "",
@@ -277,7 +277,7 @@
      "uniqueId": "fbneo.ra.fbalpha2012"
     }
    ],
-   "revisionNumber": 5
+   "revisionNumber": 6
   },
   "ArcadeMAME.json": {
    "databaseVersion": 14,
@@ -1023,7 +1023,7 @@
    },
    "playerList": [
     {
-     "acceptedFilenameRegex": "^(.*)\\.(?:j64|jag|rom|abs|cof|bin|prg|zip|7z)$",
+     "acceptedFilenameRegex": "^(.*)\\.(?:j64|jag|rom|abs|cof|bin|prg|zip|7z|cdi|cue|chd|iso)$",
      "amStartArguments": "-n ru.vastness.altmer.iratajaguar/ru.vastness.altmer.iratajaguar.MainActivity\n -e rom {file.path}\n --activity-clear-task\n --activity-clear-top",
      "description": "Supported extensions: j64, jag, rom, abs, cof, bin, prg, zip, 7z.",
      "extra": "",
@@ -1033,7 +1033,7 @@
      "uniqueId": "jaguarcd.ru.vastness.altmer.iratajaguar"
     },
     {
-     "acceptedFilenameRegex": "^(.*)\\.(?:j64|jag|rom|abs|cof|bin|prg|zip|7z)$",
+     "acceptedFilenameRegex": "^(.*)\\.(?:j64|jag|rom|abs|cof|bin|prg|zip|7z|cdi|cue|chd|iso)$",
      "amStartArguments": "-n com.retroarch.aarch64/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO virtualjaguar\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.aarch64/files/retroarch.cfg",
      "description": "Supported extensions: j64, jag, rom, abs, cof, bin, prg, zip, 7z.",
      "extra": "",
@@ -1043,7 +1043,7 @@
      "uniqueId": "jaguarcd.ra64.virtualjaguar"
     },
     {
-     "acceptedFilenameRegex": "^(.*)\\.(?:j64|jag|rom|abs|cof|bin|prg|zip|7z)$",
+     "acceptedFilenameRegex": "^(.*)\\.(?:j64|jag|rom|abs|cof|bin|prg|zip|7z|cdi|cue|chd|iso)$",
      "amStartArguments": "-n com.retroarch.ra32/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO virtualjaguar\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.ra32/files/retroarch.cfg",
      "description": "Supported extensions: j64, jag, rom, abs, cof, bin, prg, zip, 7z.",
      "extra": "",
@@ -1053,7 +1053,7 @@
      "uniqueId": "jaguarcd.ra32.virtualjaguar"
     },
     {
-     "acceptedFilenameRegex": "^(.*)\\.(?:j64|jag|rom|abs|cof|bin|prg|zip|7z)$",
+     "acceptedFilenameRegex": "^(.*)\\.(?:j64|jag|rom|abs|cof|bin|prg|zip|7z|cdi|cue|chd|iso)$",
      "amStartArguments": "-n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO virtualjaguar\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg",
      "description": "Supported extensions: j64, jag, rom, abs, cof, bin, prg, zip, 7z.",
      "extra": "",
@@ -1063,7 +1063,7 @@
      "uniqueId": "jaguarcd.ra.virtualjaguar"
     }
    ],
-   "revisionNumber": 7
+   "revisionNumber": 8
   },
   "AtariLynx.json": {
    "databaseVersion": 14,
@@ -12465,7 +12465,7 @@
   "3DO.json": 8,
   "AmstradCPC.json": 9,
   "AppleII.json": 3,
-  "ArcadeFinalBurnNeo.json": 5,
+  "ArcadeFinalBurnNeo.json": 6,
   "ArcadeMAME.json": 10,
   "Arcadia2001.json": 4,
   "Arduboy.json": 4,
@@ -12473,7 +12473,7 @@
   "Atari5200.json": 9,
   "Atari7800.json": 8,
   "AtariJaguar.json": 7,
-  "AtariJaguarCD.json": 7,
+  "AtariJaguarCD.json": 8,
   "AtariLynx.json": 13,
   "AtariST.json": 9,
   "Atomiswave.json": 11,

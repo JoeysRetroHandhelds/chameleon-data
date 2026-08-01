@@ -27,7 +27,7 @@
       "platformName": "Arcade (FinalBurn Neo)",
       "platformShortname": "fbneo",
       "platformUniqueId": "fbneo",
-      "revisionNumber": 5
+      "revisionNumber": 6
     },
     {
       "filename": "ArcadeMAME.json",
@@ -83,7 +83,7 @@
       "platformName": "Atari Jaguar CD",
       "platformShortname": "jaguarcd",
       "platformUniqueId": "jaguarcd",
-      "revisionNumber": 7
+      "revisionNumber": 8
     },
     {
       "filename": "AtariLynx.json",
