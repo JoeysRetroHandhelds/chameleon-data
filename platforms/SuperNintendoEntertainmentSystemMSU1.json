@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 6,
+  "revisionNumber": 7,
   "platform": {
     "name": "Super Nintendo Entertainment System - MSU-1",
     "uniqueId": "snesmsu1",
@@ -25,7 +25,7 @@
   },
   "playerList": [
     {
-      "name": "snesmsu1 - com.explusalpha.Snes9xPlus",
+      "name": "snesmsu1 - Snes9x EX+",
       "uniqueId": "snesmsu1.com.explusalpha.Snes9xPlus",
       "description": "Supported extensions: bml, bs, bsx, dx2, fig, gb, gbc, gd3, gd7, rom, sfc, smc, st, swc.",
       "acceptedFilenameRegex": "^(.*)\\.(?:bml|bs|bsx|dx2|fig|gb|gbc|gd3|gd7|rom|sfc|smc|st|swc)$",

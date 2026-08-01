@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 4,
+  "revisionNumber": 5,
   "platform": {
     "name": "Nintendo Satellaview",
     "uniqueId": "satellaview",
@@ -21,7 +21,7 @@
   },
   "playerList": [
     {
-      "name": "satellaview - com.explusalpha.Snes9xPlus",
+      "name": "satellaview - Snes9x EX+",
       "uniqueId": "satellaview.com.explusalpha.Snes9xPlus",
       "description": "Supported extensions: bml, bs, bsx, dx2, fig, gb, gbc, gd3, gd7, rom, sfc, smc, st, swc.",
       "acceptedFilenameRegex": "^(.*)\\.(?:bml|bs|bsx|dx2|fig|gb|gbc|gd3|gd7|rom|sfc|smc|st|swc)$",

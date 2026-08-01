@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 15,
+  "revisionNumber": 16,
   "platform": {
     "name": "Sega Master System",
     "uniqueId": "master",
@@ -25,7 +25,7 @@
   },
   "playerList": [
     {
-      "name": "master - com.explusalpha.MdEmu",
+      "name": "master - MD.emu",
       "uniqueId": "master.com.explusalpha.MdEmu",
       "description": "Support extensions: 32x, 68k, bin, bms, chd, cue, gen, gg, iso, m3u, md, mdx, pco, sg, sgd, smd, sms.",
       "acceptedFilenameRegex": "^(.*)\\.(?:32x|68k|bin|bms|chd|cue|gen|gg|iso|m3u|md|mdx|pco|sg|sgd|smd|sms)$",

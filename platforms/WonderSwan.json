@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 8,
+  "revisionNumber": 9,
   "platform": {
     "name": "WonderSwan",
     "uniqueId": "ws",
@@ -23,7 +23,7 @@
   },
   "playerList": [
     {
-      "name": "ws - com.explusalpha.SwanEmu",
+      "name": "ws - Swan.emu",
       "uniqueId": "ws.com.explusalpha.SwanEmu",
       "description": "Supported extensions: ws, wsc, pc2, 7z, zip",
       "acceptedFilenameRegex": "^(.*)\\.(?:ws|wsc|pc2|7z|zip)$",

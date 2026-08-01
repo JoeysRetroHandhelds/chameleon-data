@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 21,
+  "revisionNumber": 22,
   "platform": {
     "name": "Nintendo 3DS",
     "uniqueId": "3ds",
@@ -134,7 +134,7 @@
       "extra": ""
     },
     {
-      "name": "3ds - org.citra.emu",
+      "name": "3ds - Citra MMJ",
       "uniqueId": "3ds.org.citra.emu",
       "description": "Supported extensions: 3ds, 3dsx, app, axf, cci, cxi, elf.",
       "acceptedFilenameRegex": "^(.*)\\.(?:3ds|3dsx|app|axf|cci|cxi|elf)$",
@@ -144,7 +144,7 @@
       "extra": ""
     },
     {
-      "name": "3ds - org.citra.citra_emu",
+      "name": "3ds - Citra",
       "uniqueId": "3ds.org.citra.citra_emu",
       "description": "Supported extensions: 3ds, 3dsx, app, axf, cci, cxi, elf.",
       "acceptedFilenameRegex": "^(.*)\\.(?:3ds|3dsx|app|axf|cci|cxi|elf)$",

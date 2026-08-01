@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 12,
+  "revisionNumber": 13,
   "platform": {
     "name": "Atari Lynx",
     "uniqueId": "lynx",
@@ -25,7 +25,7 @@
   },
   "playerList": [
     {
-      "name": "lynx - com.explusalpha.LynxEmu",
+      "name": "lynx - Lynx.emu",
       "uniqueId": "lynx.com.explusalpha.LynxEmu",
       "description": "Supported extensions: lnx, o, zip, 7z.",
       "acceptedFilenameRegex": "^(.*)\\.(?:lnx|o|zip|7z)$",

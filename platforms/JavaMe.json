@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 8,
+  "revisionNumber": 9,
   "platform": {
     "name": "Java Me",
     "uniqueId": "j2me",
@@ -19,7 +19,7 @@
   },
   "playerList": [
     {
-      "name": "j2me - ru.playsoftware.j2meloader",
+      "name": "j2me - J2ME Loader",
       "uniqueId": "j2me.ru.playsoftware.j2meloader",
       "description": null,
       "acceptedFilenameRegex": "^(.*).(?:java|jar)$",

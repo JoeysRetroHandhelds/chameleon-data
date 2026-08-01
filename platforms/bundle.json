@@ -313,7 +313,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "mame - com.seleuco.mame4droid",
+     "name": "mame - MAME4droid",
      "uniqueId": "mame.com.seleuco.mame4droid"
     },
     {
@@ -507,7 +507,7 @@
      "uniqueId": "mame.ra.mame2010"
     }
    ],
-   "revisionNumber": 9
+   "revisionNumber": 10
   },
   "Arcadia2001.json": {
    "databaseVersion": 14,
@@ -681,7 +681,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "atari2600 - com.explusalpha.A2600Emu",
+     "name": "atari2600 - 2600.emu",
      "uniqueId": "atari2600.com.explusalpha.A2600Emu"
     },
     {
@@ -691,7 +691,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "atari2600 - com.androidemu.atari",
+     "name": "atari2600 - Ataroid",
      "uniqueId": "atari2600.com.androidemu.atari"
     },
     {
@@ -785,7 +785,7 @@
      "uniqueId": "atari2600.ra.stella2023"
     }
    ],
-   "revisionNumber": 11
+   "revisionNumber": 12
   },
   "Atari5200.json": {
    "databaseVersion": 14,
@@ -1097,7 +1097,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "lynx - com.explusalpha.LynxEmu",
+     "name": "lynx - Lynx.emu",
      "uniqueId": "lynx.com.explusalpha.LynxEmu"
     },
     {
@@ -1191,7 +1191,7 @@
      "uniqueId": "lynx.ra.holani"
     }
    ],
-   "revisionNumber": 12
+   "revisionNumber": 13
   },
   "AtariST.json": {
    "databaseVersion": 14,
@@ -1283,7 +1283,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "atomiswave - io.recompiled.redream",
+     "name": "atomiswave - redream",
      "uniqueId": "atomiswave.io.recompiled.redream"
     },
     {
@@ -1293,7 +1293,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "atomiswave - com.reicast.emulator",
+     "name": "atomiswave - reicast",
      "uniqueId": "atomiswave.com.reicast.emulator"
     },
     {
@@ -1303,7 +1303,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "atomiswave - com.flycast.emulator",
+     "name": "atomiswave - Flycast",
      "uniqueId": "atomiswave.com.flycast.emulator"
     },
     {
@@ -1347,7 +1347,7 @@
      "uniqueId": "atomiswave.ra.flycast"
     }
    ],
-   "revisionNumber": 10
+   "revisionNumber": 11
   },
   "BBCMicro.json": {
    "databaseVersion": 14,
@@ -2178,7 +2178,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "c64 - com.explusalpha.C64Emu",
+     "name": "c64 - C64.emu",
      "uniqueId": "c64.com.explusalpha.C64Emu"
     },
     {
@@ -2302,7 +2302,7 @@
      "uniqueId": "c64.ra.vice_x64sc"
     }
    ],
-   "revisionNumber": 11
+   "revisionNumber": 12
   },
   "CommodoreAmiga.json": {
    "databaseVersion": 14,
@@ -2707,7 +2707,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "dreamcast - io.recompiled.redream",
+     "name": "dreamcast - redream",
      "uniqueId": "dreamcast.io.recompiled.redream"
     },
     {
@@ -2717,7 +2717,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "dreamcast - com.reicast.emulator",
+     "name": "dreamcast - reicast",
      "uniqueId": "dreamcast.com.reicast.emulator"
     },
     {
@@ -2727,7 +2727,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "dreamcast - com.flycast.emulator",
+     "name": "dreamcast - Flycast",
      "uniqueId": "dreamcast.com.flycast.emulator"
     },
     {
@@ -2771,7 +2771,7 @@
      "uniqueId": "dreamcast.ra.flycast"
     }
    ],
-   "revisionNumber": 10
+   "revisionNumber": 11
   },
   "ElektorTVGamesComputer.json": {
    "databaseVersion": 14,
@@ -2882,7 +2882,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "fds - com.explusalpha.NesEmu",
+     "name": "fds - NES.emu",
      "uniqueId": "fds.com.explusalpha.NesEmu"
     },
     {
@@ -2892,7 +2892,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "fds - com.androidemu.nes",
+     "name": "fds - Nesoid",
      "uniqueId": "fds.com.androidemu.nes"
     },
     {
@@ -2986,7 +2986,7 @@
      "uniqueId": "fds.ra.mesen"
     }
    ],
-   "revisionNumber": 10
+   "revisionNumber": 11
   },
   "FlashPlayer.json": {
    "databaseVersion": 14,
@@ -3275,7 +3275,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "j2me - ru.playsoftware.j2meloader",
+     "name": "j2me - J2ME Loader",
      "uniqueId": "j2me.ru.playsoftware.j2meloader"
     },
     {
@@ -3319,7 +3319,7 @@
      "uniqueId": "j2me.ra.squirreljme"
     }
    ],
-   "revisionNumber": 8
+   "revisionNumber": 9
   },
   "LowResNX.json": {
    "databaseVersion": 14,
@@ -3408,7 +3408,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "msx - com.explusalpha.MsxEmu",
+     "name": "msx - MSX.emu",
      "uniqueId": "msx.com.explusalpha.MsxEmu"
     },
     {
@@ -3472,7 +3472,7 @@
      "uniqueId": "msx.ra.bluemsx"
     }
    ],
-   "revisionNumber": 11
+   "revisionNumber": 12
   },
   "MagnavoxOdyssey2.json": {
    "databaseVersion": 14,
@@ -4528,7 +4528,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "3ds - org.citra.emu",
+     "name": "3ds - Citra MMJ",
      "uniqueId": "3ds.org.citra.emu"
     },
     {
@@ -4538,7 +4538,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "3ds - org.citra.citra_emu",
+     "name": "3ds - Citra",
      "uniqueId": "3ds.org.citra.citra_emu"
     },
     {
@@ -4602,7 +4602,7 @@
      "uniqueId": "3ds.ra.azahar"
     }
    ],
-   "revisionNumber": 21
+   "revisionNumber": 22
   },
   "Nintendo64.json": {
    "databaseVersion": 14,
@@ -4636,7 +4636,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "n64 - org.mupen64plusae.v3.fzurita",
+     "name": "n64 - M64Plus FZ",
      "uniqueId": "n64.org.mupen64plusae.v3.fzurita"
     },
     {
@@ -4646,7 +4646,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "n64 - org.mupen64plusae.v3.alpha",
+     "name": "n64 - Mupen64Plus AE",
      "uniqueId": "n64.org.mupen64plusae.v3.alpha"
     },
     {
@@ -4656,7 +4656,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "n64 - org.mupen64plusae.v3.alpha.debug",
+     "name": "n64 - Mupen64Plus AE (debug)",
      "uniqueId": "n64.org.mupen64plusae.v3.alpha.debug"
     },
     {
@@ -4666,7 +4666,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "n64 - org.mupen64plusae.v3.fzurita.pro",
+     "name": "n64 - M64Plus FZ Pro",
      "uniqueId": "n64.org.mupen64plusae.v3.fzurita.pro"
     },
     {
@@ -4676,7 +4676,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "n64 - paulscode.android.mupen64plusae",
+     "name": "n64 - Mupen64Plus AE (legacy)",
      "uniqueId": "n64.paulscode.android.mupen64plusae"
     },
     {
@@ -4770,7 +4770,7 @@
      "uniqueId": "n64.ra.parallel_n64"
     }
    ],
-   "revisionNumber": 17
+   "revisionNumber": 18
   },
   "NintendoDS.json": {
    "databaseVersion": 14,
@@ -5272,7 +5272,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "nes - com.explusalpha.NesEmu",
+     "name": "nes - NES.emu",
      "uniqueId": "nes.com.explusalpha.NesEmu"
     },
     {
@@ -5282,7 +5282,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "nes - com.androidemu.nes",
+     "name": "nes - Nesoid",
      "uniqueId": "nes.com.androidemu.nes"
     },
     {
@@ -5436,7 +5436,7 @@
      "uniqueId": "nes.ra.bnes"
     }
    ],
-   "revisionNumber": 12
+   "revisionNumber": 13
   },
   "NintendoGame&Watch.json": {
    "databaseVersion": 14,
@@ -5588,7 +5588,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "gb - com.explusalpha.GbcEmu",
+     "name": "gb - GBC.emu",
      "uniqueId": "gb.com.explusalpha.GbcEmu"
     },
     {
@@ -5598,7 +5598,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "gb - com.fastemulator.gbcfree",
+     "name": "gb - My OldBoy! Free",
      "uniqueId": "gb.com.fastemulator.gbcfree"
     },
     {
@@ -5608,7 +5608,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "gb - com.fastemulator.gbc",
+     "name": "gb - My OldBoy!",
      "uniqueId": "gb.com.fastemulator.gbc"
     },
     {
@@ -5892,7 +5892,7 @@
      "uniqueId": "gb.ra.skyemu"
     }
    ],
-   "revisionNumber": 21
+   "revisionNumber": 22
   },
   "NintendoGameBoyAdvance.json": {
    "databaseVersion": 14,
@@ -5956,7 +5956,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "gba - com.explusalpha.GbaEmu",
+     "name": "gba - GBA.emu",
      "uniqueId": "gba.com.explusalpha.GbaEmu"
     },
     {
@@ -5966,7 +5966,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "gba - com.fastemulator.gbafree",
+     "name": "gba - My Boy! Free",
      "uniqueId": "gba.com.fastemulator.gbafree"
     },
     {
@@ -5976,7 +5976,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "gba - com.fastemulator.gba",
+     "name": "gba - My Boy!",
      "uniqueId": "gba.com.fastemulator.gba"
     },
     {
@@ -6230,7 +6230,7 @@
      "uniqueId": "gba.ra.skyemu"
     }
    ],
-   "revisionNumber": 19
+   "revisionNumber": 20
   },
   "NintendoGameBoyColor.json": {
    "databaseVersion": 14,
@@ -6294,7 +6294,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "gbc - com.explusalpha.GbcEmu",
+     "name": "gbc - GBC.emu",
      "uniqueId": "gbc.com.explusalpha.GbcEmu"
     },
     {
@@ -6304,7 +6304,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "gbc - com.fastemulator.gbcfree",
+     "name": "gbc - My OldBoy! Free",
      "uniqueId": "gbc.com.fastemulator.gbcfree"
     },
     {
@@ -6314,7 +6314,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "gbc - com.fastemulator.gbc",
+     "name": "gbc - My OldBoy!",
      "uniqueId": "gbc.com.fastemulator.gbc"
     },
     {
@@ -6568,7 +6568,7 @@
      "uniqueId": "gbc.ra.mgba"
     }
    ],
-   "revisionNumber": 20
+   "revisionNumber": 21
   },
   "NintendoGameCube.json": {
    "databaseVersion": 14,
@@ -6756,7 +6756,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "satellaview - com.explusalpha.Snes9xPlus",
+     "name": "satellaview - Snes9x EX+",
      "uniqueId": "satellaview.com.explusalpha.Snes9xPlus"
     },
     {
@@ -7030,7 +7030,7 @@
      "uniqueId": "satellaview.ra.mesen-s"
     }
    ],
-   "revisionNumber": 4
+   "revisionNumber": 5
   },
   "NintendoSwitch.json": {
    "databaseVersion": 14,
@@ -8491,7 +8491,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "segacd - com.explusalpha.MdEmu",
+     "name": "segacd - MD.emu",
      "uniqueId": "segacd.com.explusalpha.MdEmu"
     },
     {
@@ -8585,7 +8585,7 @@
      "uniqueId": "segacd.ra.picodrive"
     }
    ],
-   "revisionNumber": 8
+   "revisionNumber": 9
   },
   "SegaGameGear.json": {
    "databaseVersion": 14,
@@ -8619,7 +8619,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "gamegear - com.androidemu.gg",
+     "name": "gamegear - Gearoid",
      "uniqueId": "gamegear.com.androidemu.gg"
     },
     {
@@ -8793,7 +8793,7 @@
      "uniqueId": "gamegear.ra.gearsystem"
     }
    ],
-   "revisionNumber": 16
+   "revisionNumber": 17
   },
   "SegaGenesis.json": {
    "databaseVersion": 14,
@@ -8827,7 +8827,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "genesis - com.explusalpha.MdEmu",
+     "name": "genesis - MD.emu",
      "uniqueId": "genesis.com.explusalpha.MdEmu"
     },
     {
@@ -8837,7 +8837,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "genesis - com.androidemu.gens",
+     "name": "genesis - Gensoid",
      "uniqueId": "genesis.com.androidemu.gens"
     },
     {
@@ -8941,7 +8941,7 @@
      "uniqueId": "genesis.ra.picodrive"
     }
    ],
-   "revisionNumber": 15
+   "revisionNumber": 16
   },
   "SegaGenesisMSU.json": {
    "databaseVersion": 14,
@@ -9063,7 +9063,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "master - com.explusalpha.MdEmu",
+     "name": "master - MD.emu",
      "uniqueId": "master.com.explusalpha.MdEmu"
     },
     {
@@ -9227,7 +9227,7 @@
      "uniqueId": "master.ra.gearsystem"
     }
    ],
-   "revisionNumber": 15
+   "revisionNumber": 16
   },
   "SegaModel3.json": {
    "databaseVersion": 14,
@@ -9302,7 +9302,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "naomi - com.flycast.emulator",
+     "name": "naomi - Flycast",
      "uniqueId": "naomi.com.flycast.emulator"
     },
     {
@@ -9346,7 +9346,7 @@
      "uniqueId": "naomi.ra.flycast"
     }
    ],
-   "revisionNumber": 12
+   "revisionNumber": 13
   },
   "SegaPico.json": {
    "databaseVersion": 14,
@@ -10496,7 +10496,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "snes - com.explusalpha.Snes9xPlus",
+     "name": "snes - Snes9x EX+",
      "uniqueId": "snes.com.explusalpha.Snes9xPlus"
     },
     {
@@ -11070,7 +11070,7 @@
      "uniqueId": "snes.ra.mesen-s"
     }
    ],
-   "revisionNumber": 13
+   "revisionNumber": 14
   },
   "SuperNintendoEntertainmentSystemMSU1.json": {
    "databaseVersion": 14,
@@ -11104,7 +11104,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "snesmsu1 - com.explusalpha.Snes9xPlus",
+     "name": "snesmsu1 - Snes9x EX+",
      "uniqueId": "snesmsu1.com.explusalpha.Snes9xPlus"
     },
     {
@@ -11228,7 +11228,7 @@
      "uniqueId": "snesmsu1.ra.mesen-s"
     }
    ],
-   "revisionNumber": 6
+   "revisionNumber": 7
   },
   "TIC80.json": {
    "databaseVersion": 14,
@@ -12214,7 +12214,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "ws - com.explusalpha.SwanEmu",
+     "name": "ws - Swan.emu",
      "uniqueId": "ws.com.explusalpha.SwanEmu"
     },
     {
@@ -12248,7 +12248,7 @@
      "uniqueId": "ws.ra.mednafen_wswan"
     }
    ],
-   "revisionNumber": 8
+   "revisionNumber": 9
   },
   "WonderSwanColor.json": {
    "databaseVersion": 14,
@@ -12278,7 +12278,7 @@
      "extra": "",
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
-     "name": "wsc - com.explusalpha.SwanEmu",
+     "name": "wsc - Swan.emu",
      "uniqueId": "wsc.com.explusalpha.SwanEmu"
     },
     {
@@ -12312,7 +12312,7 @@
      "uniqueId": "wsc.ra.mednafen_wswan"
     }
    ],
-   "revisionNumber": 8
+   "revisionNumber": 9
   },
   "XboxGamePass.json": {
    "databaseVersion": 14,
@@ -12466,17 +12466,17 @@
   "AmstradCPC.json": 9,
   "AppleII.json": 3,
   "ArcadeFinalBurnNeo.json": 5,
-  "ArcadeMAME.json": 9,
+  "ArcadeMAME.json": 10,
   "Arcadia2001.json": 4,
   "Arduboy.json": 4,
-  "Atari2600.json": 11,
+  "Atari2600.json": 12,
   "Atari5200.json": 9,
   "Atari7800.json": 8,
   "AtariJaguar.json": 7,
   "AtariJaguarCD.json": 7,
-  "AtariLynx.json": 12,
+  "AtariLynx.json": 13,
   "AtariST.json": 9,
-  "Atomiswave.json": 10,
+  "Atomiswave.json": 11,
   "BBCMicro.json": 4,
   "BookReader.json": 3,
   "CPS1.json": 6,
@@ -12486,24 +12486,24 @@
   "CaveStoryGameEngine.json": 4,
   "Chip8.json": 4,
   "ColecoVision.json": 6,
-  "Commodore64.json": 11,
+  "Commodore64.json": 12,
   "CommodoreAmiga.json": 10,
   "CommodorePET.json": 4,
   "CommodorePlus4.json": 5,
   "DOOMGameEngine.json": 3,
   "DOS.json": 6,
-  "Dreamcast.json": 10,
+  "Dreamcast.json": 11,
   "ElektorTVGamesComputer.json": 1,
   "FairchildChannelF.json": 8,
-  "FamicomDiskSystem.json": 10,
+  "FamicomDiskSystem.json": 11,
   "FlashPlayer.json": 2,
   "FlashbackGameEngine.json": 3,
   "IdTech4A.json": 2,
   "Intellivision.json": 7,
   "IntertonVC4000.json": 5,
-  "JavaMe.json": 8,
+  "JavaMe.json": 9,
   "LowResNX.json": 3,
-  "MSX.json": 11,
+  "MSX.json": 12,
   "MagnavoxOdyssey2.json": 6,
   "MegaDuck.json": 3,
   "MicrosoftXbox.json": 5,
@@ -12517,17 +12517,17 @@
   "NeoGeoPocket.json": 11,
   "NeoGeoPocketColor.json": 8,
   "Ngage.json": 5,
-  "Nintendo3DS.json": 21,
-  "Nintendo64.json": 17,
+  "Nintendo3DS.json": 22,
+  "Nintendo64.json": 18,
   "NintendoDS.json": 15,
   "NintendoDSi.json": 14,
-  "NintendoEntertainmentSystem.json": 12,
+  "NintendoEntertainmentSystem.json": 13,
   "NintendoGame&Watch.json": 8,
-  "NintendoGameBoy.json": 21,
-  "NintendoGameBoyAdvance.json": 19,
-  "NintendoGameBoyColor.json": 20,
+  "NintendoGameBoy.json": 22,
+  "NintendoGameBoyAdvance.json": 20,
+  "NintendoGameBoyColor.json": 21,
   "NintendoGameCube.json": 19,
-  "NintendoSatellaview.json": 4,
+  "NintendoSatellaview.json": 5,
   "NintendoSwitch.json": 22,
   "NintendoWii.json": 17,
   "NintendoWiiU.json": 10,
@@ -12545,13 +12545,13 @@
   "RPGMaker.json": 3,
   "ScummVM.json": 5,
   "Sega32X.json": 6,
-  "SegaCD.json": 8,
-  "SegaGameGear.json": 16,
-  "SegaGenesis.json": 15,
+  "SegaCD.json": 9,
+  "SegaGameGear.json": 17,
+  "SegaGenesis.json": 16,
   "SegaGenesisMSU.json": 6,
-  "SegaMasterSystem.json": 15,
+  "SegaMasterSystem.json": 16,
   "SegaModel3.json": 2,
-  "SegaNAOMI.json": 12,
+  "SegaNAOMI.json": 13,
   "SegaPico.json": 5,
   "SegaSG1000.json": 8,
   "SegaSaturn.json": 14,
@@ -12563,8 +12563,8 @@
   "SonyPlayStation3.json": 3,
   "Steam.json": 8,
   "SuperGrafx.json": 6,
-  "SuperNintendoEntertainmentSystem.json": 13,
-  "SuperNintendoEntertainmentSystemMSU1.json": 6,
+  "SuperNintendoEntertainmentSystem.json": 14,
+  "SuperNintendoEntertainmentSystemMSU1.json": 7,
   "TIC80.json": 3,
   "Triforce.json": 3,
   "TurboGrafx16.json": 11,
@@ -12577,8 +12577,8 @@
   "WASM4.json": 3,
   "WataraSupervision.json": 7,
   "Windows.json": 14,
-  "WonderSwan.json": 8,
-  "WonderSwanColor.json": 8,
+  "WonderSwan.json": 9,
+  "WonderSwanColor.json": 9,
   "XboxGamePass.json": 2,
   "ZX81.json": 7,
   "ZXSpectrum.json": 9

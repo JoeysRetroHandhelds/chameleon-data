@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 21,
+  "revisionNumber": 22,
   "platform": {
     "name": "Nintendo - Game Boy",
     "uniqueId": "gb",
@@ -55,7 +55,7 @@
       "extra": ""
     },
     {
-      "name": "gb - com.explusalpha.GbcEmu",
+      "name": "gb - GBC.emu",
       "uniqueId": "gb.com.explusalpha.GbcEmu",
       "description": "Support extensions: bin, cgb, dmg, gb, gbc, gbs, rom, sgb.",
       "acceptedFilenameRegex": "^(.*)\\.(?:bin|cgb|dmg|gb|gbc|gbs|rom|sgb)$",
@@ -65,7 +65,7 @@
       "extra": ""
     },
     {
-      "name": "gb - com.fastemulator.gbcfree",
+      "name": "gb - My OldBoy! Free",
       "uniqueId": "gb.com.fastemulator.gbcfree",
       "description": "Support extensions: bin, cgb, dmg, gb, gbc, gbs, rom, sgb.",
       "acceptedFilenameRegex": "^(.*)\\.(?:bin|cgb|dmg|gb|gbc|gbs|rom|sgb)$",
@@ -75,7 +75,7 @@
       "extra": ""
     },
     {
-      "name": "gb - com.fastemulator.gbc",
+      "name": "gb - My OldBoy!",
       "uniqueId": "gb.com.fastemulator.gbc",
       "description": "Support extensions: bin, cgb, dmg, gb, gbc, gbs, rom, sgb.",
       "acceptedFilenameRegex": "^(.*)\\.(?:bin|cgb|dmg|gb|gbc|gbs|rom|sgb)$",

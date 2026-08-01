@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 16,
+  "revisionNumber": 17,
   "platform": {
     "name": "Sega Game Gear",
     "uniqueId": "gamegear",
@@ -25,7 +25,7 @@
   },
   "playerList": [
     {
-      "name": "gamegear - com.androidemu.gg",
+      "name": "gamegear - Gearoid",
       "uniqueId": "gamegear.com.androidemu.gg",
       "description": "Supported extensions: bin, bms, col, gg, rom, sg, sms.",
       "acceptedFilenameRegex": "^(.*)\\.(?:bin|bms|col|gg|rom|sg|sms)$",

@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 9,
+  "revisionNumber": 10,
   "platform": {
     "name": "Arcade (MAME)",
     "uniqueId": "mame",
@@ -27,7 +27,7 @@
   },
   "playerList": [
     {
-      "name": "mame - com.seleuco.mame4droid",
+      "name": "mame - MAME4droid",
       "uniqueId": "mame.com.seleuco.mame4droid",
       "description": "Supported extensions: 7z, chd, cmd, zip.",
       "acceptedFilenameRegex": "^(.*)\\.(?:7z|chd|cmd|zip)$",

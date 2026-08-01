@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 13,
+  "revisionNumber": 14,
   "platform": {
     "name": "Super Nintendo Entertainment System",
     "uniqueId": "snes",
@@ -25,7 +25,7 @@
   },
   "playerList": [
     {
-      "name": "snes - com.explusalpha.Snes9xPlus",
+      "name": "snes - Snes9x EX+",
       "uniqueId": "snes.com.explusalpha.Snes9xPlus",
       "description": "Supported extensions: bml, bs, bsx, dx2, fig, gb, gbc, gd3, gd7, rom, sfc, smc, st, swc.",
       "acceptedFilenameRegex": "^(.*)\\.(?:bml|bs|bsx|dx2|fig|gb|gbc|gd3|gd7|rom|sfc|smc|st|swc)$",

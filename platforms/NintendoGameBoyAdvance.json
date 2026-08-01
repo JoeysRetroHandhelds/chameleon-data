@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 19,
+  "revisionNumber": 20,
   "platform": {
     "name": "Nintendo - Game Boy Advance",
     "uniqueId": "gba",
@@ -55,7 +55,7 @@
       "extra": ""
     },
     {
-      "name": "gba - com.explusalpha.GbaEmu",
+      "name": "gba - GBA.emu",
       "uniqueId": "gba.com.explusalpha.GbaEmu",
       "description": "Support extensions: agb, bin, cgb, dmg, gb, gba, gbc, gbz, sgb.",
       "acceptedFilenameRegex": "^(.*)\\.(?:agb|bin|cgb|dmg|gb|gba|gbc|gbz|sgb)$",
@@ -65,7 +65,7 @@
       "extra": ""
     },
     {
-      "name": "gba - com.fastemulator.gbafree",
+      "name": "gba - My Boy! Free",
       "uniqueId": "gba.com.fastemulator.gbafree",
       "description": "Support extensions: agb, bin, cgb, dmg, gb, gba, gbc, gbz, sgb.",
       "acceptedFilenameRegex": "^(.*)\\.(?:agb|bin|cgb|dmg|gb|gba|gbc|gbz|sgb)$",
@@ -75,7 +75,7 @@
       "extra": ""
     },
     {
-      "name": "gba - com.fastemulator.gba",
+      "name": "gba - My Boy!",
       "uniqueId": "gba.com.fastemulator.gba",
       "description": "Support extensions: agb, bin, cgb, dmg, gb, gba, gbc, gbz, sgb.",
       "acceptedFilenameRegex": "^(.*)\\.(?:agb|bin|cgb|dmg|gb|gba|gbc|gbz|sgb)$",

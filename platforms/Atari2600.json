@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 11,
+  "revisionNumber": 12,
   "platform": {
     "name": "Atari 2600",
     "uniqueId": "atari2600",
@@ -25,7 +25,7 @@
   },
   "playerList": [
     {
-      "name": "atari2600 - com.explusalpha.A2600Emu",
+      "name": "atari2600 - 2600.emu",
       "uniqueId": "atari2600.com.explusalpha.A2600Emu",
       "description": "Supported extensions: a26, bin.",
       "acceptedFilenameRegex": "^(.*)\\.(?:a26|bin)$",
@@ -35,7 +35,7 @@
       "extra": ""
     },
     {
-      "name": "atari2600 - com.androidemu.atari",
+      "name": "atari2600 - Ataroid",
       "uniqueId": "atari2600.com.androidemu.atari",
       "description": "Supported extensions: a26, bin.",
       "acceptedFilenameRegex": "^(.*)\\.(?:a26|bin)$",

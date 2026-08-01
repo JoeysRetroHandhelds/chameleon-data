@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 11,
+  "revisionNumber": 12,
   "platform": {
     "name": "MSX",
     "uniqueId": "msx",
@@ -26,7 +26,7 @@
   },
   "playerList": [
     {
-      "name": "msx - com.explusalpha.MsxEmu",
+      "name": "msx - MSX.emu",
       "uniqueId": "msx.com.explusalpha.MsxEmu",
       "description": "Supported extensions: cas, col, dsk, fdi, m3u, mx1, mx2, ri, rom, sc, sg.",
       "acceptedFilenameRegex": "^(.*)\\.(?:cas|col|dsk|fdi|m3u|mx1|mx2|ri|rom|sc|sg)$",

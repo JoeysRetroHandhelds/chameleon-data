@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 17,
+  "revisionNumber": 18,
   "platform": {
     "name": "Nintendo 64",
     "uniqueId": "n64",
@@ -25,7 +25,7 @@
   },
   "playerList": [
     {
-      "name": "n64 - org.mupen64plusae.v3.fzurita",
+      "name": "n64 - M64Plus FZ",
       "uniqueId": "n64.org.mupen64plusae.v3.fzurita",
       "description": "Supported extensions: bin, n64, ndd, u1, v64, z64.",
       "acceptedFilenameRegex": "^(.*)\\.(?:bin|n64|ndd|u1|v64|z64)$",
@@ -35,7 +35,7 @@
       "extra": ""
     },
     {
-      "name": "n64 - org.mupen64plusae.v3.alpha",
+      "name": "n64 - Mupen64Plus AE",
       "uniqueId": "n64.org.mupen64plusae.v3.alpha",
       "description": "Supported extensions: bin, n64, ndd, u1, v64, z64, zip, 7z.",
       "acceptedFilenameRegex": "^(.*)\\.(?:bin|n64|ndd|u1|v64|z64|zip|7z)$",
@@ -45,7 +45,7 @@
       "extra": ""
     },
     {
-      "name": "n64 - org.mupen64plusae.v3.alpha.debug",
+      "name": "n64 - Mupen64Plus AE (debug)",
       "uniqueId": "n64.org.mupen64plusae.v3.alpha.debug",
       "description": "Supported extensions: bin, n64, ndd, u1, v64, z64, zip, 7z.",
       "acceptedFilenameRegex": "^(.*)\\.(?:bin|n64|ndd|u1|v64|z64|zip|7z)$",
@@ -55,7 +55,7 @@
       "extra": ""
     },
     {
-      "name": "n64 - org.mupen64plusae.v3.fzurita.pro",
+      "name": "n64 - M64Plus FZ Pro",
       "uniqueId": "n64.org.mupen64plusae.v3.fzurita.pro",
       "description": "Supported extensions: bin, n64, ndd, u1, v64, z64, zip, 7z.",
       "acceptedFilenameRegex": "^(.*)\\.(?:bin|n64|ndd|u1|v64|z64|zip|7z)$",
@@ -65,7 +65,7 @@
       "extra": ""
     },
     {
-      "name": "n64 - paulscode.android.mupen64plusae",
+      "name": "n64 - Mupen64Plus AE (legacy)",
       "uniqueId": "n64.paulscode.android.mupen64plusae",
       "description": "Supported extensions: bin, n64, ndd, u1, v64, z64.",
       "acceptedFilenameRegex": "^(.*)\\.(?:bin|n64|ndd|u1|v64|z64)$",

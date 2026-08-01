@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 10,
+  "revisionNumber": 11,
   "platform": {
     "name": "Famicom Disk System",
     "uniqueId": "fds",
@@ -23,7 +23,7 @@
   },
   "playerList": [
     {
-      "name": "fds - com.explusalpha.NesEmu",
+      "name": "fds - NES.emu",
       "uniqueId": "fds.com.explusalpha.NesEmu",
       "description": "Support extensions: bin, fds, nes, nsf, qd, rom, unf, unif.",
       "acceptedFilenameRegex": "^(.*)\\.(?:bin|fds|nes|nsf|qd|rom|unf|unif)$",
@@ -33,7 +33,7 @@
       "extra": ""
     },
     {
-      "name": "fds - com.androidemu.nes",
+      "name": "fds - Nesoid",
       "uniqueId": "fds.com.androidemu.nes",
       "description": "Support extensions: bin, fds, nes, nsf, qd, rom, unf, unif.",
       "acceptedFilenameRegex": "^(.*)\\.(?:bin|fds|nes|nsf|qd|rom|unf|unif)$",

@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 11,
+  "revisionNumber": 12,
   "platform": {
     "name": "Commodore 64",
     "uniqueId": "c64",
@@ -25,7 +25,7 @@
   },
   "playerList": [
     {
-      "name": "c64 - com.explusalpha.C64Emu",
+      "name": "c64 - C64.emu",
       "uniqueId": "c64.com.explusalpha.C64Emu",
       "description": "Supported extensions: bin, crt, d64, d6z, d71, d7z, d80, d81, d82, d8z, g41, g4z, g64, g6z, gz, lnx, p00, prg, t64, tap, x64, x6z, zip.",
       "acceptedFilenameRegex": "^(.*)\\.(?:bin|crt|d64|d6z|d71|d7z|d80|d81|d82|d8z|g41|g4z|g64|g6z|gz|lnx|p00|prg|t64|tap|x64|x6z|zip)$",

@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 10,
+  "revisionNumber": 11,
   "platform": {
     "name": "Atomiswave",
     "uniqueId": "atomiswave",
@@ -25,7 +25,7 @@
   },
   "playerList": [
     {
-      "name": "atomiswave - io.recompiled.redream",
+      "name": "atomiswave - redream",
       "uniqueId": "atomiswave.io.recompiled.redream",
       "description": "Supported extensions: 7z, bin, cdi, chd, cue, dat, elf, gdi, iso, lst, m3u, zip.",
       "acceptedFilenameRegex": "^(.*)\\.(?:7z|bin|cdi|chd|cue|dat|elf|gdi|iso|lst|m3u|zip)$",
@@ -35,7 +35,7 @@
       "extra": ""
     },
     {
-      "name": "atomiswave - com.reicast.emulator",
+      "name": "atomiswave - reicast",
       "uniqueId": "atomiswave.com.reicast.emulator",
       "description": "Supported extensions: 7z, chd, dat, lst, zip.",
       "acceptedFilenameRegex": "^(.*)\\.(?:7z|chd|dat|lst|zip)$",
@@ -45,7 +45,7 @@
       "extra": ""
     },
     {
-      "name": "atomiswave - com.flycast.emulator",
+      "name": "atomiswave - Flycast",
       "uniqueId": "atomiswave.com.flycast.emulator",
       "description": "Supported extensions: 7z, chd, dat, lst, zip.",
       "acceptedFilenameRegex": "^(.*)\\.(?:7z|chd|dat|lst|zip)$",

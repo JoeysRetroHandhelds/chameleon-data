@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 20,
+  "revisionNumber": 21,
   "platform": {
     "name": "Nintendo - Game Boy Color",
     "uniqueId": "gbc",
@@ -55,7 +55,7 @@
       "extra": ""
     },
     {
-      "name": "gbc - com.explusalpha.GbcEmu",
+      "name": "gbc - GBC.emu",
       "uniqueId": "gbc.com.explusalpha.GbcEmu",
       "description": "Support extensions: bin, cgb, dmg, gb, gbc, gbs, rom, sgb.",
       "acceptedFilenameRegex": "^(.*)\\.(?:bin|cgb|dmg|gb|gbc|gbs|rom|sgb)$",
@@ -65,7 +65,7 @@
       "extra": ""
     },
     {
-      "name": "gbc - com.fastemulator.gbcfree",
+      "name": "gbc - My OldBoy! Free",
       "uniqueId": "gbc.com.fastemulator.gbcfree",
       "description": "Support extensions: bin, cgb, dmg, gb, gbc, gbs, rom, sgb.",
       "acceptedFilenameRegex": "^(.*)\\.(?:bin|cgb|dmg|gb|gbc|gbs|rom|sgb)$",
@@ -75,7 +75,7 @@
       "extra": ""
     },
     {
-      "name": "gbc - com.fastemulator.gbc",
+      "name": "gbc - My OldBoy!",
       "uniqueId": "gbc.com.fastemulator.gbc",
       "description": "Support extensions: bin, cgb, dmg, gb, gbc, gbs, rom, sgb.",
       "acceptedFilenameRegex": "^(.*)\\.(?:bin|cgb|dmg|gb|gbc|gbs|rom|sgb)$",

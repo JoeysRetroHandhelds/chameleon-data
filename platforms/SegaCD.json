@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 8,
+  "revisionNumber": 9,
   "platform": {
     "name": "Sega CD",
     "uniqueId": "segacd",
@@ -23,7 +23,7 @@
   },
   "playerList": [
     {
-      "name": "segacd - com.explusalpha.MdEmu",
+      "name": "segacd - MD.emu",
       "uniqueId": "segacd.com.explusalpha.MdEmu",
       "description": "Support extensions: 32x, 68k, bin, bms, chd, cue, gen, gg, iso, m3u, md, mdx, pco, sg, sgd, smd, sms.",
       "acceptedFilenameRegex": "^(.*)\\.(?:32x|68k|bin|bms|chd|cue|gen|gg|iso|m3u|md|mdx|pco|sg|sgd|smd|sms)$",
