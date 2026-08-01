@@ -9873,7 +9873,7 @@
    "playerList": [
     {
      "acceptedFilenameRegex": "^(.*).(?:bin|chd|cue|ecm|exe|img|iso|m3u|mds|pbp|psexe|psf)$",
-     "amStartArguments": "-n com.github.stenzek.duckstation/.EmulationActivity\n-e bootPath {file.uri}\n --activity-clear-task\n --activity-clear-top",
+     "amStartArguments": "-n com.github.stenzek.duckstation/.EmulationActivity\n-e bootPath {file.path}\n --activity-clear-task\n --activity-clear-top",
      "description": "Supported extensions: bin, chd, cue, ecm, exe, img, iso, m3u, mds, pbp, psexe, psf.",
      "extra": "",
      "killPackageProcesses": false,
