@@ -1,0 +1,411 @@
+{
+  "themes": [
+    {
+      "name": "Alekfull NX (Revisited)",
+      "repository": "anthonycaccese/alekfull-nx-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "light-original",
+      "author": "ant and fagnerpc",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": false
+    },
+    {
+      "name": "Art Book Next",
+      "repository": "anthonycaccese/art-book-next-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "dark-screenshots",
+      "author": "ant",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": false
+    },
+    {
+      "name": "Canvas",
+      "repository": "Siddy212/canvas-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "dark-capsule",
+      "author": "Siddy212",
+      "license": "CC0-1.0",
+      "vectorArtwork": false
+    },
+    {
+      "name": "CarAlt",
+      "repository": "Weestuarty-es-de/caralt-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "gold",
+      "author": "Weestuarty",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": true
+    },
+    {
+      "name": "Chicuelo (Revisited)",
+      "repository": "anthonycaccese/chicuelo-revisited-es-de",
+      "branch": "master",
+      "host": "github",
+      "author": "ant and Chicuelo",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": true
+    },
+    {
+      "name": "CodyWheel",
+      "repository": "Weestuarty-es-de/codywheel-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "mono",
+      "author": "Weestuarty",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": true
+    },
+    {
+      "name": "Colorful (Revisited)",
+      "repository": "anthonycaccese/colorful-revisited-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "light",
+      "author": "ant and viking",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": false
+    },
+    {
+      "name": "Colorful (Simplified)",
+      "repository": "anthonycaccese/colorful-simplified-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "colorful",
+      "author": "ant and viking",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": false
+    },
+    {
+      "name": "DEcaffe",
+      "repository": "Weestuarty-es-de/decaffe-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "5",
+      "author": "Weestuarty",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": true
+    },
+    {
+      "name": "Diamond",
+      "repository": "Weestuarty-es-de/diamond-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "5",
+      "author": "Weestuarty and GreatFlash",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": true
+    },
+    {
+      "name": "Elegance",
+      "repository": "Weestuarty-es-de/elegance-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "1",
+      "author": "Weestuarty",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": true
+    },
+    {
+      "name": "ES-DE-Mini",
+      "repository": "Weestuarty-es-de/mini-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "snes",
+      "author": "Weestuarty",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": false
+    },
+    {
+      "name": "ForAll",
+      "repository": "Weestuarty-es-de/forall-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "mono1",
+      "author": "Weestuarty",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": true
+    },
+    {
+      "name": "Iconic",
+      "repository": "Siddy212/iconic-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "light-default",
+      "author": "Siddy212 and Matt S",
+      "license": "CC0-1.0",
+      "vectorArtwork": false
+    },
+    {
+      "name": "Immersive (Revisited)",
+      "repository": "anthonycaccese/immersive-revisited-es-de",
+      "branch": "master",
+      "host": "github",
+      "author": "ant",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": false
+    },
+    {
+      "name": "NSO Menu (Interpreted)",
+      "repository": "anthonycaccese/nso-menu-interpreted-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "controllers",
+      "author": "ant and rog",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": false
+    },
+    {
+      "name": "PlayStation-X",
+      "repository": "RobZombie9043/playstation-x-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "ps4",
+      "author": "Rob Zombie and pajarorrojo",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": false
+    },
+    {
+      "name": "PS5 Menu",
+      "repository": "InitialDin/ps5-menu-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "mediavideo",
+      "author": "InitialDin",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": false
+    },
+    {
+      "name": "Razor",
+      "repository": "Weestuarty-es-de/razor-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "watch",
+      "author": "Weestuarty",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": true
+    },
+    {
+      "name": "Retrofix (Revisited)",
+      "repository": "anthonycaccese/retrofix-revisited-es-de",
+      "branch": "main",
+      "host": "github",
+      "author": "ant and 20GotoTen",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": true
+    },
+    {
+      "name": "Saga Diamond",
+      "repository": "Jetup13/sagadiamond-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "white",
+      "author": "Jetup",
+      "license": "CC-BY",
+      "vectorArtwork": false
+    },
+    {
+      "name": "Showcase",
+      "repository": "Weestuarty-es-de/showcase-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "mono",
+      "author": "Weestuarty",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": false
+    },
+    {
+      "name": "SimCar",
+      "repository": "Weestuarty-es-de/simcar-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "gold",
+      "author": "Weestuarty",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": true
+    },
+    {
+      "name": "TateGriddy",
+      "repository": "Weestuarty-es-de/tategriddy-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "grey",
+      "author": "Weestuarty",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": true
+    },
+    {
+      "name": "TexGriddy",
+      "repository": "Weestuarty-es-de/texgriddy-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "grey",
+      "author": "Weestuarty",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": true
+    },
+    {
+      "name": "Grimmlex",
+      "repository": "thraeg-group/grimmlex-es-de",
+      "branch": "main",
+      "host": "gitlab",
+      "colorScheme": "oled",
+      "author": "Thraeg Group",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": true
+    },
+    {
+      "name": "XMB Menu",
+      "repository": "anthonycaccese/xmb-menu-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "blue-video",
+      "author": "InitialDin and ant",
+      "license": "CC-BY-NC-SA",
+      "vectorArtwork": false
+    },
+    {
+      "name": "Analogue 3D OS Menu",
+      "repository": "seanfletchr/analogue-3d-menu-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "noBackground",
+      "author": "Sean",
+      "license": "Not stated",
+      "vectorArtwork": false
+    },
+    {
+      "name": "Carbon",
+      "repository": "lilbud/carbon-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "red",
+      "author": "lilbud and Rookervik",
+      "license": "Not stated",
+      "vectorArtwork": true
+    },
+    {
+      "name": "Catppuccin",
+      "repository": "RobZombie9043/catppuccin-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "mocha",
+      "author": "Rob Zombie",
+      "license": "Not stated",
+      "vectorArtwork": false
+    },
+    {
+      "name": "Colorful (Pop!)",
+      "repository": "RobZombie9043/colorful-pop-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "light",
+      "author": "Rob Zombie, ant and viking",
+      "license": "Not stated",
+      "vectorArtwork": false
+    },
+    {
+      "name": "Compendium",
+      "repository": "RobZombie9043/compendium-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "dracula",
+      "author": "Rob Zombie",
+      "license": "Not stated",
+      "vectorArtwork": false
+    },
+    {
+      "name": "Elementerial",
+      "repository": "RobZombie9043/elementerial-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "strawberry-dark",
+      "author": "Rob Zombie and mluizvitor",
+      "license": "Not stated",
+      "vectorArtwork": false
+    },
+    {
+      "name": "ES-DWEE",
+      "repository": "Weestuarty-es-de/es-dwee-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "weeblue",
+      "author": "Weestuarty",
+      "license": "Not stated",
+      "vectorArtwork": false
+    },
+    {
+      "name": "Escape",
+      "repository": "RobZombie9043/escape-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "1_dawn",
+      "author": "Rob Zombie",
+      "license": "Not stated",
+      "vectorArtwork": true
+    },
+    {
+      "name": "Homage",
+      "repository": "Weestuarty-es-de/homage-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "space",
+      "author": "Weestuarty",
+      "license": "Not stated",
+      "vectorArtwork": true
+    },
+    {
+      "name": "Horizon",
+      "repository": "RobZombie9043/horizon-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "default",
+      "author": "Rob Zombie",
+      "license": "Not stated",
+      "vectorArtwork": false
+    },
+    {
+      "name": "iiSU Interpreted",
+      "repository": "MrVictorFull57/iisu-interpreted-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "light",
+      "author": "MrVictorFull and UsagiShade",
+      "license": "Not stated",
+      "vectorArtwork": false
+    },
+    {
+      "name": "shinretro (Revisited)",
+      "repository": "RobZombie9043/shinretro-revisited-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "dark",
+      "author": "Rob Zombie and ant",
+      "license": "Not stated",
+      "vectorArtwork": false
+    },
+    {
+      "name": "Smooth",
+      "repository": "Weestuarty-es-de/smooth-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "oled",
+      "author": "Weestuarty",
+      "license": "Not stated",
+      "vectorArtwork": true
+    },
+    {
+      "name": "TechDweeb",
+      "repository": "anthonycaccese/techdweeb-es-de",
+      "branch": "main",
+      "host": "github",
+      "colorScheme": "orange",
+      "author": "TechDweeb and ant",
+      "license": "Not stated",
+      "vectorArtwork": false
+    }
+  ]
+}
