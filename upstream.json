@@ -142,5 +142,12 @@
   "hash-schemes.json": {
     "source": "Ours",
     "relationship": "Which rule each console uses. The rules live in the app; see its docs/hashing.md for what each one does and what it was verified against."
+  },
+  "esde-themes.json": {
+    "source": "Ours, seeded from the app's built-in list",
+    "relationship": "Hand-maintained. The app reads this instead of its compiled-in copy, so a theme published between app releases is added here by pull request rather than waiting for one. The compiled-in copy stays as the offline fallback and the two should be kept in step.",
+    "note": "ES-DE's own theme list carries no licences, so entries generated from it arrive with the licence unstated and the app says so rather than guessing. A malformed entry costs that theme and not the list.",
+    "seededOn": "2026-08-02",
+    "themesAtSeed": 41
   }
 }
