@@ -1260,7 +1260,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Atomiswave",
+    "name": "Sammy Atomiswave",
     "retroAchievementsConsoleIdList": [],
     "scraperSourceList": [
      "LIBRETRO:Atomiswave",
@@ -1347,7 +1347,7 @@
      "uniqueId": "atomiswave.ra.flycast"
     }
    ],
-   "revisionNumber": 11
+   "revisionNumber": 12
   },
   "BBCMicro.json": {
    "databaseVersion": 14,
@@ -1358,7 +1358,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Acorn Computers BBC Micro",
+    "name": "Acorn BBC Micro",
     "retroAchievementsConsoleIdList": [],
     "scraperSourceList": [],
     "screenAspectRatioId": 0,
@@ -1399,7 +1399,7 @@
      "uniqueId": "bbcmicro.ra.b2"
     }
    ],
-   "revisionNumber": 4
+   "revisionNumber": 5
   },
   "BookReader.json": {
    "databaseVersion": 14,
@@ -1482,7 +1482,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "CP System I",
+    "name": "Capcom CP System I",
     "retroAchievementsConsoleIdList": [
      27
     ],
@@ -1610,7 +1610,7 @@
      "uniqueId": "cps1.ra.fbalpha2012_cps1"
     }
    ],
-   "revisionNumber": 6
+   "revisionNumber": 7
   },
   "CPS2.json": {
    "databaseVersion": 14,
@@ -1621,7 +1621,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "CP System II",
+    "name": "Capcom CP System II",
     "retroAchievementsConsoleIdList": [
      27
     ],
@@ -1739,7 +1739,7 @@
      "uniqueId": "cps2.ra.fbalpha2012_cps2"
     }
    ],
-   "revisionNumber": 6
+   "revisionNumber": 7
   },
   "CPS3.json": {
    "databaseVersion": 14,
@@ -1750,7 +1750,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "CP System III",
+    "name": "Capcom CP System III",
     "retroAchievementsConsoleIdList": [
      27
     ],
@@ -1868,7 +1868,7 @@
      "uniqueId": "cps3.ra.fbalpha2012_cps3"
     }
    ],
-   "revisionNumber": 6
+   "revisionNumber": 7
   },
   "CannonballOutRunEngine.json": {
    "databaseVersion": 14,
@@ -2405,7 +2405,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Commodore - PET",
+    "name": "Commodore PET",
     "retroAchievementsConsoleIdList": [],
     "scraperSourceList": [
      "LIBRETRO:Commodore - PET"
@@ -2448,7 +2448,7 @@
      "uniqueId": "pet.ra.vice_xpet"
     }
    ],
-   "revisionNumber": 4
+   "revisionNumber": 5
   },
   "CommodorePlus4.json": {
    "databaseVersion": 14,
@@ -2459,7 +2459,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Commodore - PLUS/4",
+    "name": "Commodore Plus/4",
     "retroAchievementsConsoleIdList": [],
     "scraperSourceList": [
      "LIBRETRO:Commodore - Plus-4",
@@ -2503,7 +2503,7 @@
      "uniqueId": "plus4.ra.vice_xplus4"
     }
    ],
-   "revisionNumber": 5
+   "revisionNumber": 6
   },
   "DOOMGameEngine.json": {
    "databaseVersion": 14,
@@ -2686,7 +2686,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Dreamcast",
+    "name": "Sega Dreamcast",
     "retroAchievementsConsoleIdList": [
      40
     ],
@@ -2771,7 +2771,7 @@
      "uniqueId": "dreamcast.ra.flycast"
     }
    ],
-   "revisionNumber": 11
+   "revisionNumber": 12
   },
   "ElektorTVGamesComputer.json": {
    "databaseVersion": 14,
@@ -2861,7 +2861,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Famicom Disk System",
+    "name": "Nintendo Famicom Disk System",
     "retroAchievementsConsoleIdList": [
      7
     ],
@@ -2986,7 +2986,7 @@
      "uniqueId": "fds.ra.mesen"
     }
    ],
-   "revisionNumber": 11
+   "revisionNumber": 12
   },
   "FlashPlayer.json": {
    "databaseVersion": 14,
@@ -3148,7 +3148,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Intellivision",
+    "name": "Mattel Intellivision",
     "retroAchievementsConsoleIdList": [
      45
     ],
@@ -3193,7 +3193,7 @@
      "uniqueId": "intellivision.ra.freeintv"
     }
    ],
-   "revisionNumber": 7
+   "revisionNumber": 8
   },
   "IntertonVC4000.json": {
    "databaseVersion": 14,
@@ -3258,7 +3258,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Java Me",
+    "name": "Java ME",
     "retroAchievementsConsoleIdList": [],
     "scraperSourceList": [],
     "screenAspectRatioId": 0,
@@ -3319,7 +3319,7 @@
      "uniqueId": "j2me.ra.squirreljme"
     }
    ],
-   "revisionNumber": 9
+   "revisionNumber": 10
   },
   "LowResNX.json": {
    "databaseVersion": 14,
@@ -3593,7 +3593,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Microsoft - Xbox",
+    "name": "Microsoft Xbox",
     "retroAchievementsConsoleIdList": [
      22
     ],
@@ -3630,7 +3630,7 @@
      "uniqueId": "xbox.com.rfandango.haku_x"
     }
    ],
-   "revisionNumber": 5
+   "revisionNumber": 6
   },
   "MicrosoftXbox360.json": {
    "databaseVersion": 14,
@@ -3641,7 +3641,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Microsoft - XBox 360",
+    "name": "Microsoft Xbox 360",
     "retroAchievementsAlias": null,
     "scraperSourceList": [
      "LIBRETRO:Microsoft - Xbox 360",
@@ -3696,7 +3696,7 @@
      "uniqueId": "xbox360.xendroid.composee"
     }
    ],
-   "revisionNumber": 6
+   "revisionNumber": 7
   },
   "Moonlight.json": {
    "databaseVersion": 14,
@@ -3948,7 +3948,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Neo Geo",
+    "name": "SNK Neo Geo",
     "retroAchievementsConsoleIdList": [
      27
     ],
@@ -4069,7 +4069,7 @@
      "uniqueId": "neogeo.ra.geolith"
     }
    ],
-   "revisionNumber": 13
+   "revisionNumber": 14
   },
   "NeoGeoCD.json": {
    "databaseVersion": 14,
@@ -4080,7 +4080,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Neo Geo CD",
+    "name": "SNK Neo Geo CD",
     "retroAchievementsConsoleIdList": [
      56
     ],
@@ -4161,7 +4161,7 @@
      "uniqueId": "neogeocd.ra.fbneo"
     }
    ],
-   "revisionNumber": 10
+   "revisionNumber": 11
   },
   "NeoGeoPocket.json": {
    "databaseVersion": 14,
@@ -4172,7 +4172,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "NeoGeo Pocket",
+    "name": "SNK Neo Geo Pocket",
     "retroAchievementsConsoleIdList": [
      14
     ],
@@ -4257,7 +4257,7 @@
      "uniqueId": "ngp.ra.race"
     }
    ],
-   "revisionNumber": 11
+   "revisionNumber": 12
   },
   "NeoGeoPocketColor.json": {
    "databaseVersion": 14,
@@ -4268,7 +4268,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "NeoGeo Pocket Color",
+    "name": "SNK Neo Geo Pocket Color",
     "retroAchievementsConsoleIdList": [],
     "scraperSourceList": [
      "LIBRETRO:SNK - Neo Geo Pocket Color"
@@ -4351,7 +4351,7 @@
      "uniqueId": "ngpc.ra.race"
     }
    ],
-   "revisionNumber": 8
+   "revisionNumber": 9
   },
   "Ngage.json": {
    "databaseVersion": 14,
@@ -5447,7 +5447,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Nintendo - Game & Watch",
+    "name": "Nintendo Game & Watch",
     "retroAchievementsConsoleIdList": [
      60
     ],
@@ -5524,7 +5524,7 @@
      "uniqueId": "gw.ra.mamemess"
     }
    ],
-   "revisionNumber": 8
+   "revisionNumber": 9
   },
   "NintendoGameBoy.json": {
    "databaseVersion": 14,
@@ -5535,7 +5535,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Nintendo - Game Boy",
+    "name": "Nintendo Game Boy",
     "retroAchievementsConsoleIdList": [
      4
     ],
@@ -5892,7 +5892,7 @@
      "uniqueId": "gb.ra.skyemu"
     }
    ],
-   "revisionNumber": 22
+   "revisionNumber": 23
   },
   "NintendoGameBoyAdvance.json": {
    "databaseVersion": 14,
@@ -5903,7 +5903,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Nintendo - Game Boy Advance",
+    "name": "Nintendo Game Boy Advance",
     "retroAchievementsConsoleIdList": [
      5
     ],
@@ -6230,7 +6230,7 @@
      "uniqueId": "gba.ra.skyemu"
     }
    ],
-   "revisionNumber": 20
+   "revisionNumber": 21
   },
   "NintendoGameBoyColor.json": {
    "databaseVersion": 14,
@@ -6241,7 +6241,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Nintendo - Game Boy Color",
+    "name": "Nintendo Game Boy Color",
     "retroAchievementsConsoleIdList": [
      6
     ],
@@ -6568,7 +6568,7 @@
      "uniqueId": "gbc.ra.mgba"
     }
    ],
-   "revisionNumber": 21
+   "revisionNumber": 22
   },
   "NintendoGameCube.json": {
    "databaseVersion": 14,
@@ -6579,7 +6579,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Nintendo - GameCube",
+    "name": "Nintendo GameCube",
     "retroAchievementsConsoleIdList": [
      16
     ],
@@ -6726,7 +6726,7 @@
      "uniqueId": "gc.com.joeyos.dolphinemu"
     }
    ],
-   "revisionNumber": 19
+   "revisionNumber": 20
   },
   "NintendoSatellaview.json": {
    "databaseVersion": 14,
@@ -7827,7 +7827,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "PlayStation Portable",
+    "name": "Sony PlayStation Portable",
     "retroAchievementsConsoleIdList": [
      41
     ],
@@ -7902,7 +7902,7 @@
      "uniqueId": "psp.ra.ppsspp"
     }
    ],
-   "revisionNumber": 14
+   "revisionNumber": 15
   },
   "PlayStationPortableMinis.json": {
    "databaseVersion": 14,
@@ -7913,7 +7913,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "PlayStation Portable Minis",
+    "name": "Sony PlayStation Portable Minis",
     "retroAchievementsConsoleIdList": [],
     "scraperSourceList": [
      "LIBRETRO:Sony - PlayStation Portable"
@@ -7986,7 +7986,7 @@
      "uniqueId": "pspminis.ra.ppsspp"
     }
    ],
-   "revisionNumber": 7
+   "revisionNumber": 8
   },
   "PokemonMini.json": {
    "databaseVersion": 14,
@@ -7997,7 +7997,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Pokemon Mini",
+    "name": "Nintendo Pokémon Mini",
     "retroAchievementsConsoleIdList": [
      24
     ],
@@ -8042,7 +8042,7 @@
      "uniqueId": "pokemini.ra.pokemini"
     }
    ],
-   "revisionNumber": 6
+   "revisionNumber": 7
   },
   "Ports.json": {
    "databaseVersion": 14,
@@ -9278,7 +9278,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Sega Naomi",
+    "name": "Sega NAOMI",
     "retroAchievementsConsoleIdList": [
      27
     ],
@@ -9346,7 +9346,7 @@
      "uniqueId": "naomi.ra.flycast"
     }
    ],
-   "revisionNumber": 13
+   "revisionNumber": 14
   },
   "SegaPico.json": {
    "databaseVersion": 14,
@@ -9799,7 +9799,7 @@
     "customScreenAspectRatio": "5:3",
     "description": null,
     "extra": "",
-    "name": "Sony PS Vita",
+    "name": "Sony PlayStation Vita",
     "retroAchievementsConsoleIdList": [],
     "scraperSourceList": [
      "LIBRETRO:Sony - PlayStation Vita",
@@ -9844,7 +9844,7 @@
      "uniqueId": "vita.com.sbro.emucorev"
     }
    ],
-   "revisionNumber": 9
+   "revisionNumber": 10
   },
   "SonyPlayStation.json": {
    "databaseVersion": 14,
@@ -10379,7 +10379,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "SuperGrafx",
+    "name": "NEC SuperGrafx",
     "retroAchievementsConsoleIdList": [],
     "scraperSourceList": [
      "LIBRETRO:NEC - PC Engine SuperGrafx"
@@ -10462,7 +10462,7 @@
      "uniqueId": "supergrafx.ra.mednafen_supergrafx"
     }
    ],
-   "revisionNumber": 6
+   "revisionNumber": 7
   },
   "SuperNintendoEntertainmentSystem.json": {
    "databaseVersion": 14,
@@ -11350,7 +11350,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "TurboGrafx-16",
+    "name": "NEC TurboGrafx-16",
     "retroAchievementsConsoleIdList": [
      8
     ],
@@ -11437,7 +11437,7 @@
      "uniqueId": "tg16.ra.mednafen_pce"
     }
    ],
-   "revisionNumber": 11
+   "revisionNumber": 12
   },
   "TurboGrafxCD.json": {
    "databaseVersion": 14,
@@ -11448,7 +11448,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "TurboGrafx-CD",
+    "name": "NEC TurboGrafx-CD",
     "retroAchievementsConsoleIdList": [
      76
     ],
@@ -11535,7 +11535,7 @@
      "uniqueId": "tgcd.ra.mednafen_pce"
     }
    ],
-   "revisionNumber": 11
+   "revisionNumber": 12
   },
   "Uzebox.json": {
    "databaseVersion": 14,
@@ -11660,7 +11660,7 @@
     "customScreenAspectRatio": "546:683",
     "description": null,
     "extra": "",
-    "name": "Vectrex",
+    "name": "GCE Vectrex",
     "retroAchievementsConsoleIdList": [
      46
     ],
@@ -11705,7 +11705,7 @@
      "uniqueId": "vectrex.ra.vecx"
     }
    ],
-   "revisionNumber": 6
+   "revisionNumber": 7
   },
   "VideoPlayer.json": {
    "databaseVersion": 14,
@@ -11840,7 +11840,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "Virtual Boy",
+    "name": "Nintendo Virtual Boy",
     "retroAchievementsConsoleIdList": [
      28
     ],
@@ -11895,7 +11895,7 @@
      "uniqueId": "virtualboy.ra.mednafen_vb"
     }
    ],
-   "revisionNumber": 7
+   "revisionNumber": 8
   },
   "WASM4.json": {
    "databaseVersion": 14,
@@ -12193,7 +12193,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "WonderSwan",
+    "name": "Bandai WonderSwan",
     "retroAchievementsConsoleIdList": [
      53
     ],
@@ -12248,7 +12248,7 @@
      "uniqueId": "ws.ra.mednafen_wswan"
     }
    ],
-   "revisionNumber": 9
+   "revisionNumber": 10
   },
   "WonderSwanColor.json": {
    "databaseVersion": 14,
@@ -12259,7 +12259,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "WonderSwan Color",
+    "name": "Bandai WonderSwan Color",
     "retroAchievementsConsoleIdList": [],
     "scraperSourceList": [
      "LIBRETRO:Bandai - WonderSwan Color"
@@ -12312,7 +12312,7 @@
      "uniqueId": "wsc.ra.mednafen_wswan"
     }
    ],
-   "revisionNumber": 9
+   "revisionNumber": 10
   },
   "XboxGamePass.json": {
    "databaseVersion": 14,
@@ -12323,7 +12323,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "XBox Game Pass",
+    "name": "Xbox Game Pass",
     "retroAchievementsAlias": null,
     "scraperSourceList": [],
     "screenAspectRatioId": 1,
@@ -12344,7 +12344,7 @@
      "uniqueId": "xbplay.com.studio08.xbgamestream"
     }
    ],
-   "revisionNumber": 2
+   "revisionNumber": 3
   },
   "ZX81.json": {
    "databaseVersion": 14,
@@ -12355,7 +12355,7 @@
     "customScreenAspectRatio": null,
     "description": null,
     "extra": "",
-    "name": "ZX 81",
+    "name": "ZX81",
     "retroAchievementsConsoleIdList": [
      31
     ],
@@ -12400,7 +12400,7 @@
      "uniqueId": "zx81.ra.81"
     }
    ],
-   "revisionNumber": 7
+   "revisionNumber": 8
   },
   "ZXSpectrum.json": {
    "databaseVersion": 14,
@@ -12476,57 +12476,57 @@
   "AtariJaguarCD.json": 8,
   "AtariLynx.json": 13,
   "AtariST.json": 9,
-  "Atomiswave.json": 11,
-  "BBCMicro.json": 4,
+  "Atomiswave.json": 12,
+  "BBCMicro.json": 5,
   "BookReader.json": 3,
-  "CPS1.json": 6,
-  "CPS2.json": 6,
-  "CPS3.json": 6,
+  "CPS1.json": 7,
+  "CPS2.json": 7,
+  "CPS3.json": 7,
   "CannonballOutRunEngine.json": 3,
   "CaveStoryGameEngine.json": 4,
   "Chip8.json": 4,
   "ColecoVision.json": 6,
   "Commodore64.json": 12,
   "CommodoreAmiga.json": 10,
-  "CommodorePET.json": 4,
-  "CommodorePlus4.json": 5,
+  "CommodorePET.json": 5,
+  "CommodorePlus4.json": 6,
   "DOOMGameEngine.json": 3,
   "DOS.json": 6,
-  "Dreamcast.json": 11,
+  "Dreamcast.json": 12,
   "ElektorTVGamesComputer.json": 1,
   "FairchildChannelF.json": 8,
-  "FamicomDiskSystem.json": 11,
+  "FamicomDiskSystem.json": 12,
   "FlashPlayer.json": 2,
   "FlashbackGameEngine.json": 3,
   "IdTech4A.json": 2,
-  "Intellivision.json": 7,
+  "Intellivision.json": 8,
   "IntertonVC4000.json": 5,
-  "JavaMe.json": 9,
+  "JavaMe.json": 10,
   "LowResNX.json": 3,
   "MSX.json": 12,
   "MagnavoxOdyssey2.json": 6,
   "MegaDuck.json": 3,
-  "MicrosoftXbox.json": 5,
-  "MicrosoftXbox360.json": 6,
+  "MicrosoftXbox.json": 6,
+  "MicrosoftXbox360.json": 7,
   "Moonlight.json": 6,
   "NECPC88.json": 6,
   "NECPC98.json": 6,
   "NECPCFX.json": 7,
-  "NeoGeo.json": 13,
-  "NeoGeoCD.json": 10,
-  "NeoGeoPocket.json": 11,
-  "NeoGeoPocketColor.json": 8,
+  "NeoGeo.json": 14,
+  "NeoGeoCD.json": 11,
+  "NeoGeoPocket.json": 12,
+  "NeoGeoPocketColor.json": 9,
   "Ngage.json": 5,
   "Nintendo3DS.json": 22,
   "Nintendo64.json": 18,
   "NintendoDS.json": 15,
   "NintendoDSi.json": 14,
   "NintendoEntertainmentSystem.json": 13,
-  "NintendoGame&Watch.json": 8,
-  "NintendoGameBoy.json": 22,
-  "NintendoGameBoyAdvance.json": 20,
-  "NintendoGameBoyColor.json": 21,
-  "NintendoGameCube.json": 19,
+  "NintendoGame&Watch.json": 9,
+  "NintendoGameBoy.json": 23,
+  "NintendoGameBoyAdvance.json": 21,
+  "NintendoGameBoyColor.json": 22,
+  "NintendoGameCube.json": 20,
   "NintendoSatellaview.json": 5,
   "NintendoSwitch.json": 22,
   "NintendoWii.json": 17,
@@ -12536,9 +12536,9 @@
   "PalmOS.json": 4,
   "PhilipsCDi.json": 7,
   "PhilipsVideopacG7400.json": 5,
-  "PlayStationPortable.json": 14,
-  "PlayStationPortableMinis.json": 7,
-  "PokemonMini.json": 6,
+  "PlayStationPortable.json": 15,
+  "PlayStationPortableMinis.json": 8,
+  "PokemonMini.json": 7,
   "Ports.json": 1,
   "Quake.json": 3,
   "QuakeII.json": 3,
@@ -12551,36 +12551,36 @@
   "SegaGenesisMSU.json": 6,
   "SegaMasterSystem.json": 16,
   "SegaModel3.json": 2,
-  "SegaNAOMI.json": 13,
+  "SegaNAOMI.json": 14,
   "SegaPico.json": 5,
   "SegaSG1000.json": 8,
   "SegaSaturn.json": 14,
   "SharpX1.json": 4,
   "SharpX68000.json": 6,
-  "SonyPSVita.json": 9,
+  "SonyPSVita.json": 10,
   "SonyPlayStation.json": 12,
   "SonyPlayStation2.json": 18,
   "SonyPlayStation3.json": 3,
   "Steam.json": 8,
-  "SuperGrafx.json": 6,
+  "SuperGrafx.json": 7,
   "SuperNintendoEntertainmentSystem.json": 14,
   "SuperNintendoEntertainmentSystemMSU1.json": 7,
   "TIC80.json": 3,
   "Triforce.json": 3,
-  "TurboGrafx16.json": 11,
-  "TurboGrafxCD.json": 11,
+  "TurboGrafx16.json": 12,
+  "TurboGrafxCD.json": 12,
   "Uzebox.json": 2,
   "VIC20.json": 6,
-  "Vectrex.json": 6,
+  "Vectrex.json": 7,
   "VideoPlayer.json": 9,
-  "VirtualBoy.json": 7,
+  "VirtualBoy.json": 8,
   "WASM4.json": 3,
   "WataraSupervision.json": 7,
   "Windows.json": 14,
-  "WonderSwan.json": 9,
-  "WonderSwanColor.json": 9,
-  "XboxGamePass.json": 2,
-  "ZX81.json": 7,
+  "WonderSwan.json": 10,
+  "WonderSwanColor.json": 10,
+  "XboxGamePass.json": 3,
+  "ZX81.json": 8,
   "ZXSpectrum.json": 9
  }
 }
