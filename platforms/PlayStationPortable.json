@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 14,
+  "revisionNumber": 15,
   "platform": {
-    "name": "PlayStation Portable",
+    "name": "Sony PlayStation Portable",
     "uniqueId": "psp",
     "shortname": "psp",
     "description": null,

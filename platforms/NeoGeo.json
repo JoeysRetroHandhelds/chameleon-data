@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 13,
+  "revisionNumber": 14,
   "platform": {
-    "name": "Neo Geo",
+    "name": "SNK Neo Geo",
     "uniqueId": "neogeo",
     "shortname": "neogeo",
     "description": null,

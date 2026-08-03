@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 19,
+  "revisionNumber": 20,
   "platform": {
-    "name": "Nintendo - GameCube",
+    "name": "Nintendo GameCube",
     "uniqueId": "gc",
     "shortname": "gc",
     "description": null,

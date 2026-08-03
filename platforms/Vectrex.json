@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 6,
+  "revisionNumber": 7,
   "platform": {
-    "name": "Vectrex",
+    "name": "GCE Vectrex",
     "uniqueId": "vectrex",
     "shortname": "vectrex",
     "description": null,

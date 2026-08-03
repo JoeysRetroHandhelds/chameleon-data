@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 7,
+  "revisionNumber": 8,
   "platform": {
-    "name": "Virtual Boy",
+    "name": "Nintendo Virtual Boy",
     "uniqueId": "virtualboy",
     "shortname": "virtualboy",
     "description": null,

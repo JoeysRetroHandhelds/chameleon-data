@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 9,
+  "revisionNumber": 10,
   "platform": {
-    "name": "Java Me",
+    "name": "Java ME",
     "uniqueId": "j2me",
     "shortname": "j2me",
     "description": null,

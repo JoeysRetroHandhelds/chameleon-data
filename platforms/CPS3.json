@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 6,
+  "revisionNumber": 7,
   "platform": {
-    "name": "CP System III",
+    "name": "Capcom CP System III",
     "uniqueId": "cps3",
     "shortname": "cps3",
     "description": null,

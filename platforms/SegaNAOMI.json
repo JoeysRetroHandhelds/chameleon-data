@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 13,
+  "revisionNumber": 14,
   "platform": {
-    "name": "Sega Naomi",
+    "name": "Sega NAOMI",
     "uniqueId": "naomi",
     "shortname": "naomi",
     "description": null,

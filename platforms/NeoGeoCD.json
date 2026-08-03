@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 10,
+  "revisionNumber": 11,
   "platform": {
-    "name": "Neo Geo CD",
+    "name": "SNK Neo Geo CD",
     "uniqueId": "neogeocd",
     "shortname": "neogeocd",
     "description": null,

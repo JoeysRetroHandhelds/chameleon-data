@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 7,
+  "revisionNumber": 8,
   "platform": {
-    "name": "Intellivision",
+    "name": "Mattel Intellivision",
     "uniqueId": "intellivision",
     "shortname": "intellivision",
     "description": null,

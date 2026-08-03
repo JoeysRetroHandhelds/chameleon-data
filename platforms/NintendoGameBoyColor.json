@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 21,
+  "revisionNumber": 22,
   "platform": {
-    "name": "Nintendo - Game Boy Color",
+    "name": "Nintendo Game Boy Color",
     "uniqueId": "gbc",
     "shortname": "gbc",
     "description": null,

@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 8,
+  "revisionNumber": 9,
   "platform": {
-    "name": "Nintendo - Game & Watch",
+    "name": "Nintendo Game & Watch",
     "uniqueId": "gw",
     "shortname": "gw",
     "description": null,

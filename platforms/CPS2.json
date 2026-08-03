@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 6,
+  "revisionNumber": 7,
   "platform": {
-    "name": "CP System II",
+    "name": "Capcom CP System II",
     "uniqueId": "cps2",
     "shortname": "cps2",
     "description": null,

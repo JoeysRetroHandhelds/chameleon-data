@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 5,
+  "revisionNumber": 6,
   "platform": {
-    "name": "Commodore - PLUS/4",
+    "name": "Commodore Plus/4",
     "uniqueId": "plus4",
     "shortname": "plus4",
     "description": null,

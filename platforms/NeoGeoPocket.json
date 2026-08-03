@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 11,
+  "revisionNumber": 12,
   "platform": {
-    "name": "NeoGeo Pocket",
+    "name": "SNK Neo Geo Pocket",
     "uniqueId": "ngp",
     "shortname": "ngp",
     "description": null,

@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 6,
+  "revisionNumber": 7,
   "platform": {
-    "name": "SuperGrafx",
+    "name": "NEC SuperGrafx",
     "uniqueId": "supergrafx",
     "shortname": "supergrafx",
     "description": null,

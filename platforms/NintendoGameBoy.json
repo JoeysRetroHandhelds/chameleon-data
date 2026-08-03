@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 22,
+  "revisionNumber": 23,
   "platform": {
-    "name": "Nintendo - Game Boy",
+    "name": "Nintendo Game Boy",
     "uniqueId": "gb",
     "shortname": "gb",
     "description": null,

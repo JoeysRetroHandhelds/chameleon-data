@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 6,
+  "revisionNumber": 7,
   "platform": {
-    "name": "Microsoft - XBox 360",
+    "name": "Microsoft Xbox 360",
     "uniqueId": "xbox360",
     "shortname": "xbox360",
     "description": null,

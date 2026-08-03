@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 11,
+  "revisionNumber": 12,
   "platform": {
-    "name": "Dreamcast",
+    "name": "Sega Dreamcast",
     "uniqueId": "dreamcast",
     "shortname": "dreamcast",
     "description": null,

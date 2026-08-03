@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 7,
+  "revisionNumber": 8,
   "platform": {
-    "name": "PlayStation Portable Minis",
+    "name": "Sony PlayStation Portable Minis",
     "uniqueId": "pspminis",
     "shortname": "pspminis",
     "description": null,

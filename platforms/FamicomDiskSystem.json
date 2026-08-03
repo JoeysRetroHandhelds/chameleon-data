@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 11,
+  "revisionNumber": 12,
   "platform": {
-    "name": "Famicom Disk System",
+    "name": "Nintendo Famicom Disk System",
     "uniqueId": "fds",
     "shortname": "fds",
     "description": null,

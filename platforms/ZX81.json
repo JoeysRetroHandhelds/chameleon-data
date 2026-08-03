@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 7,
+  "revisionNumber": 8,
   "platform": {
-    "name": "ZX 81",
+    "name": "ZX81",
     "uniqueId": "zx81",
     "shortname": "zx81",
     "description": null,

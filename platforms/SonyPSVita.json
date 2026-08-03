@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 9,
+  "revisionNumber": 10,
   "platform": {
-    "name": "Sony PS Vita",
+    "name": "Sony PlayStation Vita",
     "uniqueId": "vita",
     "shortname": "vita",
     "description": null,

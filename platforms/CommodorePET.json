@@ -1,8 +1,8 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 4,
+  "revisionNumber": 5,
   "platform": {
-    "name": "Commodore - PET",
+    "name": "Commodore PET",
     "uniqueId": "pet",
     "shortname": "pet",
     "description": null,
