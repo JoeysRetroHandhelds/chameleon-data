@@ -8,7 +8,8 @@
       "colorScheme": "light-original",
       "author": "ant and fagnerpc",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/alekfull-nx-es-de/alekfull-nx-es-de_01.jpg"
     },
     {
       "name": "Art Book Next",
@@ -18,7 +19,8 @@
       "colorScheme": "dark-screenshots",
       "author": "ant",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/art-book-next-es-de/art-book-next-es-de_01.webp"
     },
     {
       "name": "Canvas",
@@ -28,7 +30,8 @@
       "colorScheme": "dark-capsule",
       "author": "Siddy212",
       "license": "CC0-1.0",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/canvas-es-de/canvas-es-de_01.jpg"
     },
     {
       "name": "CarAlt",
@@ -38,7 +41,8 @@
       "colorScheme": "gold",
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": true
+      "vectorArtwork": true,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/caralt-es-de/caralt-es-de_01.jpg"
     },
     {
       "name": "Chicuelo (Revisited)",
@@ -47,7 +51,8 @@
       "host": "github",
       "author": "ant and Chicuelo",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": true
+      "vectorArtwork": true,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/chicuelo-revisited-es-de/chicuelo-revisited-es-de_01.jpg"
     },
     {
       "name": "CodyWheel",
@@ -57,7 +62,8 @@
       "colorScheme": "mono",
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": true
+      "vectorArtwork": true,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/codywheel-es-de/codywheel-es-de_01.jpg"
     },
     {
       "name": "Colorful (Revisited)",
@@ -67,7 +73,8 @@
       "colorScheme": "light",
       "author": "ant and viking",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-revisited-es-de/colorful-revisited-es-de_01.jpg"
     },
     {
       "name": "Colorful (Simplified)",
@@ -77,7 +84,8 @@
       "colorScheme": "colorful",
       "author": "ant and viking",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-simplified-es-de/colorful-simplified-es-de_01.jpg"
     },
     {
       "name": "DEcaffe",
@@ -87,7 +95,8 @@
       "colorScheme": "5",
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": true
+      "vectorArtwork": true,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/decaffe-es-de/decaffe-es-de_01.jpg"
     },
     {
       "name": "Diamond",
@@ -97,7 +106,8 @@
       "colorScheme": "5",
       "author": "Weestuarty and GreatFlash",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": true
+      "vectorArtwork": true,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/diamond-es-de/diamond-es-de_01.jpg"
     },
     {
       "name": "Elegance",
@@ -107,7 +117,8 @@
       "colorScheme": "1",
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": true
+      "vectorArtwork": true,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/elegance-es-de/elegance-es-de_01.jpg"
     },
     {
       "name": "ES-DE-Mini",
@@ -117,7 +128,8 @@
       "colorScheme": "snes",
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/mini-es-de/mini-es-de_01.jpg"
     },
     {
       "name": "ForAll",
@@ -127,7 +139,8 @@
       "colorScheme": "mono1",
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": true
+      "vectorArtwork": true,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/forall-es-de/forall-es-de_01.jpg"
     },
     {
       "name": "Iconic",
@@ -137,7 +150,8 @@
       "colorScheme": "light-default",
       "author": "Siddy212 and Matt S",
       "license": "CC0-1.0",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/iconic-es-de/iconic-es-de_01.jpg"
     },
     {
       "name": "Immersive (Revisited)",
@@ -146,7 +160,8 @@
       "host": "github",
       "author": "ant",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/immersive-revisited-es-de/immersive-revisited-es-de_01.jpg"
     },
     {
       "name": "NSO Menu (Interpreted)",
@@ -156,7 +171,8 @@
       "colorScheme": "controllers",
       "author": "ant and rog",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/nso-menu-interpreted-es-de/nso-menu-interpreted-es-de_01.jpg"
     },
     {
       "name": "PlayStation-X",
@@ -166,7 +182,8 @@
       "colorScheme": "ps4",
       "author": "Rob Zombie and pajarorrojo",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/playstation-x-es-de/playstation-x-es-de_01.jpg"
     },
     {
       "name": "PS5 Menu",
@@ -176,7 +193,8 @@
       "colorScheme": "mediavideo",
       "author": "InitialDin",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/ps5-menu-es-de/ps5-menu-es-de_01.jpg"
     },
     {
       "name": "Razor",
@@ -186,7 +204,8 @@
       "colorScheme": "watch",
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": true
+      "vectorArtwork": true,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/razor-es-de/razor-es-de_01.jpg"
     },
     {
       "name": "Retrofix (Revisited)",
@@ -195,7 +214,8 @@
       "host": "github",
       "author": "ant and 20GotoTen",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": true
+      "vectorArtwork": true,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/retrofix-revisited-es-de/retrofix-revisited-es-de_01.jpg"
     },
     {
       "name": "Saga Diamond",
@@ -205,7 +225,8 @@
       "colorScheme": "white",
       "author": "Jetup",
       "license": "CC-BY",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/sagadiamond-es-de/sagadiamond-es-de_01.jpg"
     },
     {
       "name": "Showcase",
@@ -215,7 +236,8 @@
       "colorScheme": "mono",
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/showcase-es-de/showcase-es-de_01.jpg"
     },
     {
       "name": "SimCar",
@@ -225,7 +247,8 @@
       "colorScheme": "gold",
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": true
+      "vectorArtwork": true,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/simcar-es-de/simcar-es-de_01.jpg"
     },
     {
       "name": "TateGriddy",
@@ -235,7 +258,8 @@
       "colorScheme": "grey",
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": true
+      "vectorArtwork": true,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/tategriddy-es-de/tategriddy-es-de_01.jpg"
     },
     {
       "name": "TexGriddy",
@@ -245,7 +269,8 @@
       "colorScheme": "grey",
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": true
+      "vectorArtwork": true,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/texgriddy-es-de/texgriddy-es-de_01.jpg"
     },
     {
       "name": "Grimmlex",
@@ -255,7 +280,8 @@
       "colorScheme": "oled",
       "author": "Thraeg Group",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": true
+      "vectorArtwork": true,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/grimmlex-es-de/grimmlex-es-de_01.jpg"
     },
     {
       "name": "XMB Menu",
@@ -265,7 +291,8 @@
       "colorScheme": "blue-video",
       "author": "InitialDin and ant",
       "license": "CC-BY-NC-SA",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/xmb-menu-es-de/xmb-menu-es-de_01.jpg"
     },
     {
       "name": "Analogue 3D OS Menu",
@@ -275,7 +302,8 @@
       "colorScheme": "noBackground",
       "author": "Sean",
       "license": "Not stated",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/analogue-3d-menu-es-de/analogue-3d-menu-es-de_01.jpg"
     },
     {
       "name": "Carbon",
@@ -285,7 +313,8 @@
       "colorScheme": "red",
       "author": "lilbud and Rookervik",
       "license": "Not stated",
-      "vectorArtwork": true
+      "vectorArtwork": true,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/carbon-es-de/carbon-es-de_01.jpg"
     },
     {
       "name": "Catppuccin",
@@ -295,7 +324,8 @@
       "colorScheme": "mocha",
       "author": "Rob Zombie",
       "license": "Not stated",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots//catppuccin-es-de//catppuccin-es-de_01.jpg"
     },
     {
       "name": "Colorful (Pop!)",
@@ -305,7 +335,8 @@
       "colorScheme": "light",
       "author": "Rob Zombie, ant and viking",
       "license": "Not stated",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-pop-es-de/colorful-pop-es-de_01.jpg"
     },
     {
       "name": "Compendium",
@@ -315,7 +346,8 @@
       "colorScheme": "dracula",
       "author": "Rob Zombie",
       "license": "Not stated",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/compendium-es-de/compendium-es-de_01.jpg"
     },
     {
       "name": "Elementerial",
@@ -325,7 +357,8 @@
       "colorScheme": "strawberry-dark",
       "author": "Rob Zombie and mluizvitor",
       "license": "Not stated",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/elementerial-es-de/elementerial-es-de_01.jpg"
     },
     {
       "name": "ES-DWEE",
@@ -335,7 +368,8 @@
       "colorScheme": "weeblue",
       "author": "Weestuarty",
       "license": "Not stated",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/es-dwee-es-de/es-dwee-es-de_01.jpg"
     },
     {
       "name": "Escape",
@@ -345,7 +379,8 @@
       "colorScheme": "1_dawn",
       "author": "Rob Zombie",
       "license": "Not stated",
-      "vectorArtwork": true
+      "vectorArtwork": true,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/escape-es-de/escape-es-de_01.jpg"
     },
     {
       "name": "Homage",
@@ -355,7 +390,8 @@
       "colorScheme": "space",
       "author": "Weestuarty",
       "license": "Not stated",
-      "vectorArtwork": true
+      "vectorArtwork": true,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/homage-es-de/homage-es-de_01.jpg"
     },
     {
       "name": "Horizon",
@@ -365,7 +401,8 @@
       "colorScheme": "default",
       "author": "Rob Zombie",
       "license": "Not stated",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/horizon-es-de/horizon-es-de_01.jpg"
     },
     {
       "name": "iiSU Interpreted",
@@ -375,7 +412,8 @@
       "colorScheme": "light",
       "author": "MrVictorFull and UsagiShade",
       "license": "Not stated",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/iisu-interpreted-es-de/iisu-interpreted-es-de_01.jpg"
     },
     {
       "name": "shinretro (Revisited)",
@@ -385,7 +423,8 @@
       "colorScheme": "dark",
       "author": "Rob Zombie and ant",
       "license": "Not stated",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/shinretro-revisited-es-de/shinretro-revisited-es-de_01.jpg"
     },
     {
       "name": "Smooth",
@@ -395,7 +434,8 @@
       "colorScheme": "oled",
       "author": "Weestuarty",
       "license": "Not stated",
-      "vectorArtwork": true
+      "vectorArtwork": true,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/smooth-es-de/smooth-es-de_01.jpg"
     },
     {
       "name": "TechDweeb",
@@ -405,7 +445,8 @@
       "colorScheme": "orange",
       "author": "TechDweeb and ant",
       "license": "Not stated",
-      "vectorArtwork": false
+      "vectorArtwork": false,
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/techdweeb-es-de/techdweeb-es-de_01.png"
     }
   ]
 }
