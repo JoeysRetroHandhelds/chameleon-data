@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 13,
+  "revisionNumber": 14,
   "platform": {
     "name": "Sony PlayStation",
     "uniqueId": "psx",
@@ -75,6 +75,16 @@
       "extra": ""
     },
     {
+      "name": "psx - ARMSX1",
+      "uniqueId": "psx.com.nanodata.armsx",
+      "description": "Supported extensions: bin, chd, cue, ecm, exe, img, iso, m3u, mds, pbp, psexe, psf.",
+      "acceptedFilenameRegex": "^(.*).(?:bin|chd|cue|ecm|exe|img|iso|m3u|mds|pbp|psexe|psf)$",
+      "amStartArguments": "-n com.nanodata.armsx/com.armsx2.Main\n -a android.intent.action.VIEW\n -d {file.uri}\n --activity-clear-task\n --activity-clear-top\n",
+      "killPackageProcesses": false,
+      "killPackageProcessesWarning": true,
+      "extra": ""
+    },
+    {
       "name": "psx - Retroarch 64 - beetle psx hw",
       "uniqueId": "psx.ra64.mednafen_psx_hw",
       "description": "Supported extensions: cue, toc, m3u, ccd, exe, pbp, chd.",
@@ -104,7 +114,7 @@
       "killPackageProcessesWarning": true,
       "extra": ""
     },
-   {
+    {
       "name": "psx - RetroArch 64 - goosestation",
       "uniqueId": "psx.ra64.goosestation",
       "description": "Supported extensions: bin, chd, cue, ecm, exe, img, iso, m3u, mds, pbp, psexe, psf.",
