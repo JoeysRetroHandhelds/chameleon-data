@@ -9,7 +9,25 @@
       "author": "ant and fagnerpc",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/alekfull-nx-es-de/alekfull-nx-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/alekfull-nx-es-de/alekfull-nx-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/alekfull-nx-es-de/alekfull-nx-es-de_01.jpg",
+          "caption": "System view, List: Metadata & Miximage variant, Dark color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/alekfull-nx-es-de/alekfull-nx-es-de_02.jpg",
+          "caption": "Gamelist view, List: Metadata & Miximage variant, Dark color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/alekfull-nx-es-de/alekfull-nx-es-de_03.jpg",
+          "caption": "System view, List: Metadata & Miximage variant, Light color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/alekfull-nx-es-de/alekfull-nx-es-de_04.jpg",
+          "caption": "Gamelist view, List: Metadata & Miximage variant, Light color scheme"
+        }
+      ]
     },
     {
       "name": "Art Book Next",
@@ -20,7 +38,25 @@
       "author": "ant",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/art-book-next-es-de/art-book-next-es-de_01.webp"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/art-book-next-es-de/art-book-next-es-de_01.webp",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/art-book-next-es-de/art-book-next-es-de_01.webp",
+          "caption": "System view, List: Metadata & Miximage variant, Dark [Screenshots] color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/art-book-next-es-de/art-book-next-es-de_02.webp",
+          "caption": "Gamelist view, List: Metadata & Miximage variant, Dark [Screenshots] color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/art-book-next-es-de/art-book-next-es-de_03.webp",
+          "caption": "System view, Grid: Boxart variant, SNES [Outline] color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/art-book-next-es-de/art-book-next-es-de_04.webp",
+          "caption": "Gamelist view, Grid: Boxart variant, SNES [Outline] color scheme"
+        }
+      ]
     },
     {
       "name": "Canvas",
@@ -31,7 +67,25 @@
       "author": "Siddy212",
       "license": "CC0-1.0",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/canvas-es-de/canvas-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/canvas-es-de/canvas-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/canvas-es-de/canvas-es-de_01.jpg",
+          "caption": "System view, [Grid] Textlist variant, [Art] Retro color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/canvas-es-de/canvas-es-de_02.jpg",
+          "caption": "Gamelist view, [Grid] Textlist variant, [Art] Retro color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/canvas-es-de/canvas-es-de_03.jpg",
+          "caption": "System view, [Grid] Carousel: Marquee variant, [Art] Dark color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/canvas-es-de/canvas-es-de_04.jpg",
+          "caption": "Gamelist view, [Grid] Carousel: Marquee variant, [Art] Dark color scheme"
+        }
+      ]
     },
     {
       "name": "CarAlt",
@@ -42,7 +96,33 @@
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": true,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/caralt-es-de/caralt-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/caralt-es-de/caralt-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/caralt-es-de/caralt-es-de_01.jpg",
+          "caption": "System view, Chilled color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/caralt-es-de/caralt-es-de_02.jpg",
+          "caption": "Gamelist view, With videos variant, Chilled color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/caralt-es-de/caralt-es-de_03.jpg",
+          "caption": "System view, Retro color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/caralt-es-de/caralt-es-de_04.jpg",
+          "caption": "Gamelist view, Without videos variant, Retro color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/caralt-es-de/caralt-es-de_05.jpg",
+          "caption": "System view, Purple Rain color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/caralt-es-de/caralt-es-de_06.jpg",
+          "caption": "Gamelist view, With videos variant, Purple Rain color scheme"
+        }
+      ]
     },
     {
       "name": "Chicuelo (Revisited)",
@@ -52,7 +132,21 @@
       "author": "ant and Chicuelo",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": true,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/chicuelo-revisited-es-de/chicuelo-revisited-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/chicuelo-revisited-es-de/chicuelo-revisited-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/chicuelo-revisited-es-de/chicuelo-revisited-es-de_01.jpg",
+          "caption": "System view, Artwork: Chicuelo variant"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/chicuelo-revisited-es-de/chicuelo-revisited-es-de_02.jpg",
+          "caption": "System view, Artwork: Screenshots variant"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/chicuelo-revisited-es-de/chicuelo-revisited-es-de_03.jpg",
+          "caption": "Gamelist view"
+        }
+      ]
     },
     {
       "name": "CodyWheel",
@@ -63,7 +157,33 @@
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": true,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/codywheel-es-de/codywheel-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/codywheel-es-de/codywheel-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/codywheel-es-de/codywheel-es-de_01.jpg",
+          "caption": "System view, Black n White color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/codywheel-es-de/codywheel-es-de_02.jpg",
+          "caption": "Gamelist view, Text Gamelist variant, Black n White color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/codywheel-es-de/codywheel-es-de_03.jpg",
+          "caption": "System view, Blue color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/codywheel-es-de/codywheel-es-de_04.jpg",
+          "caption": "Gamelist view, Carousel Gamelist variant, Blue color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/codywheel-es-de/codywheel-es-de_05.jpg",
+          "caption": "System view, Purple Rain color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/codywheel-es-de/codywheel-es-de_06.jpg",
+          "caption": "Gamelist view, Grid Gamelist variant, Purple Rain color scheme"
+        }
+      ]
     },
     {
       "name": "Colorful (Revisited)",
@@ -74,7 +194,25 @@
       "author": "ant and viking",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-revisited-es-de/colorful-revisited-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-revisited-es-de/colorful-revisited-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-revisited-es-de/colorful-revisited-es-de_01.jpg",
+          "caption": "System view, Light color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-revisited-es-de/colorful-revisited-es-de_02.jpg",
+          "caption": "Gamelist view, Light color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-revisited-es-de/colorful-revisited-es-de_03.jpg",
+          "caption": "System view, Dark color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-revisited-es-de/colorful-revisited-es-de_04.jpg",
+          "caption": "Gamelist view, Dark color scheme"
+        }
+      ]
     },
     {
       "name": "Colorful (Simplified)",
@@ -85,7 +223,21 @@
       "author": "ant and viking",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-simplified-es-de/colorful-simplified-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-simplified-es-de/colorful-simplified-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-simplified-es-de/colorful-simplified-es-de_01.jpg",
+          "caption": "System view, List: Boxart variant, Colorful color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-simplified-es-de/colorful-simplified-es-de_02.jpg",
+          "caption": "Gamelist view, List: Miximage variant, Colorful color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-simplified-es-de/colorful-simplified-es-de_03.jpg",
+          "caption": "Gamelist view, Carousel: Boxart variant, Dark color scheme"
+        }
+      ]
     },
     {
       "name": "DEcaffe",
@@ -96,7 +248,17 @@
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": true,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/decaffe-es-de/decaffe-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/decaffe-es-de/decaffe-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/decaffe-es-de/decaffe-es-de_01.jpg",
+          "caption": "System view, Solid w Meta variant, Blue light color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/decaffe-es-de/decaffe-es-de_02.jpg",
+          "caption": "Gamelist view, Solid w Meta variant, Blue light color scheme"
+        }
+      ]
     },
     {
       "name": "Diamond",
@@ -107,7 +269,25 @@
       "author": "Weestuarty and GreatFlash",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": true,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/diamond-es-de/diamond-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/diamond-es-de/diamond-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/diamond-es-de/diamond-es-de_01.jpg",
+          "caption": "System view, Color w/ text alt variant, Classy color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/diamond-es-de/diamond-es-de_02.jpg",
+          "caption": "Gamelist view, Color w/ text alt variant, Classy color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/diamond-es-de/diamond-es-de_03.jpg",
+          "caption": "System view, Color w/ text gamelist variant, Blue dark color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/diamond-es-de/diamond-es-de_04.jpg",
+          "caption": "Gamelist view, Color w/ text gamelist variant, Blue dark color scheme"
+        }
+      ]
     },
     {
       "name": "Elegance",
@@ -118,7 +298,17 @@
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": true,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/elegance-es-de/elegance-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/elegance-es-de/elegance-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/elegance-es-de/elegance-es-de_01.jpg",
+          "caption": "System view, Yellow color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/elegance-es-de/elegance-es-de_02.jpg",
+          "caption": "Gamelist view, Solid with Videos variant, Yellow color scheme"
+        }
+      ]
     },
     {
       "name": "ES-DE-Mini",
@@ -129,7 +319,33 @@
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/mini-es-de/mini-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/mini-es-de/mini-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/mini-es-de/mini-es-de_01.jpg",
+          "caption": "System view, Nintendo (List) variant, NES color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/mini-es-de/mini-es-de_02.jpg",
+          "caption": "Gamelist view, Nintendo (List) variant, NES color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/mini-es-de/mini-es-de_03.jpg",
+          "caption": "System view, PlayStation (List) variant, USNESA color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/mini-es-de/mini-es-de_04.jpg",
+          "caption": "Gamelist view, PlayStation (List) variant, USNESA color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/mini-es-de/mini-es-de_05.jpg",
+          "caption": "System view, Super Nintendo (Grid) variant, SNES color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/mini-es-de/mini-es-de_06.jpg",
+          "caption": "Gamelist view, Super Nintendo (Grid) variant, SNES color scheme"
+        }
+      ]
     },
     {
       "name": "ForAll",
@@ -140,7 +356,25 @@
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": true,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/forall-es-de/forall-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/forall-es-de/forall-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/forall-es-de/forall-es-de_01.jpg",
+          "caption": "System view, Impaired w videos variant, Bang Wong color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/forall-es-de/forall-es-de_02.jpg",
+          "caption": "Gamelist view, Impaired w videos variant, Bang Wong color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/forall-es-de/forall-es-de_03.jpg",
+          "caption": "System view, Dyslexia w videos variant, Paul Tol Variant color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/forall-es-de/forall-es-de_04.jpg",
+          "caption": "Gamelist view, Dyslexia w videos variant, Paul Tol Variant color scheme"
+        }
+      ]
     },
     {
       "name": "Iconic",
@@ -151,7 +385,25 @@
       "author": "Siddy212 and Matt S",
       "license": "CC0-1.0",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/iconic-es-de/iconic-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/iconic-es-de/iconic-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/iconic-es-de/iconic-es-de_01.jpg",
+          "caption": "System view, Modern - Light color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/iconic-es-de/iconic-es-de_02.jpg",
+          "caption": "Gamelist view, Textlist variant, Modern - Light color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/iconic-es-de/iconic-es-de_03.jpg",
+          "caption": "Gamelist view, Grid: Boxart variant, Classic - Dark color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/iconic-es-de/iconic-es-de_04.jpg",
+          "caption": "Gamelist view, Grid: Titlescreen variant, Classic - Dark color scheme"
+        }
+      ]
     },
     {
       "name": "Immersive (Revisited)",
@@ -161,7 +413,21 @@
       "author": "ant",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/immersive-revisited-es-de/immersive-revisited-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/immersive-revisited-es-de/immersive-revisited-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/immersive-revisited-es-de/immersive-revisited-es-de_01.jpg",
+          "caption": "System view"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/immersive-revisited-es-de/immersive-revisited-es-de_02.jpg",
+          "caption": "Gamelist view, Background Screenshot variant"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/immersive-revisited-es-de/immersive-revisited-es-de_03.jpg",
+          "caption": "Gamelist view, Background Video variant"
+        }
+      ]
     },
     {
       "name": "NSO Menu (Interpreted)",
@@ -172,7 +438,25 @@
       "author": "ant and rog",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/nso-menu-interpreted-es-de/nso-menu-interpreted-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/nso-menu-interpreted-es-de/nso-menu-interpreted-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/nso-menu-interpreted-es-de/nso-menu-interpreted-es-de_01.jpg",
+          "caption": "System view, Grid: Boxart variant, Default [Controllers] color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/nso-menu-interpreted-es-de/nso-menu-interpreted-es-de_02.jpg",
+          "caption": "System view, Grid: Boxart variant, Default [Controllers + Screenshots] color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/nso-menu-interpreted-es-de/nso-menu-interpreted-es-de_03.jpg",
+          "caption": "Gamelist view, Grid: Boxart variant, Default [Controllers] color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/nso-menu-interpreted-es-de/nso-menu-interpreted-es-de_04.jpg",
+          "caption": "Gamelist view, Grid: Boxart variant, Default [Controllers] color scheme"
+        }
+      ]
     },
     {
       "name": "PlayStation-X",
@@ -183,7 +467,25 @@
       "author": "Rob Zombie and pajarorrojo",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/playstation-x-es-de/playstation-x-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/playstation-x-es-de/playstation-x-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/playstation-x-es-de/playstation-x-es-de_01.jpg",
+          "caption": "System view, Carousel (Detailed) variant, PS5 color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/playstation-x-es-de/playstation-x-es-de_02.jpg",
+          "caption": "Gamelist view, Carousel (Detailed) variant, PS5 color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/playstation-x-es-de/playstation-x-es-de_03.jpg",
+          "caption": "System view, Grid variant, PS4 color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/playstation-x-es-de/playstation-x-es-de_04.jpg",
+          "caption": "Gamelist view, Grid variant, PS4 color scheme"
+        }
+      ]
     },
     {
       "name": "PS5 Menu",
@@ -194,7 +496,25 @@
       "author": "InitialDin",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/ps5-menu-es-de/ps5-menu-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/ps5-menu-es-de/ps5-menu-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/ps5-menu-es-de/ps5-menu-es-de_01.jpg",
+          "caption": "System view, PS5 (Small) variant, Media - Video color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/ps5-menu-es-de/ps5-menu-es-de_02.jpg",
+          "caption": "Gamelist view, PS5 (Small) variant, Media - Video color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/ps5-menu-es-de/ps5-menu-es-de_03.jpg",
+          "caption": "System view, PS5 (Large) variant, Background Video color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/ps5-menu-es-de/ps5-menu-es-de_04.jpg",
+          "caption": "Gamelist view, PS5 (Large) variant, Background Video color scheme"
+        }
+      ]
     },
     {
       "name": "Razor",
@@ -205,7 +525,33 @@
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": true,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/razor-es-de/razor-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/razor-es-de/razor-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/razor-es-de/razor-es-de_01.jpg",
+          "caption": "System view, GB w/o Metadata variant, Classy color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/razor-es-de/razor-es-de_02.jpg",
+          "caption": "Gamelist view, GB w/o Metadata variant, Classy color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/razor-es-de/razor-es-de_03.jpg",
+          "caption": "System view, LCD w/Metadata variant, Gameboy color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/razor-es-de/razor-es-de_04.jpg",
+          "caption": "Gamelist view, LCD w/Metadata variant, Gameboy color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/razor-es-de/razor-es-de_05.jpg",
+          "caption": "System view, GB w/Metadata variant, Dark color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/razor-es-de/razor-es-de_06.jpg",
+          "caption": "Gamelist view, GB w/Metadata variant, Dark color scheme"
+        }
+      ]
     },
     {
       "name": "Retrofix (Revisited)",
@@ -215,7 +561,29 @@
       "author": "ant and 20GotoTen",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": true,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/retrofix-revisited-es-de/retrofix-revisited-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/retrofix-revisited-es-de/retrofix-revisited-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/retrofix-revisited-es-de/retrofix-revisited-es-de_01.jpg",
+          "caption": "System view"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/retrofix-revisited-es-de/retrofix-revisited-es-de_02.jpg",
+          "caption": "Gamelist view, Immersive variant"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/retrofix-revisited-es-de/retrofix-revisited-es-de_03.jpg",
+          "caption": "Gamelist view, Simple variant"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/retrofix-revisited-es-de/retrofix-revisited-es-de_04.jpg",
+          "caption": "Gamelist view, Carousel variant"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/retrofix-revisited-es-de/retrofix-revisited-es-de_05.jpg",
+          "caption": "Gamelist view, Grid variant"
+        }
+      ]
     },
     {
       "name": "Saga Diamond",
@@ -226,7 +594,25 @@
       "author": "Jetup",
       "license": "CC-BY",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/sagadiamond-es-de/sagadiamond-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/sagadiamond-es-de/sagadiamond-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/sagadiamond-es-de/sagadiamond-es-de_01.jpg",
+          "caption": "System view, Default variant, White color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/sagadiamond-es-de/sagadiamond-es-de_02.jpg",
+          "caption": "Gamelist view, Default variant, White color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/sagadiamond-es-de/sagadiamond-es-de_03.jpg",
+          "caption": "System view, w/o System Metadata & Shadow variant, Orange color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/sagadiamond-es-de/sagadiamond-es-de_04.jpg",
+          "caption": "Gamelist view, w/o System Metadata & Shadow variant, Orange color scheme"
+        }
+      ]
     },
     {
       "name": "Showcase",
@@ -237,7 +623,33 @@
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/showcase-es-de/showcase-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/showcase-es-de/showcase-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/showcase-es-de/showcase-es-de_01.jpg",
+          "caption": "System view, With per system bands variant, Greyscale color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/showcase-es-de/showcase-es-de_02.jpg",
+          "caption": "Gamelist view, With per system bands variant, Greyscale color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/showcase-es-de/showcase-es-de_03.jpg",
+          "caption": "System view, With per system bands variant, Blue color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/showcase-es-de/showcase-es-de_04.jpg",
+          "caption": "Gamelist view, With per system bands variant, Blue color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/showcase-es-de/showcase-es-de_05.jpg",
+          "caption": "System view, With per system bands variant, Olive color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/showcase-es-de/showcase-es-de_06.jpg",
+          "caption": "Gamelist view, With per system bands variant, Olive color scheme"
+        }
+      ]
     },
     {
       "name": "SimCar",
@@ -248,7 +660,33 @@
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": true,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/simcar-es-de/simcar-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/simcar-es-de/simcar-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/simcar-es-de/simcar-es-de_01.jpg",
+          "caption": "System view, Gold color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/simcar-es-de/simcar-es-de_02.jpg",
+          "caption": "Gamelist view, With videos variant, Gold color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/simcar-es-de/simcar-es-de_03.jpg",
+          "caption": "System view, Commodore 64 color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/simcar-es-de/simcar-es-de_04.jpg",
+          "caption": "Gamelist view, With videos variant, Commodore 64 color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/simcar-es-de/simcar-es-de_05.jpg",
+          "caption": "System view, Sega color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/simcar-es-de/simcar-es-de_06.jpg",
+          "caption": "Gamelist view, Without videos variant, Sega color scheme"
+        }
+      ]
     },
     {
       "name": "TateGriddy",
@@ -259,7 +697,25 @@
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": true,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/tategriddy-es-de/tategriddy-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/tategriddy-es-de/tategriddy-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/tategriddy-es-de/tategriddy-es-de_01.jpg",
+          "caption": "System view, Grid with videos variant, Chilled color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/tategriddy-es-de/tategriddy-es-de_02.jpg",
+          "caption": "Gamelist view, Grid with videos variant, Chilled color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/tategriddy-es-de/tategriddy-es-de_03.jpg",
+          "caption": "System view, Carousel with videos variant, Retro color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/tategriddy-es-de/tategriddy-es-de_04.jpg",
+          "caption": "Gamelist view, Carousel with videos variant, Retro color scheme"
+        }
+      ]
     },
     {
       "name": "TexGriddy",
@@ -270,7 +726,29 @@
       "author": "Weestuarty",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": true,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/texgriddy-es-de/texgriddy-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/texgriddy-es-de/texgriddy-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/texgriddy-es-de/texgriddy-es-de_01.jpg",
+          "caption": "System view, Grid with videos variant, Chilled color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/texgriddy-es-de/texgriddy-es-de_02.jpg",
+          "caption": "Gamelist view, Grid with videos variant, Chilled color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/texgriddy-es-de/texgriddy-es-de_03.jpg",
+          "caption": "Gamelist view, Grid with videos variant, Greyscale color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/texgriddy-es-de/texgriddy-es-de_04.jpg",
+          "caption": "System view, Textlist with videos variant, Retro color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/texgriddy-es-de/texgriddy-es-de_05.jpg",
+          "caption": "Gamelist view, Textlist with videos variant, Retro color scheme"
+        }
+      ]
     },
     {
       "name": "Grimmlex",
@@ -281,7 +759,25 @@
       "author": "Thraeg Group",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": true,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/grimmlex-es-de/grimmlex-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/grimmlex-es-de/grimmlex-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/grimmlex-es-de/grimmlex-es-de_01.jpg",
+          "caption": "System view, [PixelGrid] XL variant, Light color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/grimmlex-es-de/grimmlex-es-de_02.jpg",
+          "caption": "Gamelist view, [PixelGrid] XL variant, Light color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/grimmlex-es-de/grimmlex-es-de_03.jpg",
+          "caption": "System view, [LogoGrid] L variant, Dark color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/grimmlex-es-de/grimmlex-es-de_04.jpg",
+          "caption": "Gamelist view, [LogoGrid] L variant, Dark color scheme"
+        }
+      ]
     },
     {
       "name": "XMB Menu",
@@ -292,7 +788,25 @@
       "author": "InitialDin and ant",
       "license": "CC-BY-NC-SA",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/xmb-menu-es-de/xmb-menu-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/xmb-menu-es-de/xmb-menu-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/xmb-menu-es-de/xmb-menu-es-de_01.jpg",
+          "caption": "System view, Carousel: Boxart variant, Blue (PSP Video Background) color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/xmb-menu-es-de/xmb-menu-es-de_02.jpg",
+          "caption": "Gamelist view, Carousel: Boxart variant, Blue (PSP Video Background) color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/xmb-menu-es-de/xmb-menu-es-de_03.jpg",
+          "caption": "System view, Carousel: Physical Media variant, Orange (PSP Video Background) color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/xmb-menu-es-de/xmb-menu-es-de_04.jpg",
+          "caption": "Gamelist view, Carousel: Physical Media variant, Orange (PSP Video Background) color scheme"
+        }
+      ]
     },
     {
       "name": "Analogue 3D OS Menu",
@@ -303,7 +817,25 @@
       "author": "Sean",
       "license": "Not stated",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/analogue-3d-menu-es-de/analogue-3d-menu-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/analogue-3d-menu-es-de/analogue-3d-menu-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/analogue-3d-menu-es-de/analogue-3d-menu-es-de_01.jpg",
+          "caption": "System view, Carousel (Caps) variant, No Background color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/analogue-3d-menu-es-de/analogue-3d-menu-es-de_02.jpg",
+          "caption": "Gamelist view, Carousel (Caps) variant, No Background color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/analogue-3d-menu-es-de/analogue-3d-menu-es-de_03.jpg",
+          "caption": "System view, Grid (Small) variant, Screenshot (Static) color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/analogue-3d-menu-es-de/analogue-3d-menu-es-de_04.jpg",
+          "caption": "Gamelist view, Grid (Small) variant, Screenshot (Static) color scheme"
+        }
+      ]
     },
     {
       "name": "Carbon",
@@ -314,7 +846,25 @@
       "author": "lilbud and Rookervik",
       "license": "Not stated",
       "vectorArtwork": true,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/carbon-es-de/carbon-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/carbon-es-de/carbon-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/carbon-es-de/carbon-es-de_01.jpg",
+          "caption": "System view, Red color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/carbon-es-de/carbon-es-de_02.jpg",
+          "caption": "Gamelist view, Red color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/carbon-es-de/carbon-es-de_03.jpg",
+          "caption": "System view, Teal color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/carbon-es-de/carbon-es-de_04.jpg",
+          "caption": "Gamelist view, Teal color scheme"
+        }
+      ]
     },
     {
       "name": "Catppuccin",
@@ -325,7 +875,25 @@
       "author": "Rob Zombie",
       "license": "Not stated",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots//catppuccin-es-de//catppuccin-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots//catppuccin-es-de//catppuccin-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots//catppuccin-es-de//catppuccin-es-de_01.jpg",
+          "caption": "System view, [List] Grid variant, Frappé color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots//catppuccin-es-de//catppuccin-es-de_02.jpg",
+          "caption": "Gamelist view, [List] Grid variant, Frappé color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots//catppuccin-es-de//catppuccin-es-de_03.jpg",
+          "caption": "System view, [List] Grid variant, Latte color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots//catppuccin-es-de//catppuccin-es-de_04.jpg",
+          "caption": "Gamelist view, [List] Grid variant, Latte color scheme"
+        }
+      ]
     },
     {
       "name": "Colorful (Pop!)",
@@ -336,7 +904,25 @@
       "author": "Rob Zombie, ant and viking",
       "license": "Not stated",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-pop-es-de/colorful-pop-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-pop-es-de/colorful-pop-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-pop-es-de/colorful-pop-es-de_01.jpg",
+          "caption": "System view, List (detailed) variant, [Pop Images] (Colorful) Dark color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-pop-es-de/colorful-pop-es-de_02.jpg",
+          "caption": "Gamelist view, List (detailed) variant, [Pop Images] (Colorful) Dark color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-pop-es-de/colorful-pop-es-de_03.jpg",
+          "caption": "System view, List (video) variant, [Pop Images] (Colorful) Light color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/colorful-pop-es-de/colorful-pop-es-de_04.jpg",
+          "caption": "Gamelist view, List (video) variant, [Pop Images] (Colorful) Light color scheme"
+        }
+      ]
     },
     {
       "name": "Compendium",
@@ -347,7 +933,25 @@
       "author": "Rob Zombie",
       "license": "Not stated",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/compendium-es-de/compendium-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/compendium-es-de/compendium-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/compendium-es-de/compendium-es-de_01.jpg",
+          "caption": "System view, Screenshot variant, Dracula color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/compendium-es-de/compendium-es-de_02.jpg",
+          "caption": "Gamelist view, Screenshot variant, Dracula color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/compendium-es-de/compendium-es-de_03.jpg",
+          "caption": "System view, Video (instant) variant, Alucard color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/compendium-es-de/compendium-es-de_04.jpg",
+          "caption": "Gamelist view, Video (instant) variant, Alucard color scheme"
+        }
+      ]
     },
     {
       "name": "Elementerial",
@@ -358,7 +962,25 @@
       "author": "Rob Zombie and mluizvitor",
       "license": "Not stated",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/elementerial-es-de/elementerial-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/elementerial-es-de/elementerial-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/elementerial-es-de/elementerial-es-de_01.jpg",
+          "caption": "System view, [Modern] Elementflix View variant, Dark - Lime color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/elementerial-es-de/elementerial-es-de_02.jpg",
+          "caption": "Gamelist view, [Modern] Elementflix View variant, Dark - Lime color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/elementerial-es-de/elementerial-es-de_03.jpg",
+          "caption": "System view, [Classic] List: Video View variant, Light - Banana color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/elementerial-es-de/elementerial-es-de_04.jpg",
+          "caption": "Gamelist view, [Classic] List: Video View variant, Light - Banana color scheme"
+        }
+      ]
     },
     {
       "name": "ES-DWEE",
@@ -369,7 +991,17 @@
       "author": "Weestuarty",
       "license": "Not stated",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/es-dwee-es-de/es-dwee-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/es-dwee-es-de/es-dwee-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/es-dwee-es-de/es-dwee-es-de_01.jpg",
+          "caption": "System view, Blue color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/es-dwee-es-de/es-dwee-es-de_02.jpg",
+          "caption": "Gamelist view, Textlist variant, Blue color scheme"
+        }
+      ]
     },
     {
       "name": "Escape",
@@ -380,7 +1012,25 @@
       "author": "Rob Zombie",
       "license": "Not stated",
       "vectorArtwork": true,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/escape-es-de/escape-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/escape-es-de/escape-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/escape-es-de/escape-es-de_01.jpg",
+          "caption": "System view, [Animated] Watchtower Distant variant, Sunset color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/escape-es-de/escape-es-de_02.jpg",
+          "caption": "Gamelist view, [Animated] Watchtower Distant variant, Night color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/escape-es-de/escape-es-de_03.jpg",
+          "caption": "System view, [Animated] Lakeside variant, Sunset color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/escape-es-de/escape-es-de_04.jpg",
+          "caption": "Gamelist view, [Animated] Lakeside variant, Night color scheme"
+        }
+      ]
     },
     {
       "name": "Homage",
@@ -391,7 +1041,25 @@
       "author": "Weestuarty",
       "license": "Not stated",
       "vectorArtwork": true,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/homage-es-de/homage-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/homage-es-de/homage-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/homage-es-de/homage-es-de_01.jpg",
+          "caption": "System view, Mask w Textlist variant, Universe color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/homage-es-de/homage-es-de_02.jpg",
+          "caption": "Gamelist view, Mask w Textlist variant, Universe color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/homage-es-de/homage-es-de_03.jpg",
+          "caption": "System view, No Mask w Grid variant, Vintage color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/homage-es-de/homage-es-de_04.jpg",
+          "caption": "Gamelist view, No Mask w Grid variant, Vintage color scheme"
+        }
+      ]
     },
     {
       "name": "Horizon",
@@ -402,7 +1070,25 @@
       "author": "Rob Zombie",
       "license": "Not stated",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/horizon-es-de/horizon-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/horizon-es-de/horizon-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/horizon-es-de/horizon-es-de_01.jpg",
+          "caption": "System view, Carousel variant"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/horizon-es-de/horizon-es-de_02.jpg",
+          "caption": "Gamelist view, Carousel variant"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/horizon-es-de/horizon-es-de_03.jpg",
+          "caption": "System view, List: Basic variant"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/horizon-es-de/horizon-es-de_04.jpg",
+          "caption": "Gamelist view, List: Basic variant"
+        }
+      ]
     },
     {
       "name": "iiSU Interpreted",
@@ -413,7 +1099,25 @@
       "author": "MrVictorFull and UsagiShade",
       "license": "Not stated",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/iisu-interpreted-es-de/iisu-interpreted-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/iisu-interpreted-es-de/iisu-interpreted-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/iisu-interpreted-es-de/iisu-interpreted-es-de_01.jpg",
+          "caption": "System view, Default variant, Light color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/iisu-interpreted-es-de/iisu-interpreted-es-de_02.jpg",
+          "caption": "Gamelist view, Default variant, Light color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/iisu-interpreted-es-de/iisu-interpreted-es-de_03.jpg",
+          "caption": "System view, Without Clock variant, Dark color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/iisu-interpreted-es-de/iisu-interpreted-es-de_04.jpg",
+          "caption": "Gamelist view, Without Clock variant, Dark color scheme"
+        }
+      ]
     },
     {
       "name": "shinretro (Revisited)",
@@ -424,7 +1128,25 @@
       "author": "Rob Zombie and ant",
       "license": "Not stated",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/shinretro-revisited-es-de/shinretro-revisited-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/shinretro-revisited-es-de/shinretro-revisited-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/shinretro-revisited-es-de/shinretro-revisited-es-de_01.jpg",
+          "caption": "System view, Grid variant, SteamOS color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/shinretro-revisited-es-de/shinretro-revisited-es-de_02.jpg",
+          "caption": "Gamelist view, Grid variant, SteamOS color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/shinretro-revisited-es-de/shinretro-revisited-es-de_03.jpg",
+          "caption": "System view, Carousel variant, shinretro Dark color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/shinretro-revisited-es-de/shinretro-revisited-es-de_04.jpg",
+          "caption": "Gamelist view, Carousel variant, shinretro Dark color scheme"
+        }
+      ]
     },
     {
       "name": "Smooth",
@@ -435,7 +1157,25 @@
       "author": "Weestuarty",
       "license": "Not stated",
       "vectorArtwork": true,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/smooth-es-de/smooth-es-de_01.jpg"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/smooth-es-de/smooth-es-de_01.jpg",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/smooth-es-de/smooth-es-de_01.jpg",
+          "caption": "System view, Carousel variant, Z25 color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/smooth-es-de/smooth-es-de_02.jpg",
+          "caption": "Gamelist view, Carousel variant, Z25 color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/smooth-es-de/smooth-es-de_03.jpg",
+          "caption": "System view, Grid variant, Grey color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/smooth-es-de/smooth-es-de_04.jpg",
+          "caption": "Gamelist view, Grid variant, Grey color scheme"
+        }
+      ]
     },
     {
       "name": "TechDweeb",
@@ -446,7 +1186,25 @@
       "author": "TechDweeb and ant",
       "license": "Not stated",
       "vectorArtwork": false,
-      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/techdweeb-es-de/techdweeb-es-de_01.png"
+      "screenshot": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/techdweeb-es-de/techdweeb-es-de_01.png",
+      "screenshots": [
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/techdweeb-es-de/techdweeb-es-de_01.png",
+          "caption": "System view, List: Metadata, Screenshot & Marquee variant, Orange Stuff color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/techdweeb-es-de/techdweeb-es-de_02.png",
+          "caption": "Gamelist view, List: Metadata, Screenshot & Marquee variant, Orange Stuff color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/techdweeb-es-de/techdweeb-es-de_03.png",
+          "caption": "System view, List: Screenshot variant, Blue Goo color scheme"
+        },
+        {
+          "url": "https://gitlab.com/es-de/themes/themes-list/-/raw/master/screenshots/techdweeb-es-de/techdweeb-es-de_04.png",
+          "caption": "Gamelist view, List: Screenshot variant, Blue Goo color scheme"
+        }
+      ]
     }
   ]
 }
