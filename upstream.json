@@ -149,5 +149,31 @@
     "note": "ES-DE's own theme list carries no licences, so entries generated from it arrive with the licence unstated and the app says so rather than guessing. A malformed entry costs that theme and not the list.",
     "seededOn": "2026-08-02",
     "themesAtSeed": 41
+  },
+  "es-de-android-custom-systems": {
+    "source": "https://github.com/GlazedBelmont/es-de-android-custom-systems",
+    "path": "platforms/ (player entries only)",
+    "licence": "unstated; the launch arguments are facts about other applications rather than authorship",
+    "relationship": "Watched, never mirrored. It publishes es_systems.xml and es_find_rules.xml as release assets: which emulators an ES-DE system can use, and what each is called on Android. We read the pair, translate the ones we lack into am start arguments, and add them to our own packs. The translation is a judgement call every time, which is why nothing here imports itself.",
+    "importedTag": "v1.57",
+    "importedOn": "2026-08-13",
+    "declined": {
+      "com.antutu.ABenchMark": "AnTuTu's package, reused by Citron, Uzuy and Sumi forks",
+      "com.antutu.ABenchMark.ea": "the same, for Uzuy early access",
+      "com.ludashi.benchmark": "Ludashi's package, reused by a Winlator fork",
+      "com.miHoYo.GenshinImpact": "Genshin Impact's package, reused by a Winlator fork",
+      "com.miHoYo.Yuanshen": "the same, reused by a Citron fork",
+      "com.andromeda.androbench2": "AndroBench's package, reused by the Nyushu fork",
+      "why": "Real applications' package names published by emulator forks, presumably to survive a takedown. Shipping them means a launcher that opens somebody's benchmark app on a device that has the genuine one installed. Listed so the watcher stops reporting them as missing every release."
+    },
+    "systemsDeclined": {
+      "gbh": "Game Boy hacks",
+      "gbah": "Game Boy Advance hacks",
+      "gbch": "Game Boy Color hacks",
+      "nesh": "NES hacks",
+      "snesh": "SNES hacks",
+      "genh": "Genesis hacks",
+      "why": "Not hardware. ES-DE keeps hacks in folders of their own so they do not crowd the console they are hacks of, which is a way of arranging a library rather than a system to support - the ROMs run on the emulators we already launch. Listed so the watcher stops offering them every day. Remove an entry to have it reported again."
+    }
   }
 }

@@ -1,0 +1,157 @@
+name: Watch ES-DE custom systems for changes
+
+# The third source, and the only one that needs a person.
+#
+# Daijisho is watched because its packs are ours now and a revision usually means an
+# emulator moved. ES-DE's own systems list is refreshed outright because ES-DE owns it
+# and we add nothing to it. This one is neither: it publishes Android launch commands
+# for emulators the other two do not carry, and every import is a judgement call - a
+# package name with capitals in it, a fork that names another emulator's activity, a
+# fork published under a real application's package name to survive a takedown.
+#
+# So this reports and never writes. Importing automatically would have shipped
+# com.antutu.ABenchMark the first time it ran, and a launcher that opens somebody's
+# benchmark app because a fork borrowed its name is worse than one missing an emulator.
+on:
+  schedule:
+    # Daily. It is a release feed rather than a branch: v1.57 landed on 11 August and
+    # the one before it in July, so hourly would be a hundred quiet runs to catch a
+    # change that waits a fortnight anyway.
+    - cron: "41 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compare against our packs
+        id: check
+        run: |
+          set -euo pipefail
+          BASE="https://github.com/GlazedBelmont/es-de-android-custom-systems/releases/latest/download"
+          curl -sSfL "$BASE/es_systems.xml" -o es_systems.xml
+          curl -sSfL "$BASE/es_find_rules.xml" -o es_find_rules.xml
+          curl -sSfL \
+            "https://api.github.com/repos/GlazedBelmont/es-de-android-custom-systems/releases/latest" \
+            -o release.json
+
+          # A truncated download parses to nothing and would report every emulator as
+          # missing, which is a hundred lines of noise and no information.
+          if [ "$(grep -c '<system>' es_systems.xml)" -lt 10 ]; then
+            echo "Only $(grep -c '<system>' es_systems.xml) systems, refusing" >&2
+            exit 1
+          fi
+
+          python3 - <<'PY'
+          import glob, json, os, re
+
+          release = json.load(open('release.json'))
+          tag = release.get('tag_name') or '(untagged)'
+          recorded = json.load(open('upstream.json'))['es-de-android-custom-systems']
+          declined = {k for k in recorded.get('declined', {}) if k != 'why'}
+          declined_systems = {k for k in recorded.get('systemsDeclined', {}) if k != 'why'}
+
+          # Every package our packs already launch. Read from the packs themselves
+          # rather than from a note taken when they were seeded, because ours have
+          # moved since and a stale snapshot reports work that is already done.
+          ours = set()
+          for path in glob.glob('platforms/*.json'):
+              data = json.load(open(path, encoding='utf-8'))
+              for player in data.get('playerList', []):
+                  for found in re.findall(r'-n\s+([A-Za-z0-9_.]+)/',
+                                          player.get('amStartArguments') or ''):
+                      ours.add(found)
+
+          rules = open('es_find_rules.xml', encoding='utf-8').read()
+          theirs = {}
+          for name, body in re.findall(r'<emulator name="(.*?)">(.*?)</emulator>', rules, re.S):
+              for entry in re.findall(r'<entry>(.*?)</entry>', body):
+                  # Case matters: com.sumi.SumiEmulator and org.Ziunx.Ziunx_emu.ea both
+                  # carry capitals, and a lowercased comparison drops them silently.
+                  theirs.setdefault(entry.split('/')[0].strip(), set()).add(name)
+
+          systems = open('es_systems.xml', encoding='utf-8').read()
+          their_systems = dict(re.findall(
+              r'<system>\s*<name>(.*?)</name>\s*<fullname>(.*?)</fullname>', systems, re.S))
+          our_systems = set()
+          for path in glob.glob('platforms/*.json'):
+              data = json.load(open(path, encoding='utf-8'))
+              unique = (data.get('platform') or {}).get('uniqueId')
+              if unique:
+                  our_systems.add(unique)
+          # Their name for a console is not always ours, and a watcher that reports a
+          # console we have had for months is a watcher nobody reads. Only the ones that
+          # genuinely differ, so a new system still shows up as new.
+          our_systems |= {their for their, ours_id in {
+              'n3ds': '3ds',
+              'psvita': 'vita',
+              'xboxgamepass': 'xcloud',
+              'msu-md': 'genesismsu',
+              'snes-msu1': 'snesmsu1',
+          }.items() if ours_id in our_systems}
+
+          missing = sorted(p for p in theirs if p not in ours and p not in declined)
+          unknown = sorted(n for n in their_systems
+                           if n not in our_systems and n not in declined_systems)
+          moved = tag != recorded.get('importedTag')
+
+          lines = []
+          if missing:
+              lines += ["### Emulators we do not launch", ""]
+              lines += [f"- `{p}` ({', '.join(sorted(theirs[p]))})" for p in missing]
+              lines += [""]
+          if unknown:
+              lines += ["### Systems we have no pack for", ""]
+              lines += [f"- `{n}` - {their_systems[n]}" for n in unknown]
+              lines += [""]
+
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as out:
+              out.write(f"changed={'true' if lines else 'false'}\n")
+              out.write(f"tag={tag}\n")
+
+          if lines:
+              lines = [
+                  f"Their latest release is **{tag}**; we last imported "
+                  f"**{recorded.get('importedTag')}**." if moved else
+                  f"Still on **{tag}**, which we have imported - so anything below was "
+                  f"passed over rather than missed.",
+                  "",
+              ] + lines + [
+                  "Nothing here has been changed. Each of these is a launch command to",
+                  "translate by hand into `amStartArguments`, and the translation is where",
+                  "the judgement is: a package name may carry capitals, a fork may name",
+                  "another emulator's activity on purpose, and a fork published under a",
+                  "real application's package name should be declined outright.",
+                  "",
+                  "After importing, bump the platform's `revisionNumber`, add the strings",
+                  "to `EsDeAddedPlayersTest` in the app repository, and set `importedTag`",
+                  "in `upstream.json` - or add the package to `declined` there, which is",
+                  "what stops it being reported every day.",
+              ]
+              open('report.md', 'w').write('\n'.join(lines))
+              print('\n'.join(lines))
+          else:
+              print(f'Nothing missing from {tag}.')
+          PY
+
+      - name: Open or update the report
+        if: steps.check.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TITLE="ES-DE custom systems: emulators we do not launch"
+          EXISTING=$(gh issue list --state open --search "$TITLE in:title" \
+            --json number --jq '.[0].number // empty')
+          if [ -n "$EXISTING" ]; then
+            # Edited rather than commented on, so the issue is always the current
+            # difference rather than a pile of daily notes.
+            gh issue edit "$EXISTING" --body-file report.md
+          else
+            gh issue create --title "$TITLE" --body-file report.md
+          fi
