@@ -4600,9 +4600,29 @@
      "killPackageProcessesWarning": true,
      "name": "3ds - RetroArch - azahar",
      "uniqueId": "3ds.ra.azahar"
+    },
+    {
+     "acceptedFilenameRegex": "^(.*)\\.(?:cci|cxi|zcci|zcxi|3ds)$",
+     "amStartArguments": "-n org.gamerytb.citra.canary/org.citra.citra_emu.ui.main.MainActivity\n -d {file.uri}\n --activity-clear-task\n --activity-clear-top",
+     "description": "Supported extensions: cci, cxi, zcci, zcxi.",
+     "extra": "",
+     "killPackageProcesses": false,
+     "killPackageProcessesWarning": false,
+     "name": "3ds - Citra Enhanced",
+     "uniqueId": "3ds.org.gamerytb.citra.canary"
+    },
+    {
+     "acceptedFilenameRegex": "^(.*)\\.(?:cci|cxi|zcci|zcxi|3ds)$",
+     "amStartArguments": "-n org.cytrus.cytrus_emu/.activities.EmulationActivity\n -d {file.uri}\n --activity-clear-task\n --activity-clear-top",
+     "description": "Supported extensions: cci, cxi, zcci, zcxi.",
+     "extra": "",
+     "killPackageProcesses": false,
+     "killPackageProcessesWarning": false,
+     "name": "3ds - Cytrus",
+     "uniqueId": "3ds.org.cytrus.cytrus_emu"
     }
    ],
-   "revisionNumber": 22
+   "revisionNumber": 23
   },
   "Nintendo64.json": {
    "databaseVersion": 14,
@@ -5037,9 +5057,19 @@
      "killPackageProcessesWarning": true,
      "name": "nds - RetroArch - skyemu",
      "uniqueId": "nds.ra.skyemu"
+    },
+    {
+     "acceptedFilenameRegex": "^(.*).(?:nds|zip|7z)$",
+     "amStartArguments": "-n com.seedlessds.app/com.seedlessds.app.LaunchGame\n -e rom_path {file.path}",
+     "description": "",
+     "extra": "",
+     "killPackageProcesses": false,
+     "killPackageProcessesWarning": false,
+     "name": "nds - SeedlessDS",
+     "uniqueId": "nds.com.seedlessds.app"
     }
    ],
-   "revisionNumber": 15
+   "revisionNumber": 16
   },
   "NintendoDSi.json": {
    "databaseVersion": 14,
@@ -7203,9 +7233,89 @@
      "killPackageProcessesWarning": false,
      "name": "switch - Benji-SC",
      "uniqueId": "switch.org.benjisc.android"
+    },
+    {
+     "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
+     "amStartArguments": "-n org.citron.citron_emu.ea/org.citron.citron_emu.activities.EmulationActivity\n -a android.nfc.action.TECH_DISCOVERED\n -d {file.uri}",
+     "description": "Supported extensions: nro, nso, nca, xci, nsp.",
+     "extra": "",
+     "killPackageProcesses": false,
+     "killPackageProcessesWarning": false,
+     "name": "switch - Citron (Early Access)",
+     "uniqueId": "switch.org.citron.citron_emu.ea"
+    },
+    {
+     "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
+     "amStartArguments": "-n org.suyu.suyu_emu/org.suyu.suyu_emu.activities.EmulationActivity\n -a android.intent.action.VIEW\n -d {file.uri}",
+     "description": "Supported extensions: nro, nso, nca, xci, nsp.",
+     "extra": "",
+     "killPackageProcesses": false,
+     "killPackageProcessesWarning": false,
+     "name": "switch - Suyu",
+     "uniqueId": "switch.org.suyu.suyu_emu"
+    },
+    {
+     "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
+     "amStartArguments": "-n dev.suyu.suyu_emu/dev.suyu.suyu_emu.activities.EmulationActivity\n -a android.intent.action.VIEW\n -d {file.uri}",
+     "description": "Supported extensions: nro, nso, nca, xci, nsp.",
+     "extra": "",
+     "killPackageProcesses": false,
+     "killPackageProcessesWarning": false,
+     "name": "switch - Suyu (dev build)",
+     "uniqueId": "switch.dev.suyu.suyu_emu"
+    },
+    {
+     "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
+     "amStartArguments": "-n org.uzuy.uzuy_emu/org.uzuy.uzuy_emu.activities.EmulationActivity\n -a android.nfc.action.TECH_DISCOVERED\n -d {file.uri}",
+     "description": "Supported extensions: nro, nso, nca, xci, nsp.",
+     "extra": "",
+     "killPackageProcesses": false,
+     "killPackageProcessesWarning": false,
+     "name": "switch - Uzuy",
+     "uniqueId": "switch.org.uzuy.uzuy_emu"
+    },
+    {
+     "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
+     "amStartArguments": "-n org.uzuy.uzuy_emu.ea/org.uzuy.uzuy_emu.activities.EmulationActivity\n -a android.nfc.action.TECH_DISCOVERED\n -d {file.uri}",
+     "description": "Supported extensions: nro, nso, nca, xci, nsp.",
+     "extra": "",
+     "killPackageProcesses": false,
+     "killPackageProcessesWarning": false,
+     "name": "switch - Uzuy (Early Access)",
+     "uniqueId": "switch.org.uzuy.uzuy_emu.ea"
+    },
+    {
+     "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
+     "amStartArguments": "-n org.uzuy.uzuy_emu.mmjr/org.uzuy.uzuy_emu.activities.EmulationActivity\n -a android.nfc.action.TECH_DISCOVERED\n -d {file.uri}",
+     "description": "Supported extensions: nro, nso, nca, xci, nsp.",
+     "extra": "",
+     "killPackageProcesses": false,
+     "killPackageProcessesWarning": false,
+     "name": "switch - Uzuy (MMJR)",
+     "uniqueId": "switch.org.uzuy.uzuy_emu.mmjr"
+    },
+    {
+     "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
+     "amStartArguments": "-n com.sumi.SumiEmulator/org.sumi.sumi_emu.activities.EmulationActivity\n -a android.nfc.action.TECH_DISCOVERED\n -d {file.uri}",
+     "description": "Supported extensions: nro, nso, nca, xci, nsp.",
+     "extra": "",
+     "killPackageProcesses": false,
+     "killPackageProcessesWarning": false,
+     "name": "switch - Sumi",
+     "uniqueId": "switch.com.sumi.SumiEmulator"
+    },
+    {
+     "acceptedFilenameRegex": "^(.*)\\.(?:nro|nso|nca|xci|nsp)$",
+     "amStartArguments": "-n org.Ziunx.Ziunx_emu.ea/org.yuzu.yuzu_emu.activities.EmulationActivity\n -a android.nfc.action.TECH_DISCOVERED\n -d {file.uri}",
+     "description": "Supported extensions: nro, nso, nca, xci, nsp.",
+     "extra": "",
+     "killPackageProcesses": false,
+     "killPackageProcessesWarning": false,
+     "name": "switch - Ziunx (Early Access)",
+     "uniqueId": "switch.org.Ziunx.Ziunx_emu.ea"
     }
    ],
-   "revisionNumber": 22
+   "revisionNumber": 23
   },
   "NintendoWii.json": {
    "databaseVersion": 14,
@@ -7401,9 +7511,19 @@
      "killPackageProcessesWarning": true,
      "name": "wiiu - CEMU",
      "uniqueId": "wiiu.info.cemu.Cemu"
+    },
+    {
+     "acceptedFilenameRegex": "^(.*).(?:wua|wud|wux|rpx)$",
+     "amStartArguments": "-n info.cemu.cemu.debug/info.cemu.cemu.emulation.EmulationActivity\n -d {file.uri}",
+     "description": "",
+     "extra": "",
+     "killPackageProcesses": false,
+     "killPackageProcessesWarning": false,
+     "name": "wiiu - Cemu (fork)",
+     "uniqueId": "wiiu.info.cemu.cemu.debug"
     }
    ],
-   "revisionNumber": 10
+   "revisionNumber": 11
   },
   "NintendoWiiWare.json": {
    "databaseVersion": 14,
@@ -10281,9 +10401,19 @@
      "killPackageProcessesWarning": true,
      "name": "ps3 - aPS3e (Folder Style)",
      "uniqueId": "ps3.aenu.aps3e.folder"
+    },
+    {
+     "acceptedFilenameRegex": "^(.*)\\.(?:iso)$",
+     "amStartArguments": "-n com.armsx3/com.armsx2.Main\n -e path {file.path}",
+     "description": "Supported extensions: iso.",
+     "extra": "",
+     "killPackageProcesses": false,
+     "killPackageProcessesWarning": false,
+     "name": "ps3 - ARMSX3",
+     "uniqueId": "ps3.com.armsx3"
     }
    ],
-   "revisionNumber": 3
+   "revisionNumber": 4
   },
   "Steam.json": {
    "databaseVersion": 14,
@@ -12190,9 +12320,19 @@
      "killPackageProcessesWarning": false,
      "name": "windows - GameNative (Steam)",
      "uniqueId": "windows.app.gamenative.steam"
+    },
+    {
+     "acceptedFilenameRegex": "^(.*)\\.(?:desktop)$",
+     "amStartArguments": "-n com.winlator.vanilla/com.winlator.cmod.XServerDisplayActivity\n -e shortcut_path {file.path}\n --activity-clear-task\n --activity-clear-top",
+     "description": "Supported extensions: desktop",
+     "extra": "",
+     "killPackageProcesses": false,
+     "killPackageProcessesWarning": false,
+     "name": "windows - Winlator (vanilla build)",
+     "uniqueId": "windows.com.winlator.vanilla"
     }
    ],
-   "revisionNumber": 14
+   "revisionNumber": 15
   },
   "WonderSwan.json": {
    "databaseVersion": 14,
