@@ -23,6 +23,13 @@
       "revisionNumber": 3
     },
     {
+      "filename": "Arcade.json",
+      "platformName": "Arcade",
+      "platformShortname": "arcade",
+      "platformUniqueId": "arcade",
+      "revisionNumber": 1
+    },
+    {
       "filename": "ArcadeFinalBurnNeo.json",
       "platformName": "Arcade (FinalBurn Neo)",
       "platformShortname": "fbneo",
@@ -121,27 +128,6 @@
       "revisionNumber": 3
     },
     {
-      "filename": "CPS1.json",
-      "platformName": "Capcom CP System I",
-      "platformShortname": "cps1",
-      "platformUniqueId": "cps1",
-      "revisionNumber": 7
-    },
-    {
-      "filename": "CPS2.json",
-      "platformName": "Capcom CP System II",
-      "platformShortname": "cps2",
-      "platformUniqueId": "cps2",
-      "revisionNumber": 7
-    },
-    {
-      "filename": "CPS3.json",
-      "platformName": "Capcom CP System III",
-      "platformShortname": "cps3",
-      "platformUniqueId": "cps3",
-      "revisionNumber": 7
-    },
-    {
       "filename": "CannonballOutRunEngine.json",
       "platformName": "Cannonball OutRun Engine",
       "platformShortname": "cannonball",
@@ -198,6 +184,27 @@
       "revisionNumber": 6
     },
     {
+      "filename": "CPS1.json",
+      "platformName": "Capcom CP System I",
+      "platformShortname": "cps1",
+      "platformUniqueId": "cps1",
+      "revisionNumber": 7
+    },
+    {
+      "filename": "CPS2.json",
+      "platformName": "Capcom CP System II",
+      "platformShortname": "cps2",
+      "platformUniqueId": "cps2",
+      "revisionNumber": 7
+    },
+    {
+      "filename": "CPS3.json",
+      "platformName": "Capcom CP System III",
+      "platformShortname": "cps3",
+      "platformUniqueId": "cps3",
+      "revisionNumber": 7
+    },
+    {
       "filename": "DOOMGameEngine.json",
       "platformName": "DOOM Game Engine",
       "platformShortname": "doom",
@@ -240,18 +247,18 @@
       "revisionNumber": 12
     },
     {
-      "filename": "FlashPlayer.json",
-      "platformName": "Flash Player",
-      "platformShortname": "flash",
-      "platformUniqueId": "flash",
-      "revisionNumber": 2
-    },
-    {
       "filename": "FlashbackGameEngine.json",
       "platformName": "Flashback Game Engine",
       "platformShortname": "flashback",
       "platformUniqueId": "flashback",
       "revisionNumber": 3
+    },
+    {
+      "filename": "FlashPlayer.json",
+      "platformName": "Flash Player",
+      "platformShortname": "flash",
+      "platformUniqueId": "flash",
+      "revisionNumber": 2
     },
     {
       "filename": "IdTech4A.json",
@@ -289,13 +296,6 @@
       "revisionNumber": 3
     },
     {
-      "filename": "MSX.json",
-      "platformName": "MSX",
-      "platformShortname": "msx",
-      "platformUniqueId": "msx",
-      "revisionNumber": 12
-    },
-    {
       "filename": "MagnavoxOdyssey2.json",
       "platformName": "Magnavox Odyssey 2",
       "platformShortname": "odyssey2",
@@ -329,6 +329,13 @@
       "platformShortname": "moonlight",
       "platformUniqueId": "moonlight",
       "revisionNumber": 6
+    },
+    {
+      "filename": "MSX.json",
+      "platformName": "MSX",
+      "platformShortname": "msx",
+      "platformUniqueId": "msx",
+      "revisionNumber": 12
     },
     {
       "filename": "NECPC88.json",
@@ -492,13 +499,6 @@
       "revisionNumber": 10
     },
     {
-      "filename": "PICO8.json",
-      "platformName": "PICO-8",
-      "platformShortname": "pico8",
-      "platformUniqueId": "pico8",
-      "revisionNumber": 12
-    },
-    {
       "filename": "PalmOS.json",
       "platformName": "Palm OS",
       "platformShortname": "palm",
@@ -520,6 +520,13 @@
       "revisionNumber": 5
     },
     {
+      "filename": "PICO8.json",
+      "platformName": "PICO-8",
+      "platformShortname": "pico8",
+      "platformUniqueId": "pico8",
+      "revisionNumber": 12
+    },
+    {
       "filename": "PlayStationPortable.json",
       "platformName": "Sony PlayStation Portable",
       "platformShortname": "psp",
@@ -535,7 +542,7 @@
     },
     {
       "filename": "PokemonMini.json",
-      "platformName": "Nintendo Pok\u00e9mon Mini",
+      "platformName": "Nintendo Pokémon Mini",
       "platformShortname": "pokemini",
       "platformUniqueId": "pokemini",
       "revisionNumber": 7
@@ -639,18 +646,18 @@
       "revisionNumber": 5
     },
     {
-      "filename": "SegaSG1000.json",
-      "platformName": "Sega SG-1000",
-      "platformShortname": "sg1000",
-      "platformUniqueId": "sg1000",
-      "revisionNumber": 8
-    },
-    {
       "filename": "SegaSaturn.json",
       "platformName": "Sega Saturn",
       "platformShortname": "saturn",
       "platformUniqueId": "saturn",
       "revisionNumber": 14
+    },
+    {
+      "filename": "SegaSG1000.json",
+      "platformName": "Sega SG-1000",
+      "platformShortname": "sg1000",
+      "platformUniqueId": "sg1000",
+      "revisionNumber": 8
     },
     {
       "filename": "SharpX1.json",
@@ -665,13 +672,6 @@
       "platformShortname": "x68000",
       "platformUniqueId": "x68000",
       "revisionNumber": 6
-    },
-    {
-      "filename": "SonyPSVita.json",
-      "platformName": "Sony PlayStation Vita",
-      "platformShortname": "vita",
-      "platformUniqueId": "vita",
-      "revisionNumber": 10
     },
     {
       "filename": "SonyPlayStation.json",
@@ -693,6 +693,13 @@
       "platformShortname": "ps3",
       "platformUniqueId": "ps3",
       "revisionNumber": 4
+    },
+    {
+      "filename": "SonyPSVita.json",
+      "platformName": "Sony PlayStation Vita",
+      "platformShortname": "vita",
+      "platformUniqueId": "vita",
+      "revisionNumber": 10
     },
     {
       "filename": "Steam.json",
@@ -758,18 +765,18 @@
       "revisionNumber": 2
     },
     {
-      "filename": "VIC20.json",
-      "platformName": "VIC-20",
-      "platformShortname": "vic20",
-      "platformUniqueId": "vic20",
-      "revisionNumber": 6
-    },
-    {
       "filename": "Vectrex.json",
       "platformName": "GCE Vectrex",
       "platformShortname": "vectrex",
       "platformUniqueId": "vectrex",
       "revisionNumber": 7
+    },
+    {
+      "filename": "VIC20.json",
+      "platformName": "VIC-20",
+      "platformShortname": "vic20",
+      "platformUniqueId": "vic20",
+      "revisionNumber": 6
     },
     {
       "filename": "VideoPlayer.json",
