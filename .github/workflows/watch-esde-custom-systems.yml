@@ -14,10 +14,18 @@ name: Watch ES-DE custom systems for changes
 # benchmark app because a fork borrowed its name is worse than one missing an emulator.
 on:
   schedule:
-    # Daily. It is a release feed rather than a branch: v1.57 landed on 11 August and
-    # the one before it in July, so hourly would be a hundred quiet runs to catch a
-    # change that waits a fortnight anyway.
-    - cron: "41 5 * * *"
+    # Hourly, on the same argument as the Daijisho watcher: the run is two small
+    # fetches and a comparison, it produces nothing at all unless the release moved,
+    # so frequency costs nothing and catches a broken emulator launch the day it is
+    # fixed rather than whenever somebody next looks.
+    #
+    # A release feed moves less often than a branch, so most of these do nothing. That
+    # is the point of them: what is being bought is the day a fork changes its activity
+    # name, and these forks - Uzuy, Citron, Sumi, Ziunx - move faster and break more
+    # often than anything in the packs, which is exactly when an hour beats a day.
+    #
+    # Offset from the other two watchers so three jobs do not wake together.
+    - cron: "41 * * * *"
   workflow_dispatch:
 
 permissions:
