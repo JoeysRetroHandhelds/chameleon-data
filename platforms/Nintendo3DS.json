@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 22,
+  "revisionNumber": 23,
   "platform": {
     "name": "Nintendo 3DS",
     "uniqueId": "3ds",
@@ -211,6 +211,26 @@
       "amStartArguments": "-n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO azahar\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg",
       "killPackageProcesses": true,
       "killPackageProcessesWarning": true,
+      "extra": ""
+    },
+    {
+      "name": "3ds - Citra Enhanced",
+      "uniqueId": "3ds.org.gamerytb.citra.canary",
+      "description": "Supported extensions: cci, cxi, zcci, zcxi.",
+      "acceptedFilenameRegex": "^(.*)\\.(?:cci|cxi|zcci|zcxi|3ds)$",
+      "amStartArguments": "-n org.gamerytb.citra.canary/org.citra.citra_emu.ui.main.MainActivity\n -d {file.uri}\n --activity-clear-task\n --activity-clear-top",
+      "killPackageProcesses": false,
+      "killPackageProcessesWarning": false,
+      "extra": ""
+    },
+    {
+      "name": "3ds - Cytrus",
+      "uniqueId": "3ds.org.cytrus.cytrus_emu",
+      "description": "Supported extensions: cci, cxi, zcci, zcxi.",
+      "acceptedFilenameRegex": "^(.*)\\.(?:cci|cxi|zcci|zcxi|3ds)$",
+      "amStartArguments": "-n org.cytrus.cytrus_emu/.activities.EmulationActivity\n -d {file.uri}\n --activity-clear-task\n --activity-clear-top",
+      "killPackageProcesses": false,
+      "killPackageProcessesWarning": false,
       "extra": ""
     }
   ]

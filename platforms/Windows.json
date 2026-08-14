@@ -1,6 +1,6 @@
 {
   "databaseVersion": 14,
-  "revisionNumber": 14,
+  "revisionNumber": 15,
   "platform": {
     "name": "Windows",
     "uniqueId": "windows",
@@ -167,6 +167,16 @@
       "description": "GameNative",
       "acceptedFilenameRegex": "^(.*)\\.(?:steamappid)$",
       "amStartArguments": "-a app.gamenative.LAUNCH_GAME\n -n app.gamenative/.MainActivity\n --ei app_id {tags.steamappid}\n --es game_source STEAM\n",
+      "killPackageProcesses": false,
+      "killPackageProcessesWarning": false,
+      "extra": ""
+    },
+    {
+      "name": "windows - Winlator (vanilla build)",
+      "uniqueId": "windows.com.winlator.vanilla",
+      "description": "Supported extensions: desktop",
+      "acceptedFilenameRegex": "^(.*)\\.(?:desktop)$",
+      "amStartArguments": "-n com.winlator.vanilla/com.winlator.cmod.XServerDisplayActivity\n -e shortcut_path {file.path}\n --activity-clear-task\n --activity-clear-top",
       "killPackageProcesses": false,
       "killPackageProcessesWarning": false,
       "extra": ""
