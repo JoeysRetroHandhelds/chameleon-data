@@ -31,6 +31,32 @@ def main():
         with open(path, encoding="utf-8") as f:
             packs[name] = json.load(f)
 
+    # The index is what a device compares against, so it has to agree with the packs.
+    #
+    # It does not keep itself in step, and nothing said so. A pack was edited and its own
+    # revisionNumber raised, the index was left alone, and every install went on
+    # believing it had the current one: the change was committed, pushed, live, and
+    # reached nobody. That had already happened once before anyone noticed - the
+    # PlayStation pack carried its ARMSX1 player at revision 14 while the index
+    # advertised 13, so the emulator we imported from upstream was never delivered.
+    #
+    # Checked before anything is written, because a bundle built from a stale index
+    # carries the new players under the old numbers, which is the same silence one step
+    # further along.
+    disagreeing = [
+        f"{name}: index says {entry.get('revisionNumber')}, "
+        f"the pack says {packs[name].get('revisionNumber')}"
+        for entry in index["platformList"]
+        for name in [entry["filename"]]
+        if name in packs and entry.get("revisionNumber") != packs[name].get("revisionNumber")
+    ]
+    if disagreeing:
+        raise SystemExit(
+            "index.json disagrees with the packs, so devices would not see these "
+            "changes:\n  " + "\n  ".join(disagreeing) +
+            "\n\nRaise the revisionNumber in index.json to match each pack."
+        )
+
     # The revisions the bundle was built from, so a reader can tell at a glance
     # whether it matches the index it came with.
     revisions = {

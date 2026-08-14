@@ -391,7 +391,7 @@
       "platformName": "Nintendo 3DS",
       "platformShortname": "3ds",
       "platformUniqueId": "3ds",
-      "revisionNumber": 22
+      "revisionNumber": 23
     },
     {
       "filename": "Nintendo64.json",
@@ -405,7 +405,7 @@
       "platformName": "Nintendo DS",
       "platformShortname": "nds",
       "platformUniqueId": "nds",
-      "revisionNumber": 15
+      "revisionNumber": 16
     },
     {
       "filename": "NintendoDSi.json",
@@ -468,7 +468,7 @@
       "platformName": "Nintendo Switch",
       "platformShortname": "switch",
       "platformUniqueId": "switch",
-      "revisionNumber": 22
+      "revisionNumber": 23
     },
     {
       "filename": "NintendoWii.json",
@@ -482,7 +482,7 @@
       "platformName": "Nintendo Wii U",
       "platformShortname": "wiiu",
       "platformUniqueId": "wiiu",
-      "revisionNumber": 10
+      "revisionNumber": 11
     },
     {
       "filename": "NintendoWiiWare.json",
@@ -678,7 +678,7 @@
       "platformName": "Sony PlayStation",
       "platformShortname": "psx",
       "platformUniqueId": "psx",
-      "revisionNumber": 13
+      "revisionNumber": 14
     },
     {
       "filename": "SonyPlayStation2.json",
@@ -692,7 +692,7 @@
       "platformName": "Sony PlayStation 3",
       "platformShortname": "ps3",
       "platformUniqueId": "ps3",
-      "revisionNumber": 3
+      "revisionNumber": 4
     },
     {
       "filename": "Steam.json",
@@ -804,7 +804,7 @@
       "platformName": "Windows",
       "platformShortname": "windows",
       "platformUniqueId": "windows",
-      "revisionNumber": 14
+      "revisionNumber": 15
     },
     {
       "filename": "WonderSwan.json",
