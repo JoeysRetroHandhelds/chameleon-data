@@ -40,12 +40,21 @@ jobs:
 
       - name: Compare against our packs
         id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
           BASE="https://github.com/GlazedBelmont/es-de-android-custom-systems/releases/latest/download"
           curl -sSfL "$BASE/es_systems.xml" -o es_systems.xml
           curl -sSfL "$BASE/es_find_rules.xml" -o es_find_rules.xml
+          # Authenticated, because this one hits api.github.com rather than the raw CDN
+          # the other watchers use: an unauthenticated call shares a 60-per-hour limit
+          # across every Actions runner on the same address, so an hourly job 403s the
+          # moment it lands behind a busy neighbour. The token lifts that to 5000.
           curl -sSfL \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
             "https://api.github.com/repos/GlazedBelmont/es-de-android-custom-systems/releases/latest" \
             -o release.json
 
