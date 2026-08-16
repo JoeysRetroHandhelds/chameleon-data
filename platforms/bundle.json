@@ -1604,7 +1604,7 @@
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
      "name": "atomiswave - com.flycast.emulator (dev build)",
-     "uniqueId": "atomiswave.com.flycast.emulator"
+     "uniqueId": "atomiswave.com.flycast.emulator.devbuild"
     },
     {
      "acceptedFilenameRegex": "^(.*)\\.(?:7z|chd|dat|lst|zip)$",
@@ -1637,7 +1637,7 @@
      "uniqueId": "atomiswave.ra.flycast"
     }
    ],
-   "revisionNumber": 12
+   "revisionNumber": 13
   },
   "BBCMicro.json": {
    "databaseVersion": 14,
@@ -3028,7 +3028,7 @@
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
      "name": "dreamcast - com.flycast.emulator (dev build)",
-     "uniqueId": "dreamcast.com.flycast.emulator"
+     "uniqueId": "dreamcast.com.flycast.emulator.devbuild"
     },
     {
      "acceptedFilenameRegex": "^(.*)\\.(?:7z|bin|cdi|chd|cue|elf|gdi|lst|m3u|zip)$",
@@ -3061,7 +3061,7 @@
      "uniqueId": "dreamcast.ra.flycast"
     }
    ],
-   "revisionNumber": 12
+   "revisionNumber": 13
   },
   "ElektorTVGamesComputer.json": {
    "databaseVersion": 14,
@@ -4749,7 +4749,7 @@
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
      "name": "3ds - Citra Nightly",
-     "uniqueId": "3ds.org.citra.citra_emu"
+     "uniqueId": "3ds.org.citra.citra_emu.nightly"
     },
     {
      "acceptedFilenameRegex": "^(.*)\\.(?:3ds|3dsx|app|axf|cci|cxi|elf)$",
@@ -4790,26 +4790,6 @@
      "killPackageProcessesWarning": true,
      "name": "3ds - Mandarine",
      "uniqueId": "3ds.io.github.mandarine3ds.mandarine"
-    },
-    {
-     "acceptedFilenameRegex": "^(.*)\\.(?:3ds|3dsx|app|axf|cci|cxi|elf)$",
-     "amStartArguments": "-n com.antutu.ABenchMark/org.citra.emu.ui.EmulationActivity\n -a android.intent.action.VIEW\n -e GamePath {file.path}\n --activity-clear-task\n --activity-clear-top\n",
-     "description": "Supported extensions: 3ds, 3dsx, app, axf, cci, cxi, elf.",
-     "extra": "",
-     "killPackageProcesses": false,
-     "killPackageProcessesWarning": true,
-     "name": "3ds - org.citra.emu - antutu",
-     "uniqueId": "3ds.com.antutu.ABenchMark"
-    },
-    {
-     "acceptedFilenameRegex": "^(.*)\\.(?:3ds|3dsx|app|axf|cci|cxi|elf)$",
-     "amStartArguments": "-n com.antutu.ABenchMark/org.citra.emu.ui.EmulationActivity\n -a android.intent.action.VIEW\n -e GamePath {file.uri}\n --activity-clear-task\n --activity-clear-top\n",
-     "description": "Supported extensions: 3ds, 3dsx, app, axf, cci, cxi, elf.",
-     "extra": "",
-     "killPackageProcesses": false,
-     "killPackageProcessesWarning": true,
-     "name": "3ds - org.citra.emu - storage access antutu",
-     "uniqueId": "3ds.com.antutu.ABenchMark"
     },
     {
      "acceptedFilenameRegex": "^(.*)\\.(?:3ds|3dsx|app|axf|cci|cxi|elf)$",
@@ -4912,7 +4892,7 @@
      "uniqueId": "3ds.org.cytrus.cytrus_emu"
     }
    ],
-   "revisionNumber": 23
+   "revisionNumber": 24
   },
   "Nintendo64.json": {
    "databaseVersion": 14,
@@ -9723,7 +9703,7 @@
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
      "name": "naomi - com.flycast.emulator (dev build)",
-     "uniqueId": "naomi.com.flycast.emulator"
+     "uniqueId": "naomi.com.flycast.emulator.devbuild"
     },
     {
      "acceptedFilenameRegex": "^(.*)\\.(?:7z|lst|zip|dat)$",
@@ -9756,7 +9736,7 @@
      "uniqueId": "naomi.ra.flycast"
     }
    ],
-   "revisionNumber": 14
+   "revisionNumber": 15
   },
   "SegaPico.json": {
    "databaseVersion": 14,
@@ -10299,7 +10279,7 @@
      "killPackageProcesses": false,
      "killPackageProcessesWarning": true,
      "name": "psx - Duckstation (Legacy)",
-     "uniqueId": "psx.com.github.stenzek.duckstation"
+     "uniqueId": "psx.com.github.stenzek.duckstation.legacy"
     },
     {
      "acceptedFilenameRegex": "^(.*).(?:bin|chd|cue|ecm|exe|img|iso|m3u|mds|pbp|psexe|psf)$",
@@ -10512,7 +10492,7 @@
      "uniqueId": "psx.ra.swanstation"
     }
    ],
-   "revisionNumber": 14
+   "revisionNumber": 15
   },
   "SonyPlayStation2.json": {
    "databaseVersion": 14,
@@ -12917,7 +12897,7 @@
   "AtariJaguarCD.json": 8,
   "AtariLynx.json": 13,
   "AtariST.json": 9,
-  "Atomiswave.json": 12,
+  "Atomiswave.json": 13,
   "BBCMicro.json": 5,
   "BookReader.json": 3,
   "CPS1.json": 7,
@@ -12933,7 +12913,7 @@
   "CommodorePlus4.json": 6,
   "DOOMGameEngine.json": 3,
   "DOS.json": 6,
-  "Dreamcast.json": 12,
+  "Dreamcast.json": 13,
   "ElektorTVGamesComputer.json": 1,
   "FairchildChannelF.json": 8,
   "FamicomDiskSystem.json": 12,
@@ -12958,7 +12938,7 @@
   "NeoGeoPocket.json": 12,
   "NeoGeoPocketColor.json": 9,
   "Ngage.json": 5,
-  "Nintendo3DS.json": 23,
+  "Nintendo3DS.json": 24,
   "Nintendo64.json": 18,
   "NintendoDS.json": 16,
   "NintendoDSi.json": 14,
@@ -12992,14 +12972,14 @@
   "SegaGenesisMSU.json": 6,
   "SegaMasterSystem.json": 16,
   "SegaModel3.json": 2,
-  "SegaNAOMI.json": 14,
+  "SegaNAOMI.json": 15,
   "SegaPico.json": 5,
   "SegaSG1000.json": 8,
   "SegaSaturn.json": 14,
   "SharpX1.json": 4,
   "SharpX68000.json": 6,
   "SonyPSVita.json": 10,
-  "SonyPlayStation.json": 14,
+  "SonyPlayStation.json": 15,
   "SonyPlayStation2.json": 18,
   "SonyPlayStation3.json": 4,
   "Steam.json": 8,

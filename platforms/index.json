@@ -111,7 +111,7 @@
       "platformName": "Sammy Atomiswave",
       "platformShortname": "atomiswave",
       "platformUniqueId": "atomiswave",
-      "revisionNumber": 12
+      "revisionNumber": 13
     },
     {
       "filename": "BBCMicro.json",
@@ -223,7 +223,7 @@
       "platformName": "Sega Dreamcast",
       "platformShortname": "dreamcast",
       "platformUniqueId": "dreamcast",
-      "revisionNumber": 12
+      "revisionNumber": 13
     },
     {
       "filename": "ElektorTVGamesComputer.json",
@@ -398,7 +398,7 @@
       "platformName": "Nintendo 3DS",
       "platformShortname": "3ds",
       "platformUniqueId": "3ds",
-      "revisionNumber": 23
+      "revisionNumber": 24
     },
     {
       "filename": "Nintendo64.json",
@@ -636,7 +636,7 @@
       "platformName": "Sega NAOMI",
       "platformShortname": "naomi",
       "platformUniqueId": "naomi",
-      "revisionNumber": 14
+      "revisionNumber": 15
     },
     {
       "filename": "SegaPico.json",
@@ -678,7 +678,7 @@
       "platformName": "Sony PlayStation",
       "platformShortname": "psx",
       "platformUniqueId": "psx",
-      "revisionNumber": 14
+      "revisionNumber": 15
     },
     {
       "filename": "SonyPlayStation2.json",
