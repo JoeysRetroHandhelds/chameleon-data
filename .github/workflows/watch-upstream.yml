@@ -74,12 +74,26 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           TITLE="Upstream platform changes"
-          EXISTING=$(gh issue list --state open --search "$TITLE in:title" \
+          # GitHub's API returns the odd transient 503, and this hourly watcher is not worth
+          # failing over one: retry a few times with a growing backoff before giving up.
+          retry() {
+            local n=0
+            until "$@"; do
+              n=$((n + 1))
+              if [ "$n" -ge 5 ]; then
+                echo "still failing after $n attempts" >&2
+                return 1
+              fi
+              echo "attempt $n failed, retrying in $((n * 10))s" >&2
+              sleep $((n * 10))
+            done
+          }
+          EXISTING=$(retry gh issue list --state open --search "$TITLE in:title" \
             --json number --jq '.[0].number // empty')
           if [ -n "$EXISTING" ]; then
             # Edited rather than commented on, so the issue is always the current
             # difference instead of a pile of weekly notes.
-            gh issue edit "$EXISTING" --body-file report.md
+            retry gh issue edit "$EXISTING" --body-file report.md
           else
-            gh issue create --title "$TITLE" --body-file report.md
+            retry gh issue create --title "$TITLE" --body-file report.md
           fi
