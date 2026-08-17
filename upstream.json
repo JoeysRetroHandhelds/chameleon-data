@@ -105,7 +105,7 @@
       "SonyPSVita.json": 9,
       "SonyPlayStation.json": 13,
       "SonyPlayStation2.json": 18,
-      "SonyPlayStation3.json": 3,
+      "SonyPlayStation3.json": 4,
       "Steam.json": 8,
       "SuperGrafx.json": 6,
       "SuperNintendoEntertainmentSystem.json": 13,
@@ -173,6 +173,7 @@
       "nesh": "NES hacks",
       "snesh": "SNES hacks",
       "genh": "Genesis hacks",
+      "gog": "GOG.com's storefront, not a console. It is a shop for native PC games, which Chameleon does not launch: we run emulators for console ROMs, not a desktop game store.",
       "why": "Not hardware. ES-DE keeps hacks in folders of their own so they do not crowd the console they are hacks of, which is a way of arranging a library rather than a system to support - the ROMs run on the emulators we already launch. Listed so the watcher stops offering them every day. Remove an entry to have it reported again."
     }
   }
