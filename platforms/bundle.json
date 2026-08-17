@@ -10674,7 +10674,7 @@
     },
     {
      "acceptedFilenameRegex": "^(.*)\\.(?:iso)$",
-     "amStartArguments": "-n com.armsx3/com.armsx2.Main\n -e path {file.path}",
+     "amStartArguments": "-n com.armsx3/com.armsx2.Main\n -d {file.path}",
      "description": "Supported extensions: iso.",
      "extra": "",
      "killPackageProcesses": false,
@@ -10683,7 +10683,7 @@
      "uniqueId": "ps3.com.armsx3"
     }
    ],
-   "revisionNumber": 4
+   "revisionNumber": 5
   },
   "Steam.json": {
    "databaseVersion": 14,
@@ -13001,7 +13001,7 @@
   "SonyPSVita.json": 10,
   "SonyPlayStation.json": 15,
   "SonyPlayStation2.json": 18,
-  "SonyPlayStation3.json": 4,
+  "SonyPlayStation3.json": 5,
   "Steam.json": 8,
   "SuperGrafx.json": 7,
   "SuperNintendoEntertainmentSystem.json": 14,
