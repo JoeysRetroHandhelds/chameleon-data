@@ -7,7 +7,8 @@
       "crcs": [
         "ea488494"
       ],
-      "romhack": false
+      "romhack": false,
+      "endsAt": "2026-08-24T00:00:00Z"
     },
     {
       "slot": "game-of-month",
@@ -16,7 +17,8 @@
       "crcs": [
         "35536183"
       ],
-      "romhack": false
+      "romhack": false,
+      "endsAt": "2026-09-01T00:00:00Z"
     },
     {
       "slot": "game-of-season",
@@ -26,16 +28,18 @@
         "10cedd41",
         "d231ed24"
       ],
-      "romhack": false
+      "romhack": false,
+      "endsAt": "2026-10-01T00:00:00Z"
     },
     {
       "slot": "romhack-of-month",
-      "title": "Pok\u00e9mon Lazarus",
+      "title": "Pokémon Lazarus",
       "platform": "gba",
       "crcs": [
         "1f1c08fb"
       ],
-      "romhack": true
+      "romhack": true,
+      "endsAt": "2026-09-01T00:00:00Z"
     }
   ]
 }
