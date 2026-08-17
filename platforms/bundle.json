@@ -11845,9 +11845,29 @@
      "killPackageProcessesWarning": true,
      "name": "tg16 - RetroArch - mednafen_pce",
      "uniqueId": "tg16.ra.mednafen_pce"
+    },
+    {
+     "acceptedFilenameRegex": "^(.*)\\.(?:ccd|chd|cue|pce|sgx|zip|7z)$",
+     "amStartArguments": "-n com.retroarch.aarch64/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO mednafen_supergrafx\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.aarch64/files/retroarch.cfg",
+     "description": "Supported extensions: ccd, chd, cue, pce, sgx, zip, 7z.",
+     "extra": "",
+     "killPackageProcesses": true,
+     "killPackageProcessesWarning": true,
+     "name": "tg16 - RetroArch 64 - mednafen_supergrafx",
+     "uniqueId": "tg16.ra64.mednafen_supergrafx"
+    },
+    {
+     "acceptedFilenameRegex": "^(.*)\\.(?:ccd|chd|cue|pce|sgx|zip|7z)$",
+     "amStartArguments": "-n com.retroarch.ra32/com.retroarch.browser.retroactivity.RetroActivityFuture\n -e ROM {file.path}\n -e LIBRETRO mednafen_supergrafx\n -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch.ra32/files/retroarch.cfg",
+     "description": "Supported extensions: ccd, chd, cue, pce, sgx, zip, 7z.",
+     "extra": "",
+     "killPackageProcesses": true,
+     "killPackageProcessesWarning": true,
+     "name": "tg16 - RetroArch 32 - mednafen_supergrafx",
+     "uniqueId": "tg16.ra32.mednafen_supergrafx"
     }
    ],
-   "revisionNumber": 12
+   "revisionNumber": 13
   },
   "TurboGrafxCD.json": {
    "databaseVersion": 14,
@@ -12988,7 +13008,7 @@
   "SuperNintendoEntertainmentSystemMSU1.json": 7,
   "TIC80.json": 3,
   "Triforce.json": 3,
-  "TurboGrafx16.json": 12,
+  "TurboGrafx16.json": 13,
   "TurboGrafxCD.json": 12,
   "Uzebox.json": 2,
   "VIC20.json": 6,
