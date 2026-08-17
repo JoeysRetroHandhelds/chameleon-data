@@ -1,0 +1,158 @@
+{
+  "dfdb35cb": [
+    {
+      "name": "14541-SF3-Scenario1-English",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/14541-SF3-Scenario1-English.zip",
+      "format": "xdelta"
+    },
+    {
+      "name": "25946-SF3-Scenario2-English",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/25946-SF3-Scenario2-English.zip",
+      "format": "xdelta"
+    },
+    {
+      "name": "25947-SF3-Scenario3-Premium-English",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/25947-SF3-Scenario3-Premium-English.zip",
+      "format": "xdelta"
+    }
+  ],
+  "eca10cee": [
+    {
+      "name": "14541-SF3-Scenario1-English",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/14541-SF3-Scenario1-English.zip",
+      "format": "xdelta"
+    },
+    {
+      "name": "25946-SF3-Scenario2-English",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/25946-SF3-Scenario2-English.zip",
+      "format": "xdelta"
+    },
+    {
+      "name": "25947-SF3-Scenario3-Premium-English",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/25947-SF3-Scenario3-Premium-English.zip",
+      "format": "xdelta"
+    }
+  ],
+  "f5dc8703": [
+    {
+      "name": "14541-SF3-Scenario1-English",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/14541-SF3-Scenario1-English.zip",
+      "format": "xdelta"
+    },
+    {
+      "name": "25946-SF3-Scenario2-English",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/25946-SF3-Scenario2-English.zip",
+      "format": "xdelta"
+    },
+    {
+      "name": "25947-SF3-Scenario3-Premium-English",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/25947-SF3-Scenario3-Premium-English.zip",
+      "format": "xdelta"
+    }
+  ],
+  "4bd10720": [
+    {
+      "name": "14643-LinkleLiverStory-English",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/14643-LinkleLiverStory-English.zip",
+      "format": "xdelta"
+    }
+  ],
+  "0f049f7c": [
+    {
+      "name": "17900-ZanmaChouougiValhollian-English",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/17900-ZanmaChouougiValhollian-English.zip",
+      "format": "xdelta"
+    }
+  ],
+  "f6bb733f": [
+    {
+      "name": "18252-Wachenroeder-English",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/18252-Wachenroeder-English.zip",
+      "format": "xdelta"
+    }
+  ],
+  "2d079f77": [
+    {
+      "name": "18645-FalcomClassics-English",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/18645-FalcomClassics-English.zip",
+      "format": "xdelta"
+    }
+  ],
+  "d3b4ae42": [
+    {
+      "name": "18645-FalcomClassics-English",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/18645-FalcomClassics-English.zip",
+      "format": "xdelta"
+    }
+  ],
+  "6852311b": [
+    {
+      "name": "25898-DungeonMasterNexus-English",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/25898-DungeonMasterNexus-English.zip",
+      "format": "xdelta"
+    }
+  ],
+  "cdd01a7c": [
+    {
+      "name": "33106-ArcanaStrikes-English",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/33106-ArcanaStrikes-English.zip",
+      "format": "xdelta"
+    }
+  ],
+  "abc1dedc": [
+    {
+      "name": "3604-Cotton2-EnglishTranslation",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/3604-Cotton2-EnglishTranslation.zip",
+      "format": "bps"
+    }
+  ],
+  "f110ab6b": [
+    {
+      "name": "3604-Cotton2-EnglishTranslation",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/3604-Cotton2-EnglishTranslation.zip",
+      "format": "bps"
+    }
+  ],
+  "268b4623": [
+    {
+      "name": "38726-WorldAdvancedDaisenryaku-SakusenFile-English",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/38726-WorldAdvancedDaisenryaku-SakusenFile-English.zip",
+      "format": "xdelta"
+    }
+  ],
+  "f14e7a0e": [
+    {
+      "name": "38726-WorldAdvancedDaisenryaku-SakusenFile-English",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/38726-WorldAdvancedDaisenryaku-SakusenFile-English.zip",
+      "format": "xdelta"
+    }
+  ],
+  "fa54bc16": [
+    {
+      "name": "38726-WorldAdvancedDaisenryaku-SakusenFile-English",
+      "type": "Translation",
+      "path": "Saturn/Translation/English/38726-WorldAdvancedDaisenryaku-SakusenFile-English.zip",
+      "format": "xdelta"
+    }
+  ]
+}
