@@ -1,0 +1,58 @@
+{
+  "bea8b9a2": [
+    {
+      "name": "2109-TonkachiMario",
+      "type": "Hack",
+      "path": "Famicom Disk System/Hack/2109-TonkachiMario.zip",
+      "format": "bps"
+    }
+  ],
+  "ec6d5de3": [
+    {
+      "name": "1972-ArmananoKiseki-English",
+      "type": "Translation",
+      "path": "Famicom Disk System/Translation/English/1972-ArmananoKiseki-English.zip",
+      "format": "bps"
+    }
+  ],
+  "1999addb": [
+    {
+      "name": "22889-Aspic-English",
+      "type": "Translation",
+      "path": "Famicom Disk System/Translation/English/22889-Aspic-English.zip",
+      "format": "ips"
+    }
+  ],
+  "6e59ec4f": [
+    {
+      "name": "27580-BodyconquestI-English",
+      "type": "Translation",
+      "path": "Famicom Disk System/Translation/English/27580-BodyconquestI-English.zip",
+      "format": "bps"
+    }
+  ],
+  "dd80ea36": [
+    {
+      "name": "27580-BodyconquestI-English",
+      "type": "Translation",
+      "path": "Famicom Disk System/Translation/English/27580-BodyconquestI-English.zip",
+      "format": "bps"
+    }
+  ],
+  "56f522d8": [
+    {
+      "name": "32980-MadouSenkiDeepDungeon-English",
+      "type": "Translation",
+      "path": "Famicom Disk System/Translation/English/32980-MadouSenkiDeepDungeon-English.zip",
+      "format": "bps"
+    }
+  ],
+  "f70173fb": [
+    {
+      "name": "32980-MadouSenkiDeepDungeon-English",
+      "type": "Translation",
+      "path": "Famicom Disk System/Translation/English/32980-MadouSenkiDeepDungeon-English.zip",
+      "format": "bps"
+    }
+  ]
+}

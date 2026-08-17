@@ -1,0 +1,34 @@
+{
+  "0d766139": [
+    {
+      "name": "12906-BubblegumCrash-English",
+      "type": "Translation",
+      "path": "PC Engine/Translation/English/12906-BubblegumCrash-English.zip",
+      "format": "bps"
+    }
+  ],
+  "6fd6827c": [
+    {
+      "name": "13312-GaianoMonshou-English",
+      "type": "Translation",
+      "path": "PC Engine/Translation/English/13312-GaianoMonshou-English.zip",
+      "format": "bps"
+    }
+  ],
+  "469a0fdf": [
+    {
+      "name": "8742-ShiryouSensen-English",
+      "type": "Translation",
+      "path": "PC Engine/Translation/English/8742-ShiryouSensen-English.zip",
+      "format": "bps"
+    }
+  ],
+  "c6f764ec": [
+    {
+      "name": "9565-LadySword-English",
+      "type": "Translation",
+      "path": "PC Engine/Translation/English/9565-LadySword-English.zip",
+      "format": "bps"
+    }
+  ]
+}

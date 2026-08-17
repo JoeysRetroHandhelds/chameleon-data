@@ -1,0 +1,51 @@
+{
+  "_comment": "Hand-authored curated sets, by title + platform. tools/collections.py resolves each title to every dump's CRC and writes collections/curated.json (which the app reads). Add sets freely; unresolved titles are printed on build and skipped. 'auto' entries are rules, not lists: kind 'short' takes every game under maxHours per hltb/hltb.json on the named platforms.",
+  "collections": [
+    {
+      "id": "timeless-classics",
+      "name": "Timeless Classics",
+      "description": "The ones that still hold up. If you own one, start here.",
+      "source": "Play Retro Games Club",
+      "games": [
+        { "platform": "snes", "title": "Chrono Trigger" },
+        { "platform": "snes", "title": "Super Metroid" },
+        { "platform": "snes", "title": "The Legend of Zelda: A Link to the Past" },
+        { "platform": "snes", "title": "Super Mario World" },
+        { "platform": "snes", "title": "EarthBound" },
+        { "platform": "nes", "title": "Super Mario Bros. 3" },
+        { "platform": "nes", "title": "Mega Man 2" },
+        { "platform": "nes", "title": "Metroid" },
+        { "platform": "n64", "title": "The Legend of Zelda: Ocarina of Time" },
+        { "platform": "n64", "title": "Super Mario 64" },
+        { "platform": "gba", "title": "The Legend of Zelda: The Minish Cap" },
+        { "platform": "gb", "title": "The Legend of Zelda: Link's Awakening" }
+      ]
+    },
+    {
+      "id": "rpg-marathon",
+      "name": "RPG Marathon",
+      "description": "Clear your calendar. The role-playing games worth the hours.",
+      "source": "Play Retro Games Club",
+      "games": [
+        { "platform": "snes", "title": "Chrono Trigger" },
+        { "platform": "snes", "title": "Final Fantasy III" },
+        { "platform": "snes", "title": "Secret of Mana" },
+        { "platform": "snes", "title": "Super Mario RPG: Legend of the Seven Stars" },
+        { "platform": "gba", "title": "Golden Sun" },
+        { "platform": "gba", "title": "Pokemon Emerald Version" }
+      ]
+    }
+  ],
+  "auto": [
+    {
+      "id": "short-and-sweet",
+      "kind": "short",
+      "name": "Short & Sweet",
+      "description": "Great games you can finish in an evening, three hours or under.",
+      "source": "Chameleon",
+      "maxHours": 3,
+      "platforms": ["nes", "snes", "gb", "gbc", "gba"],
+      "limit": 30
+    }
+  ]
+}

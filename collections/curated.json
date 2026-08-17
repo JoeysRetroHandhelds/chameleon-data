@@ -1,0 +1,2020 @@
+{
+  "collections": [
+    {
+      "id": "timeless-classics",
+      "name": "Timeless Classics",
+      "description": "The ones that still hold up. If you own one, start here.",
+      "source": "Play Retro Games Club",
+      "games": [
+        {
+          "platform": "snes",
+          "crc": "2d206bf7"
+        },
+        {
+          "platform": "snes",
+          "crc": "4d014c20"
+        },
+        {
+          "platform": "snes",
+          "crc": "45913e52"
+        },
+        {
+          "platform": "snes",
+          "crc": "ad2cbf9c"
+        },
+        {
+          "platform": "snes",
+          "crc": "bed9186b"
+        },
+        {
+          "platform": "snes",
+          "crc": "d63ed5f8"
+        },
+        {
+          "platform": "snes",
+          "crc": "04d55e12"
+        },
+        {
+          "platform": "snes",
+          "crc": "052ee35d"
+        },
+        {
+          "platform": "snes",
+          "crc": "1f8c30e8"
+        },
+        {
+          "platform": "snes",
+          "crc": "220f154d"
+        },
+        {
+          "platform": "snes",
+          "crc": "47760381"
+        },
+        {
+          "platform": "snes",
+          "crc": "6a6c2091"
+        },
+        {
+          "platform": "snes",
+          "crc": "777aac2f"
+        },
+        {
+          "platform": "snes",
+          "crc": "92ff4444"
+        },
+        {
+          "platform": "snes",
+          "crc": "cad9d8ec"
+        },
+        {
+          "platform": "snes",
+          "crc": "fda7ace3"
+        },
+        {
+          "platform": "snes",
+          "crc": "1a9dd5c8"
+        },
+        {
+          "platform": "snes",
+          "crc": "28ac5863"
+        },
+        {
+          "platform": "snes",
+          "crc": "3c41070f"
+        },
+        {
+          "platform": "snes",
+          "crc": "b19ed489"
+        },
+        {
+          "platform": "snes",
+          "crc": "b47f5f20"
+        },
+        {
+          "platform": "snes",
+          "crc": "c46766f2"
+        },
+        {
+          "platform": "snes",
+          "crc": "d3fa35aa"
+        },
+        {
+          "platform": "snes",
+          "crc": "dc9bb451"
+        },
+        {
+          "platform": "nes",
+          "crc": "037cb1b4"
+        },
+        {
+          "platform": "nes",
+          "crc": "1ed5c801"
+        },
+        {
+          "platform": "nes",
+          "crc": "217d5067"
+        },
+        {
+          "platform": "nes",
+          "crc": "277b3544"
+        },
+        {
+          "platform": "nes",
+          "crc": "2e6301ed"
+        },
+        {
+          "platform": "nes",
+          "crc": "393a432f"
+        },
+        {
+          "platform": "nes",
+          "crc": "395cbb00"
+        },
+        {
+          "platform": "nes",
+          "crc": "43507232"
+        },
+        {
+          "platform": "nes",
+          "crc": "4675571d"
+        },
+        {
+          "platform": "nes",
+          "crc": "52387646"
+        },
+        {
+          "platform": "nes",
+          "crc": "52e2b5e0"
+        },
+        {
+          "platform": "nes",
+          "crc": "57ac67af"
+        },
+        {
+          "platform": "nes",
+          "crc": "661019c6"
+        },
+        {
+          "platform": "nes",
+          "crc": "94421b64"
+        },
+        {
+          "platform": "nes",
+          "crc": "9a2db086"
+        },
+        {
+          "platform": "nes",
+          "crc": "a0b0b742"
+        },
+        {
+          "platform": "nes",
+          "crc": "b0cbaef5"
+        },
+        {
+          "platform": "nes",
+          "crc": "c46969df"
+        },
+        {
+          "platform": "nes",
+          "crc": "ca594ace"
+        },
+        {
+          "platform": "nes",
+          "crc": "caa17ab5"
+        },
+        {
+          "platform": "nes",
+          "crc": "d36e8289"
+        },
+        {
+          "platform": "nes",
+          "crc": "d445f698"
+        },
+        {
+          "platform": "nes",
+          "crc": "dea55f53"
+        },
+        {
+          "platform": "nes",
+          "crc": "e7ddfee3"
+        },
+        {
+          "platform": "nes",
+          "crc": "e8c3af69"
+        },
+        {
+          "platform": "nes",
+          "crc": "e94e883d"
+        },
+        {
+          "platform": "nes",
+          "crc": "f39052fd"
+        },
+        {
+          "platform": "nes",
+          "crc": "fdc7949a"
+        },
+        {
+          "platform": "nes",
+          "crc": "0150e2ef"
+        },
+        {
+          "platform": "nes",
+          "crc": "0c60935f"
+        },
+        {
+          "platform": "nes",
+          "crc": "0fcfc04d"
+        },
+        {
+          "platform": "nes",
+          "crc": "4072a491"
+        },
+        {
+          "platform": "nes",
+          "crc": "4a918262"
+        },
+        {
+          "platform": "nes",
+          "crc": "6d073fbc"
+        },
+        {
+          "platform": "nes",
+          "crc": "80e08660"
+        },
+        {
+          "platform": "nes",
+          "crc": "834fd572"
+        },
+        {
+          "platform": "nes",
+          "crc": "a6638cba"
+        },
+        {
+          "platform": "nes",
+          "crc": "cf5de2bc"
+        },
+        {
+          "platform": "nes",
+          "crc": "e2287991"
+        },
+        {
+          "platform": "nes",
+          "crc": "eda2ec37"
+        },
+        {
+          "platform": "nes",
+          "crc": "ee8ea65f"
+        },
+        {
+          "platform": "nes",
+          "crc": "07e8d0cf"
+        },
+        {
+          "platform": "nes",
+          "crc": "70080810"
+        },
+        {
+          "platform": "nes",
+          "crc": "7432ff84"
+        },
+        {
+          "platform": "nes",
+          "crc": "7751588d"
+        },
+        {
+          "platform": "nes",
+          "crc": "967a7369"
+        },
+        {
+          "platform": "nes",
+          "crc": "d1a02cab"
+        },
+        {
+          "platform": "nes",
+          "crc": "d59adb3f"
+        },
+        {
+          "platform": "nes",
+          "crc": "e6c3fb2b"
+        },
+        {
+          "platform": "n64",
+          "crc": "32120c23"
+        },
+        {
+          "platform": "n64",
+          "crc": "346de3ae"
+        },
+        {
+          "platform": "n64",
+          "crc": "3fbd519f"
+        },
+        {
+          "platform": "n64",
+          "crc": "3fd2151e"
+        },
+        {
+          "platform": "n64",
+          "crc": "5d1b2996"
+        },
+        {
+          "platform": "n64",
+          "crc": "6c348aa8"
+        },
+        {
+          "platform": "n64",
+          "crc": "946fd0f7"
+        },
+        {
+          "platform": "n64",
+          "crc": "a108f6e3"
+        },
+        {
+          "platform": "n64",
+          "crc": "c188acda"
+        },
+        {
+          "platform": "n64",
+          "crc": "c4d2ac1d"
+        },
+        {
+          "platform": "n64",
+          "crc": "cd16c529"
+        },
+        {
+          "platform": "n64",
+          "crc": "e9146f9d"
+        },
+        {
+          "platform": "n64",
+          "crc": "03048de6"
+        },
+        {
+          "platform": "n64",
+          "crc": "35c02d9f"
+        },
+        {
+          "platform": "n64",
+          "crc": "3ce60709"
+        },
+        {
+          "platform": "n64",
+          "crc": "82535801"
+        },
+        {
+          "platform": "n64",
+          "crc": "a1e15117"
+        },
+        {
+          "platform": "n64",
+          "crc": "dd801954"
+        },
+        {
+          "platform": "gba",
+          "crc": "abcebbb1"
+        },
+        {
+          "platform": "gba",
+          "crc": "e8637292"
+        },
+        {
+          "platform": "gb",
+          "crc": "34d08e7b"
+        },
+        {
+          "platform": "gb",
+          "crc": "4407c759"
+        },
+        {
+          "platform": "gb",
+          "crc": "760ab4e7"
+        },
+        {
+          "platform": "gb",
+          "crc": "7d1b6cd6"
+        },
+        {
+          "platform": "gb",
+          "crc": "8cf27c90"
+        },
+        {
+          "platform": "gb",
+          "crc": "bf2ab18b"
+        }
+      ]
+    },
+    {
+      "id": "rpg-marathon",
+      "name": "RPG Marathon",
+      "description": "Clear your calendar. The role-playing games worth the hours.",
+      "source": "Play Retro Games Club",
+      "games": [
+        {
+          "platform": "snes",
+          "crc": "2d206bf7"
+        },
+        {
+          "platform": "snes",
+          "crc": "4d014c20"
+        },
+        {
+          "platform": "snes",
+          "crc": "4bd8902b"
+        },
+        {
+          "platform": "snes",
+          "crc": "a27f1c7a"
+        },
+        {
+          "platform": "snes",
+          "crc": "c0fa0464"
+        },
+        {
+          "platform": "snes",
+          "crc": "6be4ca95"
+        },
+        {
+          "platform": "snes",
+          "crc": "89990ef7"
+        },
+        {
+          "platform": "snes",
+          "crc": "9499855e"
+        },
+        {
+          "platform": "snes",
+          "crc": "b069bb3a"
+        },
+        {
+          "platform": "snes",
+          "crc": "c5cb2f26"
+        },
+        {
+          "platform": "snes",
+          "crc": "c5ffea78"
+        },
+        {
+          "platform": "snes",
+          "crc": "d0176b24"
+        },
+        {
+          "platform": "snes",
+          "crc": "de112322"
+        },
+        {
+          "platform": "snes",
+          "crc": "e9334b9e"
+        },
+        {
+          "platform": "snes",
+          "crc": "1b8a0625"
+        },
+        {
+          "platform": "snes",
+          "crc": "d695090d"
+        },
+        {
+          "platform": "gba",
+          "crc": "1053dce4"
+        },
+        {
+          "platform": "gba",
+          "crc": "c63008d6"
+        },
+        {
+          "platform": "gba",
+          "crc": "e1fb68e8"
+        },
+        {
+          "platform": "gba",
+          "crc": "f3128812"
+        },
+        {
+          "platform": "gba",
+          "crc": "f6521161"
+        },
+        {
+          "platform": "gba",
+          "crc": "1f1c08fb"
+        }
+      ]
+    },
+    {
+      "id": "short-and-sweet",
+      "name": "Short & Sweet",
+      "description": "Great games you can finish in an evening, three hours or under.",
+      "source": "Chameleon",
+      "games": [
+        {
+          "platform": "nes",
+          "crc": "319389b3"
+        },
+        {
+          "platform": "nes",
+          "crc": "3d564757"
+        },
+        {
+          "platform": "nes",
+          "crc": "44aa3eeb"
+        },
+        {
+          "platform": "nes",
+          "crc": "44d21f83"
+        },
+        {
+          "platform": "nes",
+          "crc": "525662b1"
+        },
+        {
+          "platform": "nes",
+          "crc": "83146ecf"
+        },
+        {
+          "platform": "nes",
+          "crc": "836c4fa7"
+        },
+        {
+          "platform": "nes",
+          "crc": "c986cda2"
+        },
+        {
+          "platform": "nes",
+          "crc": "171251e3"
+        },
+        {
+          "platform": "nes",
+          "crc": "74d7bae1"
+        },
+        {
+          "platform": "nes",
+          "crc": "00c08491"
+        },
+        {
+          "platform": "nes",
+          "crc": "0154072c"
+        },
+        {
+          "platform": "nes",
+          "crc": "12c6d5c7"
+        },
+        {
+          "platform": "nes",
+          "crc": "2a7cf274"
+        },
+        {
+          "platform": "nes",
+          "crc": "3ff10e3d"
+        },
+        {
+          "platform": "nes",
+          "crc": "46f660c9"
+        },
+        {
+          "platform": "nes",
+          "crc": "54f0319f"
+        },
+        {
+          "platform": "nes",
+          "crc": "5564b222"
+        },
+        {
+          "platform": "nes",
+          "crc": "6bc1bb33"
+        },
+        {
+          "platform": "nes",
+          "crc": "7e4c477a"
+        },
+        {
+          "platform": "nes",
+          "crc": "84be00e9"
+        },
+        {
+          "platform": "nes",
+          "crc": "aaf96070"
+        },
+        {
+          "platform": "nes",
+          "crc": "d91104f1"
+        },
+        {
+          "platform": "nes",
+          "crc": "f7566468"
+        },
+        {
+          "platform": "nes",
+          "crc": "0d7856b4"
+        },
+        {
+          "platform": "nes",
+          "crc": "1a788a4f"
+        },
+        {
+          "platform": "nes",
+          "crc": "22c0543e"
+        },
+        {
+          "platform": "nes",
+          "crc": "326ab3b6"
+        },
+        {
+          "platform": "nes",
+          "crc": "436cd34b"
+        },
+        {
+          "platform": "nes",
+          "crc": "89d3518c"
+        },
+        {
+          "platform": "nes",
+          "crc": "a1c16875"
+        },
+        {
+          "platform": "nes",
+          "crc": "f8d53171"
+        },
+        {
+          "platform": "nes",
+          "crc": "4dad1c95"
+        },
+        {
+          "platform": "nes",
+          "crc": "b134d713"
+        },
+        {
+          "platform": "nes",
+          "crc": "336b2b61"
+        },
+        {
+          "platform": "nes",
+          "crc": "65518eae"
+        },
+        {
+          "platform": "nes",
+          "crc": "8707e956"
+        },
+        {
+          "platform": "nes",
+          "crc": "99c84528"
+        },
+        {
+          "platform": "nes",
+          "crc": "bf700470"
+        },
+        {
+          "platform": "nes",
+          "crc": "cff2e0e7"
+        },
+        {
+          "platform": "nes",
+          "crc": "063e5653"
+        },
+        {
+          "platform": "nes",
+          "crc": "11623827"
+        },
+        {
+          "platform": "nes",
+          "crc": "1ac80aed"
+        },
+        {
+          "platform": "nes",
+          "crc": "2915d501"
+        },
+        {
+          "platform": "nes",
+          "crc": "341f10bb"
+        },
+        {
+          "platform": "nes",
+          "crc": "38fa9933"
+        },
+        {
+          "platform": "nes",
+          "crc": "4c7162bc"
+        },
+        {
+          "platform": "nes",
+          "crc": "4d7c44b7"
+        },
+        {
+          "platform": "nes",
+          "crc": "74068f9a"
+        },
+        {
+          "platform": "nes",
+          "crc": "9632c470"
+        },
+        {
+          "platform": "nes",
+          "crc": "ae452956"
+        },
+        {
+          "platform": "nes",
+          "crc": "b1e58f31"
+        },
+        {
+          "platform": "nes",
+          "crc": "c3481ced"
+        },
+        {
+          "platform": "nes",
+          "crc": "c46352b5"
+        },
+        {
+          "platform": "nes",
+          "crc": "c886db3d"
+        },
+        {
+          "platform": "nes",
+          "crc": "c8f203f9"
+        },
+        {
+          "platform": "nes",
+          "crc": "e651c16b"
+        },
+        {
+          "platform": "nes",
+          "crc": "f085eedf"
+        },
+        {
+          "platform": "nes",
+          "crc": "faa79dd5"
+        },
+        {
+          "platform": "nes",
+          "crc": "fb3ff1cb"
+        },
+        {
+          "platform": "nes",
+          "crc": "2c5908a7"
+        },
+        {
+          "platform": "nes",
+          "crc": "af14702d"
+        },
+        {
+          "platform": "nes",
+          "crc": "09cb5995"
+        },
+        {
+          "platform": "nes",
+          "crc": "dafafa5f"
+        },
+        {
+          "platform": "nes",
+          "crc": "995b3fff"
+        },
+        {
+          "platform": "nes",
+          "crc": "f8a713be"
+        },
+        {
+          "platform": "nes",
+          "crc": "371528bf"
+        },
+        {
+          "platform": "nes",
+          "crc": "4f68a62d"
+        },
+        {
+          "platform": "nes",
+          "crc": "771c8855"
+        },
+        {
+          "platform": "nes",
+          "crc": "8cacca85"
+        },
+        {
+          "platform": "nes",
+          "crc": "cca56a6f"
+        },
+        {
+          "platform": "nes",
+          "crc": "f4d14417"
+        },
+        {
+          "platform": "nes",
+          "crc": "0e945fa1"
+        },
+        {
+          "platform": "nes",
+          "crc": "71c39b3b"
+        },
+        {
+          "platform": "nes",
+          "crc": "3cf749de"
+        },
+        {
+          "platform": "nes",
+          "crc": "4fbbe319"
+        },
+        {
+          "platform": "nes",
+          "crc": "5301f57e"
+        },
+        {
+          "platform": "nes",
+          "crc": "5dbd6099"
+        },
+        {
+          "platform": "nes",
+          "crc": "6b761858"
+        },
+        {
+          "platform": "nes",
+          "crc": "a124ab1f"
+        },
+        {
+          "platform": "nes",
+          "crc": "b322289f"
+        },
+        {
+          "platform": "nes",
+          "crc": "c06e8258"
+        },
+        {
+          "platform": "nes",
+          "crc": "168680b5"
+        },
+        {
+          "platform": "nes",
+          "crc": "67751094"
+        },
+        {
+          "platform": "nes",
+          "crc": "8373021e"
+        },
+        {
+          "platform": "nes",
+          "crc": "bc9bffcb"
+        },
+        {
+          "platform": "nes",
+          "crc": "ed805bc0"
+        },
+        {
+          "platform": "nes",
+          "crc": "f280923f"
+        },
+        {
+          "platform": "nes",
+          "crc": "6e85d8dd"
+        },
+        {
+          "platform": "nes",
+          "crc": "921c135b"
+        },
+        {
+          "platform": "nes",
+          "crc": "a0fb921e"
+        },
+        {
+          "platform": "nes",
+          "crc": "a4ac4a21"
+        },
+        {
+          "platform": "nes",
+          "crc": "f2ce3641"
+        },
+        {
+          "platform": "nes",
+          "crc": "f699ee7e"
+        },
+        {
+          "platform": "nes",
+          "crc": "b3210ed5"
+        },
+        {
+          "platform": "nes",
+          "crc": "c94bda95"
+        },
+        {
+          "platform": "nes",
+          "crc": "07135006"
+        },
+        {
+          "platform": "nes",
+          "crc": "23380680"
+        },
+        {
+          "platform": "nes",
+          "crc": "489ef6a2"
+        },
+        {
+          "platform": "nes",
+          "crc": "4d345422"
+        },
+        {
+          "platform": "nes",
+          "crc": "a1c13577"
+        },
+        {
+          "platform": "nes",
+          "crc": "fb8a9b80"
+        },
+        {
+          "platform": "nes",
+          "crc": "8a7d0abe"
+        },
+        {
+          "platform": "nes",
+          "crc": "9dbd5dfb"
+        },
+        {
+          "platform": "nes",
+          "crc": "542911d0"
+        },
+        {
+          "platform": "nes",
+          "crc": "a8b0da56"
+        },
+        {
+          "platform": "nes",
+          "crc": "37d927a2"
+        },
+        {
+          "platform": "nes",
+          "crc": "6127a283"
+        },
+        {
+          "platform": "nes",
+          "crc": "63e992ac"
+        },
+        {
+          "platform": "nes",
+          "crc": "759418d2"
+        },
+        {
+          "platform": "nes",
+          "crc": "5b837e8d"
+        },
+        {
+          "platform": "nes",
+          "crc": "711347ea"
+        },
+        {
+          "platform": "nes",
+          "crc": "a71ab50b"
+        },
+        {
+          "platform": "nes",
+          "crc": "cbf4366f"
+        },
+        {
+          "platform": "nes",
+          "crc": "2c31447e"
+        },
+        {
+          "platform": "nes",
+          "crc": "4c8f5d3e"
+        },
+        {
+          "platform": "nes",
+          "crc": "976893d2"
+        },
+        {
+          "platform": "nes",
+          "crc": "dbf90772"
+        },
+        {
+          "platform": "nes",
+          "crc": "467a3680"
+        },
+        {
+          "platform": "nes",
+          "crc": "e2b43a68"
+        },
+        {
+          "platform": "nes",
+          "crc": "1973aea8"
+        },
+        {
+          "platform": "nes",
+          "crc": "e5ea652e"
+        },
+        {
+          "platform": "nes",
+          "crc": "8b7d3c75"
+        },
+        {
+          "platform": "nes",
+          "crc": "99a9f57e"
+        },
+        {
+          "platform": "nes",
+          "crc": "d54f3ffc"
+        },
+        {
+          "platform": "nes",
+          "crc": "ebb47b17"
+        },
+        {
+          "platform": "nes",
+          "crc": "3ecd1c11"
+        },
+        {
+          "platform": "nes",
+          "crc": "457e3a75"
+        },
+        {
+          "platform": "nes",
+          "crc": "57cafd51"
+        },
+        {
+          "platform": "nes",
+          "crc": "9a0310f9"
+        },
+        {
+          "platform": "nes",
+          "crc": "e1b0369d"
+        },
+        {
+          "platform": "nes",
+          "crc": "f304f1b9"
+        },
+        {
+          "platform": "nes",
+          "crc": "32fb0583"
+        },
+        {
+          "platform": "nes",
+          "crc": "3c9bdcfb"
+        },
+        {
+          "platform": "nes",
+          "crc": "512fbde7"
+        },
+        {
+          "platform": "nes",
+          "crc": "757488e0"
+        },
+        {
+          "platform": "nes",
+          "crc": "7e680bb9"
+        },
+        {
+          "platform": "nes",
+          "crc": "a6ef77e2"
+        },
+        {
+          "platform": "nes",
+          "crc": "b52a3b7b"
+        },
+        {
+          "platform": "nes",
+          "crc": "d89e5a67"
+        },
+        {
+          "platform": "nes",
+          "crc": "0f141525"
+        },
+        {
+          "platform": "nes",
+          "crc": "2c84bd1b"
+        },
+        {
+          "platform": "nes",
+          "crc": "4ac24382"
+        },
+        {
+          "platform": "nes",
+          "crc": "5bbb7c20"
+        },
+        {
+          "platform": "nes",
+          "crc": "a82282ea"
+        },
+        {
+          "platform": "nes",
+          "crc": "fc8debef"
+        },
+        {
+          "platform": "snes",
+          "crc": "f2ee11f9"
+        },
+        {
+          "platform": "snes",
+          "crc": "27ff5ba1"
+        },
+        {
+          "platform": "snes",
+          "crc": "946313fb"
+        },
+        {
+          "platform": "snes",
+          "crc": "2e8034ab"
+        },
+        {
+          "platform": "snes",
+          "crc": "6f563adf"
+        },
+        {
+          "platform": "snes",
+          "crc": "82497f19"
+        },
+        {
+          "platform": "snes",
+          "crc": "cd80351c"
+        },
+        {
+          "platform": "snes",
+          "crc": "153a00a7"
+        },
+        {
+          "platform": "snes",
+          "crc": "644e7fbf"
+        },
+        {
+          "platform": "snes",
+          "crc": "64d68066"
+        },
+        {
+          "platform": "snes",
+          "crc": "a92f1505"
+        },
+        {
+          "platform": "snes",
+          "crc": "96b0c568"
+        },
+        {
+          "platform": "snes",
+          "crc": "b3ef81f5"
+        },
+        {
+          "platform": "snes",
+          "crc": "7448d45c"
+        },
+        {
+          "platform": "snes",
+          "crc": "f194d00a"
+        },
+        {
+          "platform": "snes",
+          "crc": "4cf5d45f"
+        },
+        {
+          "platform": "snes",
+          "crc": "d0550624"
+        },
+        {
+          "platform": "snes",
+          "crc": "2c2503a0"
+        },
+        {
+          "platform": "snes",
+          "crc": "e344627b"
+        },
+        {
+          "platform": "snes",
+          "crc": "1803cf20"
+        },
+        {
+          "platform": "snes",
+          "crc": "a31d1f58"
+        },
+        {
+          "platform": "snes",
+          "crc": "82f7f710"
+        },
+        {
+          "platform": "snes",
+          "crc": "76b151fd"
+        },
+        {
+          "platform": "snes",
+          "crc": "2d7d6973"
+        },
+        {
+          "platform": "snes",
+          "crc": "c28a80f6"
+        },
+        {
+          "platform": "snes",
+          "crc": "cf0f14d2"
+        },
+        {
+          "platform": "snes",
+          "crc": "d93e07a8"
+        },
+        {
+          "platform": "snes",
+          "crc": "2aa7777b"
+        },
+        {
+          "platform": "snes",
+          "crc": "51a5f489"
+        },
+        {
+          "platform": "snes",
+          "crc": "d239398f"
+        },
+        {
+          "platform": "snes",
+          "crc": "f73a6e33"
+        },
+        {
+          "platform": "snes",
+          "crc": "d436489b"
+        },
+        {
+          "platform": "snes",
+          "crc": "143051a5"
+        },
+        {
+          "platform": "snes",
+          "crc": "9fa74067"
+        },
+        {
+          "platform": "snes",
+          "crc": "6b54be97"
+        },
+        {
+          "platform": "snes",
+          "crc": "5ddedc28"
+        },
+        {
+          "platform": "snes",
+          "crc": "766dc9d9"
+        },
+        {
+          "platform": "snes",
+          "crc": "83af6152"
+        },
+        {
+          "platform": "snes",
+          "crc": "a0677d80"
+        },
+        {
+          "platform": "snes",
+          "crc": "b0a02734"
+        },
+        {
+          "platform": "snes",
+          "crc": "f43f6743"
+        },
+        {
+          "platform": "snes",
+          "crc": "f812b533"
+        },
+        {
+          "platform": "snes",
+          "crc": "9b5d585d"
+        },
+        {
+          "platform": "snes",
+          "crc": "1c058b7d"
+        },
+        {
+          "platform": "snes",
+          "crc": "50e09e71"
+        },
+        {
+          "platform": "snes",
+          "crc": "3b73610e"
+        },
+        {
+          "platform": "snes",
+          "crc": "4967e667"
+        },
+        {
+          "platform": "snes",
+          "crc": "6288d8ed"
+        },
+        {
+          "platform": "snes",
+          "crc": "8da10d61"
+        },
+        {
+          "platform": "snes",
+          "crc": "903348f5"
+        },
+        {
+          "platform": "snes",
+          "crc": "b9770c4d"
+        },
+        {
+          "platform": "snes",
+          "crc": "d9b5e9cf"
+        },
+        {
+          "platform": "snes",
+          "crc": "42f98e71"
+        },
+        {
+          "platform": "snes",
+          "crc": "5bed3661"
+        },
+        {
+          "platform": "snes",
+          "crc": "9ce7d5ba"
+        },
+        {
+          "platform": "snes",
+          "crc": "e87dfdf6"
+        },
+        {
+          "platform": "snes",
+          "crc": "205654dd"
+        },
+        {
+          "platform": "snes",
+          "crc": "9f2ba6a9"
+        },
+        {
+          "platform": "snes",
+          "crc": "b9cd2ff3"
+        },
+        {
+          "platform": "snes",
+          "crc": "d458c07e"
+        },
+        {
+          "platform": "snes",
+          "crc": "d933bd8d"
+        },
+        {
+          "platform": "snes",
+          "crc": "11e5bc5e"
+        },
+        {
+          "platform": "snes",
+          "crc": "59c00310"
+        },
+        {
+          "platform": "snes",
+          "crc": "54901522"
+        },
+        {
+          "platform": "snes",
+          "crc": "8cac063c"
+        },
+        {
+          "platform": "gb",
+          "crc": "28fa451e"
+        },
+        {
+          "platform": "gb",
+          "crc": "4c749c14"
+        },
+        {
+          "platform": "gb",
+          "crc": "c170a732"
+        },
+        {
+          "platform": "gb",
+          "crc": "37949272"
+        },
+        {
+          "platform": "gb",
+          "crc": "7e054a88"
+        },
+        {
+          "platform": "gb",
+          "crc": "a260e5ce"
+        },
+        {
+          "platform": "gb",
+          "crc": "64f4fa44"
+        },
+        {
+          "platform": "gb",
+          "crc": "783066cf"
+        },
+        {
+          "platform": "gb",
+          "crc": "5d461374"
+        },
+        {
+          "platform": "gb",
+          "crc": "dfa3b28a"
+        },
+        {
+          "platform": "gb",
+          "crc": "f6fd275e"
+        },
+        {
+          "platform": "gb",
+          "crc": "c0049d77"
+        },
+        {
+          "platform": "gb",
+          "crc": "1089098f"
+        },
+        {
+          "platform": "gb",
+          "crc": "2e19f638"
+        },
+        {
+          "platform": "gb",
+          "crc": "3b9c3bc6"
+        },
+        {
+          "platform": "gb",
+          "crc": "3cab28d9"
+        },
+        {
+          "platform": "gb",
+          "crc": "e884682b"
+        },
+        {
+          "platform": "gb",
+          "crc": "5cc01586"
+        },
+        {
+          "platform": "gb",
+          "crc": "3011d5ca"
+        },
+        {
+          "platform": "gb",
+          "crc": "82d4664c"
+        },
+        {
+          "platform": "gb",
+          "crc": "673c815d"
+        },
+        {
+          "platform": "gb",
+          "crc": "7b23e05c"
+        },
+        {
+          "platform": "gb",
+          "crc": "6a6ecfec"
+        },
+        {
+          "platform": "gb",
+          "crc": "d06b3f8a"
+        },
+        {
+          "platform": "gb",
+          "crc": "0050b16f"
+        },
+        {
+          "platform": "gb",
+          "crc": "097ffe2c"
+        },
+        {
+          "platform": "gb",
+          "crc": "6ccfee1f"
+        },
+        {
+          "platform": "gb",
+          "crc": "a4cc3c3a"
+        },
+        {
+          "platform": "gb",
+          "crc": "5143e227"
+        },
+        {
+          "platform": "gb",
+          "crc": "b1fd41d0"
+        },
+        {
+          "platform": "gb",
+          "crc": "bfa1d7be"
+        },
+        {
+          "platform": "gb",
+          "crc": "c1f88833"
+        },
+        {
+          "platform": "gb",
+          "crc": "eb31e472"
+        },
+        {
+          "platform": "gb",
+          "crc": "c4720897"
+        },
+        {
+          "platform": "gb",
+          "crc": "23068679"
+        },
+        {
+          "platform": "gb",
+          "crc": "b5b38860"
+        },
+        {
+          "platform": "gb",
+          "crc": "cf2ba5f7"
+        },
+        {
+          "platform": "gb",
+          "crc": "3f73fe7a"
+        },
+        {
+          "platform": "gb",
+          "crc": "46a001c0"
+        },
+        {
+          "platform": "gb",
+          "crc": "d88d5ab5"
+        },
+        {
+          "platform": "gb",
+          "crc": "d4b655ec"
+        },
+        {
+          "platform": "gb",
+          "crc": "3d13ec6a"
+        },
+        {
+          "platform": "gb",
+          "crc": "4660e0ab"
+        },
+        {
+          "platform": "gb",
+          "crc": "94c26cdf"
+        },
+        {
+          "platform": "gb",
+          "crc": "5546a382"
+        },
+        {
+          "platform": "gb",
+          "crc": "6eea2526"
+        },
+        {
+          "platform": "gb",
+          "crc": "c8e578bf"
+        },
+        {
+          "platform": "gb",
+          "crc": "c2fd6244"
+        },
+        {
+          "platform": "gb",
+          "crc": "ef3592cc"
+        },
+        {
+          "platform": "gb",
+          "crc": "5124bbec"
+        },
+        {
+          "platform": "gb",
+          "crc": "de459a47"
+        },
+        {
+          "platform": "gb",
+          "crc": "6c41d3cd"
+        },
+        {
+          "platform": "gb",
+          "crc": "2d0c1073"
+        },
+        {
+          "platform": "gb",
+          "crc": "ce34cca4"
+        },
+        {
+          "platform": "gbc",
+          "crc": "87431672"
+        },
+        {
+          "platform": "gbc",
+          "crc": "c23d33c9"
+        },
+        {
+          "platform": "gbc",
+          "crc": "6f9ef15e"
+        },
+        {
+          "platform": "gbc",
+          "crc": "3199f65f"
+        },
+        {
+          "platform": "gbc",
+          "crc": "85545d81"
+        },
+        {
+          "platform": "gbc",
+          "crc": "4839e0c1"
+        },
+        {
+          "platform": "gbc",
+          "crc": "dc0be439"
+        },
+        {
+          "platform": "gbc",
+          "crc": "f287fc49"
+        },
+        {
+          "platform": "gbc",
+          "crc": "f03599a3"
+        },
+        {
+          "platform": "gbc",
+          "crc": "6628cdee"
+        },
+        {
+          "platform": "gbc",
+          "crc": "56d61ded"
+        },
+        {
+          "platform": "gbc",
+          "crc": "89d5d936"
+        },
+        {
+          "platform": "gbc",
+          "crc": "7ded5c71"
+        },
+        {
+          "platform": "gbc",
+          "crc": "a9050f72"
+        },
+        {
+          "platform": "gbc",
+          "crc": "09ee93a8"
+        },
+        {
+          "platform": "gbc",
+          "crc": "57f1a202"
+        },
+        {
+          "platform": "gbc",
+          "crc": "746936c6"
+        },
+        {
+          "platform": "gbc",
+          "crc": "fdc8e7f1"
+        },
+        {
+          "platform": "gbc",
+          "crc": "51efcd7b"
+        },
+        {
+          "platform": "gbc",
+          "crc": "b32f4586"
+        },
+        {
+          "platform": "gbc",
+          "crc": "b8b1f8f8"
+        },
+        {
+          "platform": "gbc",
+          "crc": "2fcecb70"
+        },
+        {
+          "platform": "gbc",
+          "crc": "4431f8e7"
+        },
+        {
+          "platform": "gbc",
+          "crc": "0d9cb195"
+        },
+        {
+          "platform": "gbc",
+          "crc": "748d1345"
+        },
+        {
+          "platform": "gbc",
+          "crc": "f89f58b7"
+        },
+        {
+          "platform": "gbc",
+          "crc": "93fa37bd"
+        },
+        {
+          "platform": "gbc",
+          "crc": "a8ebd88b"
+        },
+        {
+          "platform": "gbc",
+          "crc": "ea33fe3d"
+        },
+        {
+          "platform": "gbc",
+          "crc": "f319e823"
+        },
+        {
+          "platform": "gbc",
+          "crc": "84e29b87"
+        },
+        {
+          "platform": "gbc",
+          "crc": "5edd88b5"
+        },
+        {
+          "platform": "gbc",
+          "crc": "c775d653"
+        },
+        {
+          "platform": "gbc",
+          "crc": "daefe53c"
+        },
+        {
+          "platform": "gbc",
+          "crc": "e6b9f155"
+        },
+        {
+          "platform": "gbc",
+          "crc": "d20dc670"
+        },
+        {
+          "platform": "gbc",
+          "crc": "12f0c196"
+        },
+        {
+          "platform": "gbc",
+          "crc": "41e78645"
+        },
+        {
+          "platform": "gbc",
+          "crc": "e8dfae9d"
+        },
+        {
+          "platform": "gbc",
+          "crc": "13ad07b1"
+        },
+        {
+          "platform": "gbc",
+          "crc": "255db8be"
+        },
+        {
+          "platform": "gbc",
+          "crc": "8e523f2a"
+        },
+        {
+          "platform": "gbc",
+          "crc": "1c13dbb0"
+        },
+        {
+          "platform": "gbc",
+          "crc": "e40e99bd"
+        },
+        {
+          "platform": "gbc",
+          "crc": "5381b103"
+        },
+        {
+          "platform": "gbc",
+          "crc": "420db35c"
+        },
+        {
+          "platform": "gbc",
+          "crc": "1975c599"
+        },
+        {
+          "platform": "gbc",
+          "crc": "4664a167"
+        },
+        {
+          "platform": "gbc",
+          "crc": "fc3db421"
+        },
+        {
+          "platform": "gbc",
+          "crc": "9562e7e8"
+        },
+        {
+          "platform": "gba",
+          "crc": "43f5e157"
+        },
+        {
+          "platform": "gba",
+          "crc": "76da5c78"
+        },
+        {
+          "platform": "gba",
+          "crc": "d07214a2"
+        },
+        {
+          "platform": "gba",
+          "crc": "1527ca8c"
+        },
+        {
+          "platform": "gba",
+          "crc": "2487b85b"
+        },
+        {
+          "platform": "gba",
+          "crc": "c501917f"
+        },
+        {
+          "platform": "gba",
+          "crc": "dff47236"
+        },
+        {
+          "platform": "gba",
+          "crc": "f053ffbf"
+        },
+        {
+          "platform": "gba",
+          "crc": "9a4a509f"
+        },
+        {
+          "platform": "gba",
+          "crc": "6d174e28"
+        },
+        {
+          "platform": "gba",
+          "crc": "1e2e8937"
+        },
+        {
+          "platform": "gba",
+          "crc": "e8619031"
+        },
+        {
+          "platform": "gba",
+          "crc": "8919d82c"
+        },
+        {
+          "platform": "gba",
+          "crc": "b79472b8"
+        },
+        {
+          "platform": "gba",
+          "crc": "3168a9a4"
+        },
+        {
+          "platform": "gba",
+          "crc": "6e4030a1"
+        },
+        {
+          "platform": "gba",
+          "crc": "817fd31d"
+        },
+        {
+          "platform": "gba",
+          "crc": "b98de3a4"
+        },
+        {
+          "platform": "gba",
+          "crc": "29d23835"
+        },
+        {
+          "platform": "gba",
+          "crc": "46f21e41"
+        },
+        {
+          "platform": "gba",
+          "crc": "4b58b5d6"
+        },
+        {
+          "platform": "gba",
+          "crc": "5661e71a"
+        },
+        {
+          "platform": "gba",
+          "crc": "ae6cf631"
+        },
+        {
+          "platform": "gba",
+          "crc": "bd807770"
+        },
+        {
+          "platform": "gba",
+          "crc": "db6160eb"
+        },
+        {
+          "platform": "gba",
+          "crc": "4e8a650c"
+        },
+        {
+          "platform": "gba",
+          "crc": "5c704cbe"
+        },
+        {
+          "platform": "gba",
+          "crc": "7ca7aa12"
+        },
+        {
+          "platform": "gba",
+          "crc": "9c0abddb"
+        },
+        {
+          "platform": "gba",
+          "crc": "cee6904e"
+        },
+        {
+          "platform": "gba",
+          "crc": "a04be1ed"
+        },
+        {
+          "platform": "gba",
+          "crc": "812ef3a9"
+        },
+        {
+          "platform": "gba",
+          "crc": "f0760400"
+        },
+        {
+          "platform": "gba",
+          "crc": "72a55741"
+        },
+        {
+          "platform": "gba",
+          "crc": "021cda8e"
+        },
+        {
+          "platform": "gba",
+          "crc": "443198d8"
+        },
+        {
+          "platform": "gba",
+          "crc": "886121a8"
+        },
+        {
+          "platform": "gba",
+          "crc": "cfe69825"
+        },
+        {
+          "platform": "gba",
+          "crc": "342de1d6"
+        },
+        {
+          "platform": "gba",
+          "crc": "6220a4b8"
+        },
+        {
+          "platform": "gba",
+          "crc": "fd814097"
+        },
+        {
+          "platform": "gba",
+          "crc": "be9fd5e7"
+        },
+        {
+          "platform": "gba",
+          "crc": "dfa1a201"
+        },
+        {
+          "platform": "gba",
+          "crc": "feec503c"
+        },
+        {
+          "platform": "gba",
+          "crc": "066a2705"
+        },
+        {
+          "platform": "gba",
+          "crc": "9f905e60"
+        },
+        {
+          "platform": "gba",
+          "crc": "ddaf8bac"
+        },
+        {
+          "platform": "gba",
+          "crc": "13c2249e"
+        },
+        {
+          "platform": "gba",
+          "crc": "a5dbe5ae"
+        },
+        {
+          "platform": "gba",
+          "crc": "1adb373d"
+        },
+        {
+          "platform": "gba",
+          "crc": "8658bb4f"
+        },
+        {
+          "platform": "gba",
+          "crc": "ba511fb2"
+        },
+        {
+          "platform": "gba",
+          "crc": "06abacc5"
+        },
+        {
+          "platform": "gba",
+          "crc": "25b0e933"
+        },
+        {
+          "platform": "gba",
+          "crc": "27e7fd09"
+        },
+        {
+          "platform": "gba",
+          "crc": "55ef8392"
+        },
+        {
+          "platform": "gba",
+          "crc": "4b22e081"
+        },
+        {
+          "platform": "gba",
+          "crc": "5749fdc9"
+        },
+        {
+          "platform": "gba",
+          "crc": "04836c4d"
+        },
+        {
+          "platform": "gba",
+          "crc": "057fb1b6"
+        },
+        {
+          "platform": "gba",
+          "crc": "2c8c1b5a"
+        },
+        {
+          "platform": "gba",
+          "crc": "8ab607c0"
+        }
+      ]
+    }
+  ]
+}
