@@ -748,7 +748,7 @@
       "platformName": "NEC TurboGrafx-16",
       "platformShortname": "tg16",
       "platformUniqueId": "tg16",
-      "revisionNumber": 12
+      "revisionNumber": 13
     },
     {
       "filename": "TurboGrafxCD.json",
